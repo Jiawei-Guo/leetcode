@@ -1,0 +1,148 @@
+{"id": 1, "title": "Two Sum", "relate": ["3Sum", "4Sum", "Two Sum II - Input Array Is Sorted", "Subarray Sum Equals K"], "level": ["Medium", "Medium", "Medium", "Medium"]}
+{"id": 9, "title": "Palindrome Number", "relate": [], "level": []}
+{"id": 13, "title": "Roman to Integer", "relate": ["Integer to Roman"], "level": ["Medium"]}
+{"id": 20, "title": "Valid Parentheses", "relate": ["Generate Parentheses", "Check If Word Is Valid After Substitutions"], "level": ["Medium", "Medium"]}
+{"id": 21, "title": "Merge Two Sorted Lists", "relate": ["Sort List", "Shortest Word Distance II"], "level": ["Medium", "Medium"]}
+{"id": 26, "title": "Remove Duplicates from Sorted Array", "relate": ["Remove Duplicates from Sorted Array II"], "level": ["Medium"]}
+{"id": 27, "title": "Remove Element", "relate": [], "level": []}
+{"id": 28, "title": "Find the Index of the First Occurrence in a String", "relate": [], "level": []}
+{"id": 35, "title": "Search Insert Position", "relate": [], "level": []}
+{"id": 66, "title": "Plus One", "relate": ["Multiply Strings", "Plus One Linked List"], "level": ["Medium", "Medium"]}
+{"id": 67, "title": "Add Binary", "relate": ["Add Two Numbers", "Multiply Strings"], "level": ["Medium", "Medium"]}
+{"id": 69, "title": "Sqrt(x)", "relate": ["Pow(x, n)"], "level": ["Medium"]}
+{"id": 70, "title": "Climbing Stairs", "relate": [], "level": []}
+{"id": 83, "title": "Remove Duplicates from Sorted List", "relate": ["Remove Duplicates from Sorted List II"], "level": ["Medium"]}
+{"id": 88, "title": "Merge Sorted Array", "relate": ["Interval List Intersections"], "level": ["Medium"]}
+{"id": 94, "title": "Binary Tree Inorder Traversal", "relate": ["Validate Binary Search Tree", "Binary Search Tree Iterator", "Kth Smallest Element in a BST", "Inorder Successor in BST", "Convert Binary Search Tree to Sorted Doubly Linked List"], "level": ["Medium", "Medium", "Medium", "Medium", "Medium"]}
+{"id": 104, "title": "Maximum Depth of Binary Tree", "relate": [], "level": []}
+{"id": 108, "title": "Convert Sorted Array to Binary Search Tree", "relate": ["Convert Sorted List to Binary Search Tree"], "level": ["Medium"]}
+{"id": 110, "title": "Balanced Binary Tree", "relate": [], "level": []}
+{"id": 111, "title": "Minimum Depth of Binary Tree", "relate": ["Binary Tree Level Order Traversal"], "level": ["Medium"]}
+{"id": 112, "title": "Path Sum", "relate": ["Path Sum II", "Sum Root to Leaf Numbers", "Path Sum III", "Path Sum IV"], "level": ["Medium", "Medium", "Medium", "Medium"]}
+{"id": 118, "title": "Pascal's Triangle", "relate": [], "level": []}
+{"id": 119, "title": "Pascal's Triangle II", "relate": [], "level": []}
+{"id": 121, "title": "Best Time to Buy and Sell Stock", "relate": ["Maximum Subarray", "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock with Cooldown"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 125, "title": "Valid Palindrome", "relate": [], "level": []}
+{"id": 136, "title": "Single Number", "relate": ["Single Number II", "Single Number III", "Find the Duplicate Number"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 141, "title": "Linked List Cycle", "relate": ["Linked List Cycle II"], "level": ["Medium"]}
+{"id": 144, "title": "Binary Tree Preorder Traversal", "relate": ["Verify Preorder Sequence in Binary Search Tree"], "level": ["Medium"]}
+{"id": 145, "title": "Binary Tree Postorder Traversal", "relate": [], "level": []}
+{"id": 157, "title": "Read N Characters Given Read4", "relate": [], "level": []}
+{"id": 160, "title": "Intersection of Two Linked Lists", "relate": [], "level": []}
+{"id": 163, "title": "Missing Ranges", "relate": [], "level": []}
+{"id": 168, "title": "Excel Sheet Column Title", "relate": [], "level": []}
+{"id": 169, "title": "Majority Element", "relate": ["Majority Element II"], "level": ["Medium"]}
+{"id": 170, "title": "Two Sum III - Data structure design", "relate": ["Unique Word Abbreviation"], "level": ["Medium"]}
+{"id": 171, "title": "Excel Sheet Column Number", "relate": [], "level": []}
+{"id": 190, "title": "Reverse Bits", "relate": ["Reverse Integer"], "level": ["Medium"]}
+{"id": 191, "title": "Number of 1 Bits", "relate": [], "level": []}
+{"id": 202, "title": "Happy Number", "relate": [], "level": []}
+{"id": 203, "title": "Remove Linked List Elements", "relate": ["Delete Node in a Linked List"], "level": ["Medium"]}
+{"id": 205, "title": "Isomorphic Strings", "relate": [], "level": []}
+{"id": 206, "title": "Reverse Linked List", "relate": ["Reverse Linked List II", "Binary Tree Upside Down"], "level": ["Medium", "Medium"]}
+{"id": 217, "title": "Contains Duplicate", "relate": [], "level": []}
+{"id": 219, "title": "Contains Duplicate II", "relate": [], "level": []}
+{"id": 225, "title": "Implement Stack using Queues", "relate": [], "level": []}
+{"id": 228, "title": "Summary Ranges", "relate": [], "level": []}
+{"id": 231, "title": "Power of Two", "relate": [], "level": []}
+{"id": 232, "title": "Implement Queue using Stacks", "relate": [], "level": []}
+{"id": 234, "title": "Palindrome Linked List", "relate": [], "level": []}
+{"id": 242, "title": "Valid Anagram", "relate": ["Group Anagrams", "Find All Anagrams in a String"], "level": ["Medium", "Medium"]}
+{"id": 243, "title": "Shortest Word Distance", "relate": ["Shortest Word Distance II", "Shortest Word Distance III"], "level": ["Medium", "Medium"]}
+{"id": 246, "title": "Strobogrammatic Number", "relate": ["Strobogrammatic Number II"], "level": ["Medium"]}
+{"id": 252, "title": "Meeting Rooms", "relate": ["Merge Intervals", "Meeting Rooms II"], "level": ["Medium", "Medium"]}
+{"id": 257, "title": "Binary Tree Paths", "relate": ["Path Sum II", "Smallest String Starting From Leaf"], "level": ["Medium", "Medium"]}
+{"id": 258, "title": "Add Digits", "relate": [], "level": []}
+{"id": 263, "title": "Ugly Number", "relate": ["Count Primes", "Ugly Number II"], "level": ["Medium", "Medium"]}
+{"id": 266, "title": "Palindrome Permutation", "relate": ["Longest Palindromic Substring", "Palindrome Permutation II"], "level": ["Medium", "Medium"]}
+{"id": 268, "title": "Missing Number", "relate": ["Find the Duplicate Number"], "level": ["Medium"]}
+{"id": 278, "title": "First Bad Version", "relate": ["Find First and Last Position of Element in Sorted Array"], "level": ["Medium"]}
+{"id": 283, "title": "Move Zeroes", "relate": [], "level": []}
+{"id": 290, "title": "Word Pattern", "relate": ["Word Pattern II"], "level": ["Medium"]}
+{"id": 292, "title": "Nim Game", "relate": ["Flip Game II"], "level": ["Medium"]}
+{"id": 293, "title": "Flip Game", "relate": ["Flip Game II"], "level": ["Medium"]}
+{"id": 303, "title": "Range Sum Query - Immutable", "relate": ["Range Sum Query 2D - Immutable", "Range Sum Query - Mutable", "Maximum Size Subarray Sum Equals k"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 326, "title": "Power of Three", "relate": [], "level": []}
+{"id": 338, "title": "Counting Bits", "relate": [], "level": []}
+{"id": 342, "title": "Power of Four", "relate": [], "level": []}
+{"id": 344, "title": "Reverse String", "relate": [], "level": []}
+{"id": 345, "title": "Reverse Vowels of a String", "relate": [], "level": []}
+{"id": 349, "title": "Intersection of Two Arrays", "relate": [], "level": []}
+{"id": 350, "title": "Intersection of Two Arrays II", "relate": [], "level": []}
+{"id": 359, "title": "Logger Rate Limiter", "relate": ["Design Hit Counter"], "level": ["Medium"]}
+{"id": 367, "title": "Valid Perfect Square", "relate": ["Sum of Square Numbers"], "level": ["Medium"]}
+{"id": 374, "title": "Guess Number Higher or Lower", "relate": ["Guess Number Higher or Lower II", "Find K Closest Elements"], "level": ["Medium", "Medium"]}
+{"id": 383, "title": "Ransom Note", "relate": [], "level": []}
+{"id": 387, "title": "First Unique Character in a String", "relate": ["Sort Characters By Frequency"], "level": ["Medium"]}
+{"id": 389, "title": "Find the Difference", "relate": [], "level": []}
+{"id": 392, "title": "Is Subsequence", "relate": ["Number of Matching Subsequences", "Shortest Way to Form String"], "level": ["Medium", "Medium"]}
+{"id": 401, "title": "Binary Watch", "relate": ["Letter Combinations of a Phone Number"], "level": ["Medium"]}
+{"id": 408, "title": "Valid Word Abbreviation", "relate": [], "level": []}
+{"id": 409, "title": "Longest Palindrome", "relate": [], "level": []}
+{"id": 414, "title": "Third Maximum Number", "relate": ["Kth Largest Element in an Array"], "level": ["Medium"]}
+{"id": 415, "title": "Add Strings", "relate": ["Add Two Numbers", "Multiply Strings"], "level": ["Medium", "Medium"]}
+{"id": 422, "title": "Valid Word Square", "relate": [], "level": []}
+{"id": 448, "title": "Find All Numbers Disappeared in an Array", "relate": ["Find All Duplicates in an Array"], "level": ["Medium"]}
+{"id": 459, "title": "Repeated Substring Pattern", "relate": ["Repeated String Match"], "level": ["Medium"]}
+{"id": 461, "title": "Hamming Distance", "relate": ["Total Hamming Distance"], "level": ["Medium"]}
+{"id": 463, "title": "Island Perimeter", "relate": ["Max Area of Island", "Coloring A Border"], "level": ["Medium", "Medium"]}
+{"id": 485, "title": "Max Consecutive Ones", "relate": ["Max Consecutive Ones II", "Max Consecutive Ones III"], "level": ["Medium", "Medium"]}
+{"id": 495, "title": "Teemo Attacking", "relate": ["Merge Intervals", "Dota2 Senate"], "level": ["Medium", "Medium"]}
+{"id": 496, "title": "Next Greater Element I", "relate": ["Next Greater Element II", "Next Greater Element III", "Daily Temperatures"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 501, "title": "Find Mode in Binary Search Tree", "relate": ["Validate Binary Search Tree"], "level": ["Medium"]}
+{"id": 507, "title": "Perfect Number", "relate": [], "level": []}
+{"id": 509, "title": "Fibonacci Number", "relate": ["Split Array into Fibonacci Sequence", "Length of Longest Fibonacci Subsequence"], "level": ["Medium", "Medium"]}
+{"id": 521, "title": "Longest Uncommon Subsequence I", "relate": ["Longest Uncommon Subsequence II"], "level": ["Medium"]}
+{"id": 530, "title": "Minimum Absolute Difference in BST", "relate": ["K-diff Pairs in an Array"], "level": ["Medium"]}
+{"id": 541, "title": "Reverse String II", "relate": [], "level": []}
+{"id": 551, "title": "Student Attendance Record I", "relate": [], "level": []}
+{"id": 557, "title": "Reverse Words in a String III", "relate": [], "level": []}
+{"id": 559, "title": "Maximum Depth of N-ary Tree", "relate": [], "level": []}
+{"id": 572, "title": "Subtree of Another Tree", "relate": ["Count Univalue Subtrees", "Most Frequent Subtree Sum"], "level": ["Medium", "Medium"]}
+{"id": 589, "title": "N-ary Tree Preorder Traversal", "relate": ["N-ary Tree Level Order Traversal"], "level": ["Medium"]}
+{"id": 590, "title": "N-ary Tree Postorder Traversal", "relate": ["N-ary Tree Level Order Traversal"], "level": ["Medium"]}
+{"id": 598, "title": "Range Addition II", "relate": ["Range Addition"], "level": ["Medium"]}
+{"id": 599, "title": "Minimum Index Sum of Two Lists", "relate": [], "level": []}
+{"id": 604, "title": "Design Compressed String Iterator", "relate": ["LRU Cache", "String Compression"], "level": ["Medium", "Medium"]}
+{"id": 605, "title": "Can Place Flowers", "relate": ["Asteroid Collision"], "level": ["Medium"]}
+{"id": 606, "title": "Construct String from Binary Tree", "relate": ["Construct Binary Tree from String", "Find Duplicate Subtrees"], "level": ["Medium", "Medium"]}
+{"id": 628, "title": "Maximum Product of Three Numbers", "relate": ["Maximum Product Subarray"], "level": ["Medium"]}
+{"id": 637, "title": "Average of Levels in Binary Tree", "relate": ["Binary Tree Level Order Traversal", "Binary Tree Level Order Traversal II"], "level": ["Medium", "Medium"]}
+{"id": 643, "title": "Maximum Average Subarray I", "relate": [], "level": []}
+{"id": 645, "title": "Set Mismatch", "relate": ["Find the Duplicate Number"], "level": ["Medium"]}
+{"id": 653, "title": "Two Sum IV - Input is a BST", "relate": ["Two Sum II - Input Array Is Sorted", "Two Sum BSTs"], "level": ["Medium", "Medium"]}
+{"id": 657, "title": "Robot Return to Origin", "relate": ["Number of Provinces"], "level": ["Medium"]}
+{"id": 671, "title": "Second Minimum Node In a Binary Tree", "relate": ["Kth Smallest Element in a BST"], "level": ["Medium"]}
+{"id": 674, "title": "Longest Continuous Increasing Subsequence", "relate": ["Number of Longest Increasing Subsequence"], "level": ["Medium"]}
+{"id": 680, "title": "Valid Palindrome II", "relate": [], "level": []}
+{"id": 693, "title": "Binary Number with Alternating Bits", "relate": [], "level": []}
+{"id": 696, "title": "Count Binary Substrings", "relate": ["Encode and Decode Strings"], "level": ["Medium"]}
+{"id": 697, "title": "Degree of an Array", "relate": ["Maximum Subarray"], "level": ["Medium"]}
+{"id": 700, "title": "Search in a Binary Search Tree", "relate": ["Insert into a Binary Search Tree"], "level": ["Medium"]}
+{"id": 703, "title": "Kth Largest Element in a Stream", "relate": ["Kth Largest Element in an Array"], "level": ["Medium"]}
+{"id": 704, "title": "Binary Search", "relate": ["Search in a Sorted Array of Unknown Size"], "level": ["Medium"]}
+{"id": 705, "title": "Design HashSet", "relate": [], "level": []}
+{"id": 706, "title": "Design HashMap", "relate": [], "level": []}
+{"id": 717, "title": "1-bit and 2-bit Characters", "relate": ["Gray Code"], "level": ["Medium"]}
+{"id": 724, "title": "Find Pivot Index", "relate": ["Subarray Sum Equals K"], "level": ["Medium"]}
+{"id": 728, "title": "Self Dividing Numbers", "relate": [], "level": []}
+{"id": 733, "title": "Flood Fill", "relate": [], "level": []}
+{"id": 734, "title": "Sentence Similarity", "relate": ["Number of Provinces", "Accounts Merge", "Sentence Similarity II"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 746, "title": "Min Cost Climbing Stairs", "relate": [], "level": []}
+{"id": 762, "title": "Prime Number of Set Bits in Binary Representation", "relate": [], "level": []}
+{"id": 766, "title": "Toeplitz Matrix", "relate": [], "level": []}
+{"id": 783, "title": "Minimum Distance Between BST Nodes", "relate": [], "level": []}
+{"id": 812, "title": "Largest Triangle Area", "relate": [], "level": []}
+{"id": 836, "title": "Rectangle Overlap", "relate": ["Rectangle Area"], "level": ["Medium"]}
+{"id": 976, "title": "Largest Perimeter Triangle", "relate": [], "level": []}
+{"id": 977, "title": "Squares of a Sorted Array", "relate": ["Sort Transformed Array"], "level": ["Medium"]}
+{"id": 989, "title": "Add to Array-Form of Integer", "relate": ["Add Two Numbers"], "level": ["Medium"]}
+{"id": 997, "title": "Find the Town Judge", "relate": ["Find the Celebrity"], "level": ["Medium"]}
+{"id": 1002, "title": "Find Common Characters", "relate": [], "level": []}
+{"id": 1056, "title": "Confusing Number", "relate": [], "level": []}
+{"id": 1085, "title": "Sum of Digits in the Minimum Number", "relate": [], "level": []}
+{"id": 1099, "title": "Two Sum Less Than K", "relate": ["Two Sum II - Input Array Is Sorted", "3Sum Smaller", "Subarray Product Less Than K"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 1119, "title": "Remove Vowels from a String", "relate": [], "level": []}
+{"id": 1137, "title": "N-th Tribonacci Number", "relate": [], "level": []}
+{"id": 1150, "title": "Check If a Number Is Majority Element in a Sorted Array", "relate": ["Majority Element II"], "level": ["Medium"]}
+{"id": 1213, "title": "Intersection of Three Sorted Arrays", "relate": [], "level": []}
