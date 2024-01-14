@@ -1,0 +1,624 @@
+{"Easy": "Roman to Integer", "Medium": "Integer to Roman", "Hard": "Integer to English Words"}
+{"Easy": "Merge Sorted Array", "Medium": "Interval List Intersections", "Hard": "Employee Free Time"}
+{"Easy": "Path Sum", "Medium": "Sum Root to Leaf Numbers", "Hard": "Binary Tree Maximum Path Sum"}
+{"Easy": "Path Sum", "Medium": "Path Sum IV", "Hard": "Binary Tree Maximum Path Sum"}
+{"Easy": "Best Time to Buy and Sell Stock", "Medium": "Best Time to Buy and Sell Stock II", "Hard": "Best Time to Buy and Sell Stock III"}
+{"Easy": "Best Time to Buy and Sell Stock", "Medium": "Best Time to Buy and Sell Stock II", "Hard": "Best Time to Buy and Sell Stock IV"}
+{"Easy": "Single Number", "Medium": "Find the Duplicate Number", "Hard": "First Missing Positive"}
+{"Easy": "Strobogrammatic Number", "Medium": "Strobogrammatic Number II", "Hard": "Strobogrammatic Number III"}
+{"Easy": "Meeting Rooms", "Medium": "Merge Intervals", "Hard": "Range Module"}
+{"Easy": "Meeting Rooms", "Medium": "Merge Intervals", "Hard": "Employee Free Time"}
+{"Easy": "Ugly Number", "Medium": "Ugly Number II", "Hard": "Merge k Sorted Lists"}
+{"Easy": "Palindrome Permutation", "Medium": "Longest Palindromic Substring", "Hard": "Shortest Palindrome"}
+{"Easy": "Palindrome Permutation", "Medium": "Longest Palindromic Substring", "Hard": "Palindrome Pairs"}
+{"Easy": "Missing Number", "Medium": "Find the Duplicate Number", "Hard": "First Missing Positive"}
+{"Easy": "Range Sum Query - Immutable", "Medium": "Range Sum Query 2D - Immutable", "Hard": "Range Sum Query 2D - Mutable"}
+{"Easy": "Range Sum Query - Immutable", "Medium": "Range Sum Query - Mutable", "Hard": "Range Sum Query 2D - Mutable"}
+{"Easy": "Guess Number Higher or Lower", "Medium": "Find K Closest Elements", "Hard": "Find K-th Smallest Pair Distance"}
+{"Easy": "Teemo Attacking", "Medium": "Merge Intervals", "Hard": "Range Module"}
+{"Easy": "Teemo Attacking", "Medium": "Merge Intervals", "Hard": "Employee Free Time"}
+{"Easy": "Design Compressed String Iterator", "Medium": "LRU Cache", "Hard": "LFU Cache"}
+{"Easy": "Design Compressed String Iterator", "Medium": "LRU Cache", "Hard": "Design In-Memory File System"}
+{"Easy": "Construct String from Binary Tree", "Medium": "Find Duplicate Subtrees", "Hard": "Serialize and Deserialize Binary Tree"}
+{"Easy": "Set Mismatch", "Medium": "Find the Duplicate Number", "Hard": "First Missing Positive"}
+{"Easy": "Count Binary Substrings", "Medium": "Encode and Decode Strings", "Hard": "Serialize and Deserialize Binary Tree"}
+{"Easy": "Two Sum", "Medium": "3Sum"}
+{"Easy": "Two Sum", "Medium": "4Sum"}
+{"Easy": "Roman to Integer", "Medium": "Integer to Roman"}
+{"Easy": "Valid Parentheses", "Medium": "Generate Parentheses"}
+{"Easy": "Valid Parentheses", "Medium": "Check If Word Is Valid After Substitutions"}
+{"Easy": "Merge Two Sorted Lists", "Medium": "Sort List"}
+{"Easy": "Merge Two Sorted Lists", "Medium": "Shortest Word Distance II"}
+{"Easy": "Remove Duplicates from Sorted Array", "Medium": "Remove Duplicates from Sorted Array II"}
+{"Easy": "Plus One", "Medium": "Multiply Strings"}
+{"Easy": "Plus One", "Medium": "Plus One Linked List"}
+{"Easy": "Add Binary", "Medium": "Add Two Numbers"}
+{"Easy": "Add Binary", "Medium": "Multiply Strings"}
+{"Easy": "Sqrt(x)", "Medium": "Pow(x, n)"}
+{"Easy": "Remove Duplicates from Sorted List", "Medium": "Remove Duplicates from Sorted List II"}
+{"Easy": "Merge Sorted Array", "Medium": "Interval List Intersections"}
+{"Easy": "Binary Tree Inorder Traversal", "Medium": "Validate Binary Search Tree"}
+{"Easy": "Binary Tree Inorder Traversal", "Medium": "Binary Search Tree Iterator"}
+{"Easy": "Convert Sorted Array to Binary Search Tree", "Medium": "Convert Sorted List to Binary Search Tree"}
+{"Easy": "Minimum Depth of Binary Tree", "Medium": "Binary Tree Level Order Traversal"}
+{"Easy": "Path Sum", "Medium": "Path Sum II"}
+{"Easy": "Path Sum", "Medium": "Sum Root to Leaf Numbers"}
+{"Easy": "Best Time to Buy and Sell Stock", "Medium": "Maximum Subarray"}
+{"Easy": "Best Time to Buy and Sell Stock", "Medium": "Best Time to Buy and Sell Stock II"}
+{"Easy": "Single Number", "Medium": "Single Number II"}
+{"Easy": "Single Number", "Medium": "Single Number III"}
+{"Easy": "Linked List Cycle", "Medium": "Linked List Cycle II"}
+{"Easy": "Binary Tree Preorder Traversal", "Medium": "Verify Preorder Sequence in Binary Search Tree"}
+{"Easy": "Majority Element", "Medium": "Majority Element II"}
+{"Easy": "Two Sum III - Data structure design", "Medium": "Unique Word Abbreviation"}
+{"Easy": "Reverse Bits", "Medium": "Reverse Integer"}
+{"Easy": "Remove Linked List Elements", "Medium": "Delete Node in a Linked List"}
+{"Easy": "Reverse Linked List", "Medium": "Reverse Linked List II"}
+{"Easy": "Reverse Linked List", "Medium": "Binary Tree Upside Down"}
+{"Easy": "Valid Anagram", "Medium": "Group Anagrams"}
+{"Easy": "Valid Anagram", "Medium": "Find All Anagrams in a String"}
+{"Easy": "Shortest Word Distance", "Medium": "Shortest Word Distance II"}
+{"Easy": "Shortest Word Distance", "Medium": "Shortest Word Distance III"}
+{"Easy": "Strobogrammatic Number", "Medium": "Strobogrammatic Number II"}
+{"Easy": "Meeting Rooms", "Medium": "Merge Intervals"}
+{"Easy": "Meeting Rooms", "Medium": "Meeting Rooms II"}
+{"Easy": "Binary Tree Paths", "Medium": "Path Sum II"}
+{"Easy": "Binary Tree Paths", "Medium": "Smallest String Starting From Leaf"}
+{"Easy": "Ugly Number", "Medium": "Count Primes"}
+{"Easy": "Ugly Number", "Medium": "Ugly Number II"}
+{"Easy": "Palindrome Permutation", "Medium": "Longest Palindromic Substring"}
+{"Easy": "Palindrome Permutation", "Medium": "Palindrome Permutation II"}
+{"Easy": "Missing Number", "Medium": "Find the Duplicate Number"}
+{"Easy": "First Bad Version", "Medium": "Find First and Last Position of Element in Sorted Array"}
+{"Easy": "Word Pattern", "Medium": "Word Pattern II"}
+{"Easy": "Nim Game", "Medium": "Flip Game II"}
+{"Easy": "Flip Game", "Medium": "Flip Game II"}
+{"Easy": "Range Sum Query - Immutable", "Medium": "Range Sum Query 2D - Immutable"}
+{"Easy": "Range Sum Query - Immutable", "Medium": "Range Sum Query - Mutable"}
+{"Easy": "Logger Rate Limiter", "Medium": "Design Hit Counter"}
+{"Easy": "Valid Perfect Square", "Medium": "Sum of Square Numbers"}
+{"Easy": "Guess Number Higher or Lower", "Medium": "Guess Number Higher or Lower II"}
+{"Easy": "Guess Number Higher or Lower", "Medium": "Find K Closest Elements"}
+{"Easy": "First Unique Character in a String", "Medium": "Sort Characters By Frequency"}
+{"Easy": "Is Subsequence", "Medium": "Number of Matching Subsequences"}
+{"Easy": "Is Subsequence", "Medium": "Shortest Way to Form String"}
+{"Easy": "Binary Watch", "Medium": "Letter Combinations of a Phone Number"}
+{"Easy": "Third Maximum Number", "Medium": "Kth Largest Element in an Array"}
+{"Easy": "Add Strings", "Medium": "Add Two Numbers"}
+{"Easy": "Add Strings", "Medium": "Multiply Strings"}
+{"Easy": "Find All Numbers Disappeared in an Array", "Medium": "Find All Duplicates in an Array"}
+{"Easy": "Repeated Substring Pattern", "Medium": "Repeated String Match"}
+{"Easy": "Hamming Distance", "Medium": "Total Hamming Distance"}
+{"Easy": "Island Perimeter", "Medium": "Max Area of Island"}
+{"Easy": "Island Perimeter", "Medium": "Coloring A Border"}
+{"Easy": "Max Consecutive Ones", "Medium": "Max Consecutive Ones II"}
+{"Easy": "Max Consecutive Ones", "Medium": "Max Consecutive Ones III"}
+{"Easy": "Teemo Attacking", "Medium": "Merge Intervals"}
+{"Easy": "Teemo Attacking", "Medium": "Dota2 Senate"}
+{"Easy": "Next Greater Element I", "Medium": "Next Greater Element II"}
+{"Easy": "Next Greater Element I", "Medium": "Next Greater Element III"}
+{"Easy": "Find Mode in Binary Search Tree", "Medium": "Validate Binary Search Tree"}
+{"Easy": "Fibonacci Number", "Medium": "Split Array into Fibonacci Sequence"}
+{"Easy": "Fibonacci Number", "Medium": "Length of Longest Fibonacci Subsequence"}
+{"Easy": "Longest Uncommon Subsequence I", "Medium": "Longest Uncommon Subsequence II"}
+{"Easy": "Minimum Absolute Difference in BST", "Medium": "K-diff Pairs in an Array"}
+{"Easy": "Subtree of Another Tree", "Medium": "Count Univalue Subtrees"}
+{"Easy": "Subtree of Another Tree", "Medium": "Most Frequent Subtree Sum"}
+{"Easy": "N-ary Tree Preorder Traversal", "Medium": "N-ary Tree Level Order Traversal"}
+{"Easy": "N-ary Tree Postorder Traversal", "Medium": "N-ary Tree Level Order Traversal"}
+{"Easy": "Range Addition II", "Medium": "Range Addition"}
+{"Easy": "Design Compressed String Iterator", "Medium": "LRU Cache"}
+{"Easy": "Design Compressed String Iterator", "Medium": "String Compression"}
+{"Easy": "Can Place Flowers", "Medium": "Asteroid Collision"}
+{"Easy": "Construct String from Binary Tree", "Medium": "Construct Binary Tree from String"}
+{"Easy": "Construct String from Binary Tree", "Medium": "Find Duplicate Subtrees"}
+{"Easy": "Maximum Product of Three Numbers", "Medium": "Maximum Product Subarray"}
+{"Easy": "Average of Levels in Binary Tree", "Medium": "Binary Tree Level Order Traversal"}
+{"Easy": "Average of Levels in Binary Tree", "Medium": "Binary Tree Level Order Traversal II"}
+{"Easy": "Set Mismatch", "Medium": "Find the Duplicate Number"}
+{"Easy": "Two Sum IV - Input is a BST", "Medium": "Two Sum II - Input Array Is Sorted"}
+{"Easy": "Two Sum IV - Input is a BST", "Medium": "Two Sum BSTs"}
+{"Easy": "Robot Return to Origin", "Medium": "Number of Provinces"}
+{"Easy": "Second Minimum Node In a Binary Tree", "Medium": "Kth Smallest Element in a BST"}
+{"Easy": "Longest Continuous Increasing Subsequence", "Medium": "Number of Longest Increasing Subsequence"}
+{"Easy": "Count Binary Substrings", "Medium": "Encode and Decode Strings"}
+{"Easy": "Degree of an Array", "Medium": "Maximum Subarray"}
+{"Easy": "Search in a Binary Search Tree", "Medium": "Insert into a Binary Search Tree"}
+{"Easy": "Kth Largest Element in a Stream", "Medium": "Kth Largest Element in an Array"}
+{"Easy": "Binary Search", "Medium": "Search in a Sorted Array of Unknown Size"}
+{"Easy": "1-bit and 2-bit Characters", "Medium": "Gray Code"}
+{"Easy": "Find Pivot Index", "Medium": "Subarray Sum Equals K"}
+{"Easy": "Sentence Similarity", "Medium": "Number of Provinces"}
+{"Easy": "Sentence Similarity", "Medium": "Accounts Merge"}
+{"Easy": "Rectangle Overlap", "Medium": "Rectangle Area"}
+{"Easy": "Squares of a Sorted Array", "Medium": "Sort Transformed Array"}
+{"Easy": "Add to Array-Form of Integer", "Medium": "Add Two Numbers"}
+{"Easy": "Find the Town Judge", "Medium": "Find the Celebrity"}
+{"Easy": "Two Sum Less Than K", "Medium": "Two Sum II - Input Array Is Sorted"}
+{"Easy": "Two Sum Less Than K", "Medium": "3Sum Smaller"}
+{"Easy": "Check If a Number Is Majority Element in a Sorted Array", "Medium": "Majority Element II"}
+{"Medium": "Longest Substring Without Repeating Characters", "Hard": "Subarrays with K Different Integers"}
+{"Medium": "Longest Palindromic Substring", "Hard": "Shortest Palindrome"}
+{"Medium": "Longest Palindromic Substring", "Hard": "Palindrome Pairs"}
+{"Medium": "String to Integer (atoi)", "Hard": "Valid Number"}
+{"Medium": "Container With Most Water", "Hard": "Trapping Rain Water"}
+{"Medium": "Integer to Roman", "Hard": "Integer to English Words"}
+{"Medium": "Swap Nodes in Pairs", "Hard": "Reverse Nodes in k-Group"}
+{"Medium": "Next Permutation", "Hard": "Permutation Sequence"}
+{"Medium": "Valid Sudoku", "Hard": "Sudoku Solver"}
+{"Medium": "Permutations", "Hard": "Permutation Sequence"}
+{"Medium": "Permutations II", "Hard": "Number of Squareful Arrays"}
+{"Medium": "Merge Intervals", "Hard": "Range Module"}
+{"Medium": "Merge Intervals", "Hard": "Employee Free Time"}
+{"Medium": "Insert Interval", "Hard": "Range Module"}
+{"Medium": "Unique Paths", "Hard": "Dungeon Game"}
+{"Medium": "Unique Paths II", "Hard": "Unique Paths III"}
+{"Medium": "Minimum Path Sum", "Hard": "Dungeon Game"}
+{"Medium": "Minimum Path Sum", "Hard": "Cherry Pickup"}
+{"Medium": "Word Search", "Hard": "Word Search II"}
+{"Medium": "Decode Ways", "Hard": "Decode Ways II"}
+{"Medium": "Best Time to Buy and Sell Stock II", "Hard": "Best Time to Buy and Sell Stock III"}
+{"Medium": "Best Time to Buy and Sell Stock II", "Hard": "Best Time to Buy and Sell Stock IV"}
+{"Medium": "Sum Root to Leaf Numbers", "Hard": "Binary Tree Maximum Path Sum"}
+{"Medium": "Palindrome Partitioning", "Hard": "Palindrome Partitioning II"}
+{"Medium": "Word Break", "Hard": "Word Break II"}
+{"Medium": "LRU Cache", "Hard": "LFU Cache"}
+{"Medium": "LRU Cache", "Hard": "Design In-Memory File System"}
+{"Medium": "Evaluate Reverse Polish Notation", "Hard": "Basic Calculator"}
+{"Medium": "Evaluate Reverse Polish Notation", "Hard": "Expression Add Operators"}
+{"Medium": "Find Minimum in Rotated Sorted Array", "Hard": "Find Minimum in Rotated Sorted Array II"}
+{"Medium": "Min Stack", "Hard": "Sliding Window Maximum"}
+{"Medium": "Min Stack", "Hard": "Max Stack"}
+{"Medium": "Longest Substring with At Most Two Distinct Characters", "Hard": "Sliding Window Maximum"}
+{"Medium": "Longest Substring with At Most Two Distinct Characters", "Hard": "Subarrays with K Different Integers"}
+{"Medium": "Factorial Trailing Zeroes", "Hard": "Number of Digit One"}
+{"Medium": "Factorial Trailing Zeroes", "Hard": "Preimage Size of Factorial Zeroes Function"}
+{"Medium": "House Robber", "Hard": "Non-negative Integers without Consecutive Ones"}
+{"Medium": "House Robber", "Hard": "Coin Path"}
+{"Medium": "Number of Islands", "Hard": "Number of Islands II"}
+{"Medium": "Course Schedule", "Hard": "Course Schedule III"}
+{"Medium": "Implement Trie (Prefix Tree)", "Hard": "Design Search Autocomplete System"}
+{"Medium": "Minimum Size Subarray Sum", "Hard": "Minimum Window Substring"}
+{"Medium": "Course Schedule II", "Hard": "Alien Dictionary"}
+{"Medium": "Course Schedule II", "Hard": "Course Schedule III"}
+{"Medium": "Design Add and Search Words Data Structure", "Hard": "Prefix and Suffix Search"}
+{"Medium": "House Robber II", "Hard": "Non-negative Integers without Consecutive Ones"}
+{"Medium": "House Robber II", "Hard": "Coin Path"}
+{"Medium": "Maximal Square", "Hard": "Maximal Rectangle"}
+{"Medium": "Basic Calculator II", "Hard": "Basic Calculator"}
+{"Medium": "Basic Calculator II", "Hard": "Expression Add Operators"}
+{"Medium": "Product of Array Except Self", "Hard": "Trapping Rain Water"}
+{"Medium": "Product of Array Except Self", "Hard": "Paint House II"}
+{"Medium": "Different Ways to Add Parentheses", "Hard": "Basic Calculator"}
+{"Medium": "Different Ways to Add Parentheses", "Hard": "Expression Add Operators"}
+{"Medium": "Strobogrammatic Number II", "Hard": "Strobogrammatic Number III"}
+{"Medium": "Paint House", "Hard": "Paint House II"}
+{"Medium": "Ugly Number II", "Hard": "Merge k Sorted Lists"}
+{"Medium": "Encode and Decode Strings", "Hard": "Serialize and Deserialize Binary Tree"}
+{"Medium": "Paint Fence", "Hard": "Paint House II"}
+{"Medium": "Walls and Gates", "Hard": "Shortest Distance from All Buildings"}
+{"Medium": "Walls and Gates", "Hard": "Robot Room Cleaner"}
+{"Medium": "Find the Duplicate Number", "Hard": "First Missing Positive"}
+{"Medium": "Longest Increasing Subsequence", "Hard": "Russian Doll Envelopes"}
+{"Medium": "Range Sum Query 2D - Immutable", "Hard": "Range Sum Query 2D - Mutable"}
+{"Medium": "Range Sum Query - Mutable", "Hard": "Range Sum Query 2D - Mutable"}
+{"Medium": "Bulb Switcher", "Hard": "Minimum Number of K Consecutive Bit Flips"}
+{"Medium": "Generalized Abbreviation", "Hard": "Minimum Unique Word Abbreviation"}
+{"Medium": "Longest Substring with At Most K Distinct Characters", "Hard": "Subarrays with K Different Integers"}
+{"Medium": "Line Reflection", "Hard": "Max Points on a Line"}
+{"Medium": "Find K Pairs with Smallest Sums", "Hard": "Find K-th Smallest Pair Distance"}
+{"Medium": "Kth Smallest Element in a Sorted Matrix", "Hard": "Kth Smallest Number in Multiplication Table"}
+{"Medium": "Kth Smallest Element in a Sorted Matrix", "Hard": "Find K-th Smallest Pair Distance"}
+{"Medium": "Insert Delete GetRandom O(1)", "Hard": "Insert Delete GetRandom O(1) - Duplicates allowed"}
+{"Medium": "Decode String", "Hard": "Encode String with Shortest Length"}
+{"Medium": "Decode String", "Hard": "Number of Atoms"}
+{"Medium": "Random Pick Index", "Hard": "Random Pick with Blacklist"}
+{"Medium": "Remove K Digits", "Hard": "Create Maximum Number"}
+{"Medium": "Queue Reconstruction by Height", "Hard": "Count of Smaller Numbers After Self"}
+{"Medium": "Arithmetic Slices", "Hard": "Arithmetic Slices II - Subsequence"}
+{"Medium": "Minimum Genetic Mutation", "Hard": "Word Ladder"}
+{"Medium": "Find Right Interval", "Hard": "Data Stream as Disjoint Intervals"}
+{"Medium": "Ternary Expression Parser", "Hard": "Parse Lisp Expression"}
+{"Medium": "Serialize and Deserialize BST", "Hard": "Serialize and Deserialize Binary Tree"}
+{"Medium": "Serialize and Deserialize BST", "Hard": "Serialize and Deserialize N-ary Tree"}
+{"Medium": "Minimum Moves to Equal Array Elements II", "Hard": "Best Meeting Point"}
+{"Medium": "Ones and Zeroes", "Hard": "Non-negative Integers without Consecutive Ones"}
+{"Medium": "The Maze", "Hard": "The Maze III"}
+{"Medium": "Target Sum", "Hard": "Expression Add Operators"}
+{"Medium": "The Maze II", "Hard": "The Maze III"}
+{"Medium": "Longest Palindromic Subsequence", "Hard": "Count Different Palindromic Subsequences"}
+{"Medium": "Random Pick with Weight", "Hard": "Random Pick with Blacklist"}
+{"Medium": "Permutation in String", "Hard": "Minimum Window Substring"}
+{"Medium": "Add Bold Tag in String", "Hard": "Tag Validator"}
+{"Medium": "Task Scheduler", "Hard": "Rearrange String k Distance Apart"}
+{"Medium": "Design Log Storage System", "Hard": "Design In-Memory File System"}
+{"Medium": "Find Duplicate Subtrees", "Hard": "Serialize and Deserialize Binary Tree"}
+{"Medium": "Find K Closest Elements", "Hard": "Find K-th Smallest Pair Distance"}
+{"Medium": "Path Sum IV", "Hard": "Binary Tree Maximum Path Sum"}
+{"Medium": "Maximum Swap", "Hard": "Create Maximum Number"}
+{"Medium": "Valid Parenthesis String", "Hard": "Special Binary String"}
+{"Medium": "Longest Univalue Path", "Hard": "Binary Tree Maximum Path Sum"}
+{"Medium": "Number of Distinct Islands", "Hard": "Number of Distinct Islands II"}
+{"Medium": "My Calendar I", "Hard": "My Calendar III"}
+{"Medium": "My Calendar II", "Hard": "My Calendar III"}
+{"Medium": "Pour Water", "Hard": "Trapping Rain Water"}
+{"Medium": "Reorganize String", "Hard": "Rearrange String k Distance Apart"}
+{"Medium": "Max Chunks To Make Sorted", "Hard": "Max Chunks To Make Sorted II"}
+{"Medium": "K-th Smallest Prime Fraction", "Hard": "Kth Smallest Number in Multiplication Table"}
+{"Medium": "K-th Smallest Prime Fraction", "Hard": "Find K-th Smallest Pair Distance"}
+{"Medium": "Cheapest Flights Within K Stops", "Hard": "Maximum Vacation Days"}
+{"Medium": "Koko Eating Bananas", "Hard": "Minimize Max Distance to Gas Station"}
+{"Medium": "Distribute Coins in Binary Tree", "Hard": "Sum of Distances in Tree"}
+{"Medium": "Distribute Coins in Binary Tree", "Hard": "Binary Tree Cameras"}
+{"Medium": "Interval List Intersections", "Hard": "Employee Free Time"}
+{"Medium": "Brace Expansion", "Hard": "Brace Expansion II"}
+{"Medium": "As Far from Land as Possible", "Hard": "Shortest Distance from All Buildings"}
+{"Medium": "Minimum Cost to Connect Sticks", "Hard": "Minimum Cost to Merge Stones"}
+{"Easy": "Valid Parentheses", "Hard": "Longest Valid Parentheses"}
+{"Easy": "Valid Parentheses", "Hard": "Remove Invalid Parentheses"}
+{"Easy": "Merge Two Sorted Lists", "Hard": "Merge k Sorted Lists"}
+{"Easy": "Find the Index of the First Occurrence in a String", "Hard": "Shortest Palindrome"}
+{"Easy": "Binary Tree Inorder Traversal", "Hard": "Closest Binary Search Tree Value II"}
+{"Easy": "Path Sum", "Hard": "Binary Tree Maximum Path Sum"}
+{"Easy": "Best Time to Buy and Sell Stock", "Hard": "Best Time to Buy and Sell Stock III"}
+{"Easy": "Best Time to Buy and Sell Stock", "Hard": "Best Time to Buy and Sell Stock IV"}
+{"Easy": "Read N Characters Given Read4", "Hard": "Read N Characters Given read4 II - Call Multiple Times"}
+{"Easy": "Contains Duplicate", "Hard": "Contains Duplicate III"}
+{"Easy": "Contains Duplicate II", "Hard": "Contains Duplicate III"}
+{"Easy": "Summary Ranges", "Hard": "Data Stream as Disjoint Intervals"}
+{"Easy": "Strobogrammatic Number", "Hard": "Strobogrammatic Number III"}
+{"Easy": "Missing Number", "Hard": "First Missing Positive"}
+{"Easy": "Missing Number", "Hard": "Couples Holding Hands"}
+{"Easy": "Closest Binary Search Tree Value", "Hard": "Closest Binary Search Tree Value II"}
+{"Easy": "Ransom Note", "Hard": "Stickers to Spell Word"}
+{"Easy": "Valid Word Abbreviation", "Hard": "Minimum Unique Word Abbreviation"}
+{"Easy": "Valid Word Abbreviation", "Hard": "Word Abbreviation"}
+{"Easy": "Valid Word Square", "Hard": "Word Squares"}
+{"Easy": "Find All Numbers Disappeared in an Array", "Hard": "First Missing Positive"}
+{"Easy": "Student Attendance Record I", "Hard": "Student Attendance Record II"}
+{"Easy": "Maximum Average Subarray I", "Hard": "Maximum Average Subarray II"}
+{"Easy": "Longest Continuous Increasing Subsequence", "Hard": "Minimum Window Subsequence"}
+{"Easy": "Confusing Number", "Hard": "Confusing Number II"}
+{"Easy": "Two Sum", "Next Easy": "Two Sum III - Data structure design"}
+{"Easy": "Two Sum", "Next Easy": "Two Sum IV - Input is a BST"}
+{"Easy": "Two Sum Less Than K", "Next Easy": "Two Sum"}
+{"Easy": "Palindrome Number", "Next Easy": "Palindrome Linked List"}
+{"Easy": "Merge Two Sorted Lists", "Next Easy": "Merge Sorted Array"}
+{"Easy": "Remove Duplicates from Sorted Array", "Next Easy": "Remove Element"}
+{"Easy": "Remove Element", "Next Easy": "Remove Linked List Elements"}
+{"Easy": "Remove Element", "Next Easy": "Move Zeroes"}
+{"Easy": "Find the Index of the First Occurrence in a String", "Next Easy": "Repeated Substring Pattern"}
+{"Easy": "Search Insert Position", "Next Easy": "First Bad Version"}
+{"Easy": "Plus One", "Next Easy": "Add Binary"}
+{"Easy": "Plus One", "Next Easy": "Add to Array-Form of Integer"}
+{"Easy": "Add Binary", "Next Easy": "Add to Array-Form of Integer"}
+{"Easy": "Sqrt(x)", "Next Easy": "Valid Perfect Square"}
+{"Easy": "Climbing Stairs", "Next Easy": "Min Cost Climbing Stairs"}
+{"Easy": "Climbing Stairs", "Next Easy": "Fibonacci Number"}
+{"Easy": "N-th Tribonacci Number", "Next Easy": "Climbing Stairs"}
+{"Easy": "Merge Sorted Array", "Next Easy": "Squares of a Sorted Array"}
+{"Easy": "Binary Tree Inorder Traversal", "Next Easy": "Binary Tree Preorder Traversal"}
+{"Easy": "Binary Tree Inorder Traversal", "Next Easy": "Binary Tree Postorder Traversal"}
+{"Easy": "Minimum Distance Between BST Nodes", "Next Easy": "Binary Tree Inorder Traversal"}
+{"Easy": "Maximum Depth of Binary Tree", "Next Easy": "Balanced Binary Tree"}
+{"Easy": "Maximum Depth of Binary Tree", "Next Easy": "Minimum Depth of Binary Tree"}
+{"Easy": "Maximum Depth of N-ary Tree", "Next Easy": "Maximum Depth of Binary Tree"}
+{"Easy": "Pascal's Triangle", "Next Easy": "Pascal's Triangle II"}
+{"Easy": "Valid Palindrome", "Next Easy": "Palindrome Linked List"}
+{"Easy": "Valid Palindrome", "Next Easy": "Valid Palindrome II"}
+{"Easy": "Single Number", "Next Easy": "Missing Number"}
+{"Easy": "Single Number", "Next Easy": "Find the Difference"}
+{"Easy": "Linked List Cycle", "Next Easy": "Happy Number"}
+{"Easy": "Binary Tree Preorder Traversal", "Next Easy": "N-ary Tree Preorder Traversal"}
+{"Easy": "Binary Tree Postorder Traversal", "Next Easy": "N-ary Tree Postorder Traversal"}
+{"Easy": "Intersection of Two Linked Lists", "Next Easy": "Minimum Index Sum of Two Lists"}
+{"Easy": "Missing Ranges", "Next Easy": "Summary Ranges"}
+{"Easy": "Excel Sheet Column Title", "Next Easy": "Excel Sheet Column Number"}
+{"Easy": "Majority Element", "Next Easy": "Check If a Number Is Majority Element in a Sorted Array"}
+{"Easy": "Two Sum III - Data structure design", "Next Easy": "Two Sum IV - Input is a BST"}
+{"Easy": "Reverse Bits", "Next Easy": "Number of 1 Bits"}
+{"Easy": "Number of 1 Bits", "Next Easy": "Power of Two"}
+{"Easy": "Number of 1 Bits", "Next Easy": "Counting Bits"}
+{"Easy": "Binary Watch", "Next Easy": "Number of 1 Bits"}
+{"Easy": "Hamming Distance", "Next Easy": "Number of 1 Bits"}
+{"Easy": "Binary Number with Alternating Bits", "Next Easy": "Number of 1 Bits"}
+{"Easy": "Prime Number of Set Bits in Binary Representation", "Next Easy": "Number of 1 Bits"}
+{"Easy": "Happy Number", "Next Easy": "Add Digits"}
+{"Easy": "Happy Number", "Next Easy": "Ugly Number"}
+{"Easy": "Isomorphic Strings", "Next Easy": "Word Pattern"}
+{"Easy": "Reverse Linked List", "Next Easy": "Palindrome Linked List"}
+{"Easy": "Contains Duplicate", "Next Easy": "Contains Duplicate II"}
+{"Easy": "Implement Stack using Queues", "Next Easy": "Implement Queue using Stacks"}
+{"Easy": "Power of Two", "Next Easy": "Power of Three"}
+{"Easy": "Power of Two", "Next Easy": "Power of Four"}
+{"Easy": "Valid Anagram", "Next Easy": "Palindrome Permutation"}
+{"Easy": "Strobogrammatic Number", "Next Easy": "Confusing Number"}
+{"Easy": "Add Digits", "Next Easy": "Sum of Digits in the Minimum Number"}
+{"Easy": "Palindrome Permutation", "Next Easy": "Longest Palindrome"}
+{"Easy": "Closest Binary Search Tree Value", "Next Easy": "Count Complete Tree Nodes"}
+{"Easy": "Closest Binary Search Tree Value", "Next Easy": "Search in a Binary Search Tree"}
+{"Easy": "First Bad Version", "Next Easy": "Guess Number Higher or Lower"}
+{"Easy": "Power of Three", "Next Easy": "Power of Four"}
+{"Easy": "Reverse String", "Next Easy": "Reverse Vowels of a String"}
+{"Easy": "Reverse String", "Next Easy": "Reverse String II"}
+{"Easy": "Reverse Vowels of a String", "Next Easy": "Remove Vowels from a String"}
+{"Easy": "Intersection of Two Arrays", "Next Easy": "Intersection of Two Arrays II"}
+{"Easy": "Intersection of Two Arrays", "Next Easy": "Intersection of Three Sorted Arrays"}
+{"Easy": "Intersection of Two Arrays II", "Next Easy": "Find Common Characters"}
+{"Easy": "Add Strings", "Next Easy": "Add to Array-Form of Integer"}
+{"Easy": "Valid Word Square", "Next Easy": "Toeplitz Matrix"}
+{"Easy": "Island Perimeter", "Next Easy": "Flood Fill"}
+{"Easy": "Teemo Attacking", "Next Easy": "Can Place Flowers"}
+{"Easy": "Perfect Number", "Next Easy": "Self Dividing Numbers"}
+{"Easy": "Reverse String II", "Next Easy": "Reverse Words in a String III"}
+{"Easy": "N-ary Tree Preorder Traversal", "Next Easy": "N-ary Tree Postorder Traversal"}
+{"Easy": "Design HashSet", "Next Easy": "Design HashMap"}
+{"Easy": "Largest Triangle Area", "Next Easy": "Largest Perimeter Triangle"}
+{"Medium": "Add Two Numbers", "Next Medium": "Multiply Strings"}
+{"Medium": "Add Two Numbers", "Next Medium": "Sum of Two Integers"}
+{"Medium": "Add Two Numbers II", "Next Medium": "Add Two Numbers"}
+{"Medium": "Longest Substring Without Repeating Characters", "Next Medium": "Longest Substring with At Most Two Distinct Characters"}
+{"Medium": "Longest Substring Without Repeating Characters", "Next Medium": "Longest Substring with At Most K Distinct Characters"}
+{"Medium": "Longest Palindromic Substring", "Next Medium": "Longest Palindromic Subsequence"}
+{"Medium": "Longest Palindromic Substring", "Next Medium": "Palindromic Substrings"}
+{"Medium": "Reverse Integer", "Next Medium": "String to Integer (atoi)"}
+{"Medium": "3Sum", "Next Medium": "3Sum Closest"}
+{"Medium": "3Sum", "Next Medium": "4Sum"}
+{"Medium": "3Sum Smaller", "Next Medium": "3Sum"}
+{"Medium": "3Sum Closest", "Next Medium": "3Sum Smaller"}
+{"Medium": "Letter Combinations of a Phone Number", "Next Medium": "Generate Parentheses"}
+{"Medium": "Letter Combinations of a Phone Number", "Next Medium": "Combination Sum"}
+{"Medium": "4Sum", "Next Medium": "4Sum II"}
+{"Medium": "Permutations", "Next Medium": "Next Permutation"}
+{"Medium": "Next Permutation", "Next Medium": "Permutations II"}
+{"Medium": "Next Permutation", "Next Medium": "Palindrome Permutation II"}
+{"Medium": "Search in Rotated Sorted Array", "Next Medium": "Search in Rotated Sorted Array II"}
+{"Medium": "Search in Rotated Sorted Array", "Next Medium": "Find Minimum in Rotated Sorted Array"}
+{"Medium": "Count and Say", "Next Medium": "Encode and Decode Strings"}
+{"Medium": "Count and Say", "Next Medium": "String Compression"}
+{"Medium": "Combination Sum", "Next Medium": "Combination Sum II"}
+{"Medium": "Combination Sum", "Next Medium": "Combinations"}
+{"Medium": "Combination Sum III", "Next Medium": "Combination Sum"}
+{"Medium": "Factor Combinations", "Next Medium": "Combination Sum"}
+{"Medium": "Combination Sum IV", "Next Medium": "Combination Sum"}
+{"Medium": "Jump Game II", "Next Medium": "Jump Game"}
+{"Medium": "Permutations", "Next Medium": "Permutations II"}
+{"Medium": "Permutations", "Next Medium": "Combinations"}
+{"Medium": "Permutations II", "Next Medium": "Palindrome Permutation II"}
+{"Medium": "Group Anagrams", "Next Medium": "Group Shifted Strings"}
+{"Medium": "Pow(x, n)", "Next Medium": "Super Pow"}
+{"Medium": "Maximum Subarray", "Next Medium": "Maximum Product Subarray"}
+{"Medium": "Maximum Subarray", "Next Medium": "Longest Turbulent Subarray"}
+{"Medium": "Spiral Matrix", "Next Medium": "Spiral Matrix II"}
+{"Medium": "Merge Intervals", "Next Medium": "Insert Interval"}
+{"Medium": "Merge Intervals", "Next Medium": "Meeting Rooms II"}
+{"Medium": "Add Bold Tag in String", "Next Medium": "Merge Intervals"}
+{"Medium": "Partition Labels", "Next Medium": "Merge Intervals"}
+{"Medium": "Interval List Intersections", "Next Medium": "Merge Intervals"}
+{"Medium": "Rotate List", "Next Medium": "Rotate Array"}
+{"Medium": "Rotate List", "Next Medium": "Split Linked List in Parts"}
+{"Medium": "Unique Paths", "Next Medium": "Unique Paths II"}
+{"Medium": "Unique Paths", "Next Medium": "Minimum Path Sum"}
+{"Medium": "Set Matrix Zeroes", "Next Medium": "Game of Life"}
+{"Medium": "Search a 2D Matrix", "Next Medium": "Search a 2D Matrix II"}
+{"Medium": "Sort List", "Next Medium": "Sort Colors"}
+{"Medium": "Sort Colors", "Next Medium": "Wiggle Sort"}
+{"Medium": "Sort Colors", "Next Medium": "Wiggle Sort II"}
+{"Medium": "Subsets II", "Next Medium": "Subsets"}
+{"Medium": "Subsets", "Next Medium": "Generalized Abbreviation"}
+{"Medium": "Subsets", "Next Medium": "Letter Case Permutation"}
+{"Medium": "Restore IP Addresses", "Next Medium": "IP to CIDR"}
+{"Medium": "Unique Binary Search Trees II", "Next Medium": "Unique Binary Search Trees"}
+{"Medium": "Unique Binary Search Trees II", "Next Medium": "Different Ways to Add Parentheses"}
+{"Medium": "Binary Tree Level Order Traversal", "Next Medium": "Binary Tree Zigzag Level Order Traversal"}
+{"Medium": "Binary Tree Level Order Traversal", "Next Medium": "Binary Tree Level Order Traversal II"}
+{"Medium": "Binary Tree Vertical Order Traversal", "Next Medium": "Binary Tree Level Order Traversal"}
+{"Medium": "N-ary Tree Level Order Traversal", "Next Medium": "Binary Tree Level Order Traversal"}
+{"Medium": "Construct Binary Tree from Preorder and Inorder Traversal", "Next Medium": "Construct Binary Tree from Inorder and Postorder Traversal"}
+{"Medium": "Path Sum II", "Next Medium": "Path Sum III"}
+{"Medium": "Path Sum II", "Next Medium": "Path Sum IV"}
+{"Medium": "Flatten Binary Tree to Linked List", "Next Medium": "Flatten a Multilevel Doubly Linked List"}
+{"Medium": "Populating Next Right Pointers in Each Node", "Next Medium": "Populating Next Right Pointers in Each Node II"}
+{"Medium": "Populating Next Right Pointers in Each Node", "Next Medium": "Binary Tree Right Side View"}
+{"Medium": "Best Time to Buy and Sell Stock II", "Next Medium": "Best Time to Buy and Sell Stock with Cooldown"}
+{"Medium": "Best Time to Buy and Sell Stock II", "Next Medium": "Best Time to Buy and Sell Stock with Transaction Fee"}
+{"Medium": "Longest Consecutive Sequence", "Next Medium": "Binary Tree Longest Consecutive Sequence"}
+{"Medium": "Sum Root to Leaf Numbers", "Next Medium": "Smallest String Starting From Leaf"}
+{"Medium": "Surrounded Regions", "Next Medium": "Number of Islands"}
+{"Medium": "Surrounded Regions", "Next Medium": "Walls and Gates"}
+{"Medium": "Clone Graph", "Next Medium": "Copy List with Random Pointer"}
+{"Medium": "Single Number II", "Next Medium": "Single Number III"}
+{"Medium": "Linked List Cycle II", "Next Medium": "Find the Duplicate Number"}
+{"Medium": "Insertion Sort List", "Next Medium": "Sort List"}
+{"Medium": "Insertion Sort List", "Next Medium": "Insert into a Sorted Circular Linked List"}
+{"Medium": "Reverse Words in a String", "Next Medium": "Reverse Words in a String II"}
+{"Medium": "House Robber", "Next Medium": "Maximum Product Subarray"}
+{"Medium": "Maximum Product Subarray", "Next Medium": "Product of Array Except Self"}
+{"Medium": "Maximum Product Subarray", "Next Medium": "Subarray Product Less Than K"}
+{"Medium": "Longest Substring with At Most Two Distinct Characters", "Next Medium": "Longest Substring with At Most K Distinct Characters"}
+{"Medium": "One Edit Distance", "Next Medium": "Edit Distance"}
+{"Medium": "Find Peak Element", "Next Medium": "Peak Index in a Mountain Array"}
+{"Medium": "Flatten 2D Vector", "Next Medium": "Binary Search Tree Iterator"}
+{"Medium": "Zigzag Iterator", "Next Medium": "Binary Search Tree Iterator"}
+{"Medium": "Binary Search Tree Iterator", "Next Medium": "Peeking Iterator"}
+{"Medium": "Binary Search Tree Iterator", "Next Medium": "Inorder Successor in BST"}
+{"Medium": "Reverse Words in a String II", "Next Medium": "Rotate Array"}
+{"Medium": "House Robber II", "Next Medium": "House Robber"}
+{"Medium": "House Robber", "Next Medium": "Paint House"}
+{"Medium": "House Robber", "Next Medium": "Paint Fence"}
+{"Medium": "House Robber III", "Next Medium": "House Robber"}
+{"Medium": "Delete and Earn", "Next Medium": "House Robber"}
+{"Medium": "Binary Tree Right Side View", "Next Medium": "Boundary of Binary Tree"}
+{"Medium": "Walls and Gates", "Next Medium": "Number of Islands"}
+{"Medium": "Number of Connected Components in an Undirected Graph", "Next Medium": "Number of Islands"}
+{"Medium": "Number of Islands", "Next Medium": "Number of Distinct Islands"}
+{"Medium": "Number of Islands", "Next Medium": "Max Area of Island"}
+{"Medium": "Count Primes", "Next Medium": "Ugly Number II"}
+{"Medium": "Count Primes", "Next Medium": "Perfect Squares"}
+{"Medium": "Course Schedule II", "Next Medium": "Course Schedule"}
+{"Medium": "Course Schedule", "Next Medium": "Graph Valid Tree"}
+{"Medium": "Course Schedule", "Next Medium": "Minimum Height Trees"}
+{"Medium": "Implement Trie (Prefix Tree)", "Next Medium": "Design Add and Search Words Data Structure"}
+{"Medium": "Replace Words", "Next Medium": "Implement Trie (Prefix Tree)"}
+{"Medium": "Implement Trie (Prefix Tree)", "Next Medium": "Implement Magic Dictionary"}
+{"Medium": "Minimum Size Subarray Sum", "Next Medium": "Maximum Size Subarray Sum Equals k"}
+{"Medium": "Minimum Size Subarray Sum", "Next Medium": "Maximum Length of Repeated Subarray"}
+{"Medium": "Course Schedule II", "Next Medium": "Minimum Height Trees"}
+{"Medium": "Course Schedule II", "Next Medium": "Sequence Reconstruction"}
+{"Medium": "House Robber II", "Next Medium": "Paint House"}
+{"Medium": "House Robber II", "Next Medium": "Paint Fence"}
+{"Medium": "House Robber III", "Next Medium": "House Robber II"}
+{"Medium": "Wiggle Sort II", "Next Medium": "Kth Largest Element in an Array"}
+{"Medium": "Kth Largest Element in an Array", "Next Medium": "Top K Frequent Elements"}
+{"Medium": "Kth Largest Element in an Array", "Next Medium": "K Closest Points to Origin"}
+{"Medium": "Maximal Square", "Next Medium": "Largest Plus Sign"}
+{"Medium": "Lowest Common Ancestor of a Binary Search Tree", "Next Medium": "Lowest Common Ancestor of a Binary Tree"}
+{"Medium": "Lowest Common Ancestor of a Binary Search Tree", "Next Medium": "Smallest Common Region"}
+{"Medium": "Lowest Common Ancestor of a Binary Tree", "Next Medium": "Smallest Common Region"}
+{"Medium": "Shortest Word Distance II", "Next Medium": "Shortest Word Distance III"}
+{"Medium": "Count Univalue Subtrees", "Next Medium": "Longest Univalue Path"}
+{"Medium": "Zigzag Iterator", "Next Medium": "Flatten 2D Vector"}
+{"Medium": "Flatten 2D Vector", "Next Medium": "Peeking Iterator"}
+{"Medium": "Flatten 2D Vector", "Next Medium": "Flatten Nested List Iterator"}
+{"Medium": "Meeting Rooms II", "Next Medium": "Minimum Number of Arrows to Burst Balloons"}
+{"Medium": "Meeting Rooms II", "Next Medium": "Car Pooling"}
+{"Medium": "Paint House", "Next Medium": "Paint Fence"}
+{"Medium": "3Sum Smaller", "Next Medium": "Valid Triangle Number"}
+{"Medium": "Graph Valid Tree", "Next Medium": "Number of Connected Components in an Undirected Graph"}
+{"Medium": "Ugly Number II", "Next Medium": "Perfect Squares"}
+{"Medium": "Ugly Number II", "Next Medium": "Super Ugly Number"}
+{"Medium": "Encode and Decode Strings", "Next Medium": "String Compression"}
+{"Medium": "H-Index", "Next Medium": "H-Index II"}
+{"Medium": "Wiggle Sort", "Next Medium": "Wiggle Sort II"}
+{"Medium": "Zigzag Iterator", "Next Medium": "Peeking Iterator"}
+{"Medium": "Zigzag Iterator", "Next Medium": "Flatten Nested List Iterator"}
+{"Medium": "Inorder Successor in BST", "Next Medium": "Inorder Successor in BST II"}
+{"Medium": "Walls and Gates", "Next Medium": "Rotting Oranges"}
+{"Medium": "Unique Word Abbreviation", "Next Medium": "Generalized Abbreviation"}
+{"Medium": "Flip Game II", "Next Medium": "Guess Number Higher or Lower II"}
+{"Medium": "Flip Game II", "Next Medium": "Can I Win"}
+{"Medium": "Binary Tree Longest Consecutive Sequence", "Next Medium": "Binary Tree Longest Consecutive Sequence II"}
+{"Medium": "Longest Increasing Subsequence", "Next Medium": "Increasing Triplet Subsequence"}
+{"Medium": "Longest Increasing Subsequence", "Next Medium": "Maximum Length of Pair Chain"}
+{"Medium": "Number of Longest Increasing Subsequence", "Next Medium": "Longest Increasing Subsequence"}
+{"Medium": "Minimum ASCII Delete Sum for Two Strings", "Next Medium": "Longest Increasing Subsequence"}
+{"Medium": "Additive Number", "Next Medium": "Split Array into Fibonacci Sequence"}
+{"Medium": "Bulb Switcher", "Next Medium": "Bulb Switcher II"}
+{"Medium": "Coin Change", "Next Medium": "Minimum Cost For Tickets"}
+{"Medium": "Number of Connected Components in an Undirected Graph", "Next Medium": "Number of Provinces"}
+{"Medium": "Maximum Size Subarray Sum Equals k", "Next Medium": "Contiguous Array"}
+{"Medium": "Maximum Size Subarray Sum Equals k", "Next Medium": "Subarray Product Less Than K"}
+{"Medium": "Odd Even Linked List", "Next Medium": "Split Linked List in Parts"}
+{"Medium": "Nested List Weight Sum II", "Next Medium": "Nested List Weight Sum"}
+{"Medium": "Nested List Weight Sum", "Next Medium": "Array Nesting"}
+{"Medium": "Nested List Weight Sum", "Next Medium": "Employee Importance"}
+{"Medium": "Longest Substring with At Most K Distinct Characters", "Next Medium": "Longest Repeating Character Replacement"}
+{"Medium": "Longest Substring with At Most K Distinct Characters", "Next Medium": "Max Consecutive Ones III"}
+{"Medium": "Flatten Nested List Iterator", "Next Medium": "Mini Parser"}
+{"Medium": "Flatten Nested List Iterator", "Next Medium": "Array Nesting"}
+{"Medium": "Top K Frequent Elements", "Next Medium": "Word Frequency"}
+{"Medium": "Top K Frequent Elements", "Next Medium": "Sort Characters By Frequency"}
+{"Medium": "Split Array into Consecutive Subsequences", "Next Medium": "Top K Frequent Elements"}
+{"Medium": "Top K Frequent Words", "Next Medium": "Top K Frequent Elements"}
+{"Medium": "K Closest Points to Origin", "Next Medium": "Top K Frequent Elements"}
+{"Medium": "Design Tic-Tac-Toe", "Next Medium": "Valid Tic-Tac-Toe State"}
+{"Medium": "Line Reflection", "Next Medium": "Number of Boomerangs"}
+{"Medium": "Nested List Weight Sum II", "Next Medium": "Array Nesting"}
+{"Medium": "Find K Pairs with Smallest Sums", "Next Medium": "Kth Smallest Element in a Sorted Matrix"}
+{"Medium": "Guess Number Higher or Lower II", "Next Medium": "Can I Win"}
+{"Medium": "Guess Number Higher or Lower II", "Next Medium": "Find K Closest Elements"}
+{"Medium": "Kth Smallest Element in a Sorted Matrix", "Next Medium": "K-th Smallest Prime Fraction"}
+{"Medium": "Linked List Random Node", "Next Medium": "Random Pick Index"}
+{"Medium": "Mini Parser", "Next Medium": "Ternary Expression Parser"}
+{"Medium": "Mini Parser", "Next Medium": "Remove Comments"}
+{"Medium": "Decode String", "Next Medium": "Brace Expansion"}
+{"Medium": "Random Pick Index", "Next Medium": "Random Pick with Weight"}
+{"Medium": "Remove K Digits", "Next Medium": "Monotone Increasing Digits"}
+{"Medium": "Partition Equal Subset Sum", "Next Medium": "Partition to K Equal Sum Subsets"}
+{"Medium": "Longest Repeating Character Replacement", "Next Medium": "Max Consecutive Ones III"}
+{"Medium": "Non-overlapping Intervals", "Next Medium": "Minimum Number of Arrows to Burst Balloons"}
+{"Medium": "Path Sum III", "Next Medium": "Path Sum IV"}
+{"Medium": "Path Sum III", "Next Medium": "Longest Univalue Path"}
+{"Medium": "Find All Anagrams in a String", "Next Medium": "Permutation in String"}
+{"Medium": "Ternary Expression Parser", "Next Medium": "Remove Comments"}
+{"Medium": "Serialize and Deserialize BST", "Next Medium": "Find Duplicate Subtrees"}
+{"Medium": "Delete Node in a BST", "Next Medium": "Split BST"}
+{"Medium": "Minimum Moves to Equal Array Elements", "Next Medium": "Minimum Moves to Equal Array Elements II"}
+{"Medium": "Can I Win", "Next Medium": "Predict the Winner"}
+{"Medium": "Validate IP Address", "Next Medium": "IP to CIDR"}
+{"Medium": "Generate Random Point in a Circle", "Next Medium": "Random Point in Non-overlapping Rectangles"}
+{"Medium": "Max Consecutive Ones II", "Next Medium": "Max Consecutive Ones III"}
+{"Medium": "The Maze", "Next Medium": "The Maze II"}
+{"Medium": "Non-decreasing Subsequences", "Next Medium": "Maximum Length of Pair Chain"}
+{"Medium": "Random Point in Non-overlapping Rectangles", "Next Medium": "Random Pick with Weight"}
+{"Medium": "Next Greater Element II", "Next Medium": "Next Greater Element III"}
+{"Medium": "Longest Palindromic Subsequence", "Next Medium": "Palindromic Substrings"}
+{"Medium": "Continuous Subarray Sum", "Next Medium": "Subarray Sum Equals K"}
+{"Medium": "Longest Word in Dictionary through Deleting", "Next Medium": "Longest Word in Dictionary"}
+{"Medium": "Beautiful Arrangement", "Next Medium": "Beautiful Arrangement II"}
+{"Medium": "Lonely Pixel I", "Next Medium": "Lonely Pixel II"}
+{"Medium": "Number of Provinces", "Next Medium": "Sentence Similarity II"}
+{"Medium": "Number of Provinces", "Next Medium": "The Earliest Moment When Everyone Become Friends"}
+{"Medium": "Subarray Sum Equals K", "Next Medium": "Subarray Product Less Than K"}
+{"Medium": "Subarray Sum Equals K", "Next Medium": "Subarray Sums Divisible by K"}
+{"Medium": "Out of Boundary Paths", "Next Medium": "Knight Probability in Chessboard"}
+{"Medium": "Delete Operation for Two Strings", "Next Medium": "Edit Distance"}
+{"Medium": "Delete Operation for Two Strings", "Next Medium": "Minimum ASCII Delete Sum for Two Strings"}
+{"Medium": "Fraction Addition and Subtraction", "Next Medium": "Solve the Equation"}
+{"Medium": "Task Scheduler", "Next Medium": "Reorganize String"}
+{"Medium": "Design Circular Queue", "Next Medium": "Design Circular Deque"}
+{"Medium": "Palindromic Substrings", "Next Medium": "Palindromic Substrings"}
+{"Medium": "2 Keys Keyboard", "Next Medium": "4 Keys Keyboard"}
+{"Medium": "2 Keys Keyboard", "Next Medium": "Broken Calculator"}
+{"Medium": "Maximum Binary Tree", "Next Medium": "Maximum Binary Tree II"}
+{"Medium": "Implement Magic Dictionary", "Next Medium": "Longest Word in Dictionary"}
+{"Medium": "Redundant Connection", "Next Medium": "Accounts Merge"}
+{"Medium": "Top K Frequent Words", "Next Medium": "K Closest Points to Origin"}
+{"Medium": "Minimum ASCII Delete Sum for Two Strings", "Next Medium": "Edit Distance"}
+{"Medium": "Accounts Merge", "Next Medium": "Sentence Similarity II"}
+{"Medium": "My Calendar I", "Next Medium": "My Calendar II"}
+{"Medium": "Letter Case Permutation", "Next Medium": "Brace Expansion"}
+{"Medium": "Maximize Distance to Closest Person", "Next Medium": "Exam Room"}
+{"Medium": "Convert to Base -2", "Next Medium": "Encode Number"}
+{"Medium": "Uncrossed Lines", "Next Medium": "Edit Distance"}
+{"Medium": "Campus Bikes", "Next Medium": "Campus Bikes II"}
+{"Hard": "Regular Expression Matching", "Next Hard": "Wildcard Matching"}
+{"Hard": "Substring with Concatenation of All Words", "Next Hard": "Minimum Window Substring"}
+{"Hard": "Sudoku Solver", "Next Hard": "Unique Paths III"}
+{"Hard": "First Missing Positive", "Next Hard": "Couples Holding Hands"}
+{"Hard": "Trapping Rain Water", "Next Hard": "Trapping Rain Water II"}
+{"Hard": "N-Queens", "Next Hard": "N-Queens II"}
+{"Hard": "N-Queens", "Next Hard": "Grid Illumination"}
+{"Hard": "Minimum Window Substring", "Next Hard": "Sliding Window Maximum"}
+{"Hard": "Minimum Window Substring", "Next Hard": "Minimum Window Subsequence"}
+{"Hard": "Largest Rectangle in Histogram", "Next Hard": "Maximal Rectangle"}
+{"Hard": "Best Time to Buy and Sell Stock III", "Next Hard": "Best Time to Buy and Sell Stock IV"}
+{"Hard": "Best Time to Buy and Sell Stock III", "Next Hard": "Maximum Sum of 3 Non-Overlapping Subarrays"}
+{"Hard": "Word Ladder II", "Next Hard": "Word Ladder"}
+{"Hard": "Word Break II", "Next Hard": "Concatenated Words"}
+{"Hard": "Dungeon Game", "Next Hard": "Cherry Pickup"}
+{"Hard": "Word Search II", "Next Hard": "Unique Paths III"}
+{"Hard": "Shortest Palindrome", "Next Hard": "Palindrome Pairs"}
+{"Hard": "The Skyline Problem", "Next Hard": "Falling Squares"}
+{"Hard": "Basic Calculator", "Next Hard": "Expression Add Operators"}
+{"Hard": "Basic Calculator", "Next Hard": "Basic Calculator III"}
+{"Hard": "Number of Digit One", "Next Hard": "Digit Count in Range"}
+{"Hard": "Sliding Window Maximum", "Next Hard": "Paint House II"}
+{"Hard": "Find Median from Data Stream", "Next Hard": "Sliding Window Median"}
+{"Hard": "Best Meeting Point", "Next Hard": "Shortest Distance from All Buildings"}
+{"Hard": "Serialize and Deserialize Binary Tree", "Next Hard": "Serialize and Deserialize N-ary Tree"}
+{"Hard": "Burst Balloons", "Next Hard": "Minimum Cost to Merge Stones"}
+{"Hard": "Count of Smaller Numbers After Self", "Next Hard": "Count of Range Sum"}
+{"Hard": "Count of Smaller Numbers After Self", "Next Hard": "Reverse Pairs"}
+{"Hard": "Count of Range Sum", "Next Hard": "Reverse Pairs"}
+{"Hard": "Data Stream as Disjoint Intervals", "Next Hard": "Range Module"}
+{"Hard": "Minimum Unique Word Abbreviation", "Next Hard": "Word Abbreviation"}
+{"Hard": "Serialize and Deserialize N-ary Tree", "Next Hard": "Encode N-ary Tree to Binary Tree"}
+{"Hard": "LFU Cache", "Next Hard": "Design In-Memory File System"}
+{"Hard": "Encode String with Shortest Length", "Next Hard": "Number of Atoms"}
+{"Hard": "Remove Boxes", "Next Hard": "Strange Printer"}
+{"Hard": "Kth Smallest Number in Multiplication Table", "Next Hard": "Find K-th Smallest Pair Distance"}
+{"Hard": "Number of Atoms", "Next Hard": "Parse Lisp Expression"}
+{"Hard": "Parse Lisp Expression", "Next Hard": "Basic Calculator IV"}
+{"Hard": "Couples Holding Hands", "Next Hard": "K-Similar Strings"}
+{"Hard": "Basic Calculator IV", "Next Hard": "Basic Calculator III"}
