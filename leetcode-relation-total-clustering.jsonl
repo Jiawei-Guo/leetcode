@@ -1,0 +1,102 @@
+{"idx": 1, "cluster": ["Swap Nodes in Pairs", "Reverse Nodes in k-Group"]}
+{"idx": 2, "cluster": ["Regular Expression Matching", "Wildcard Matching"]}
+{"idx": 3, "cluster": ["Jump Game II", "Jump Game"]}
+{"idx": 4, "cluster": ["Spiral Matrix II", "Spiral Matrix"]}
+{"idx": 5, "cluster": ["Remove Duplicates from Sorted List II", "Remove Duplicates from Sorted List"]}
+{"idx": 6, "cluster": ["Construct Binary Tree from Inorder and Postorder Traversal", "Construct Binary Tree from Preorder and Inorder Traversal"]}
+{"idx": 7, "cluster": ["Convert Sorted Array to Binary Search Tree", "Convert Sorted List to Binary Search Tree"]}
+{"idx": 8, "cluster": ["Pascal's Triangle II", "Pascal's Triangle"]}
+{"idx": 9, "cluster": ["Palindrome Partitioning II", "Palindrome Partitioning"]}
+{"idx": 10, "cluster": ["Copy List with Random Pointer", "Clone Graph"]}
+{"idx": 11, "cluster": ["Find Minimum in Rotated Sorted Array", "Search in Rotated Sorted Array II", "Find Minimum in Rotated Sorted Array II", "Search in Rotated Sorted Array"]}
+{"idx": 12, "cluster": ["Read N Characters Given read4 II - Call Multiple Times", "Read N Characters Given Read4"]}
+{"idx": 13, "cluster": ["Excel Sheet Column Number", "Excel Sheet Column Title"]}
+{"idx": 14, "cluster": ["Contains Duplicate II", "Contains Duplicate", "Contains Duplicate III"]}
+{"idx": 15, "cluster": ["Implement Queue using Stacks", "Implement Stack using Queues"]}
+{"idx": 16, "cluster": ["Search a 2D Matrix II", "Search a 2D Matrix"]}
+{"idx": 17, "cluster": ["Integer to Roman", "Integer to English Words", "Roman to Integer"]}
+{"idx": 18, "cluster": ["H-Index II", "H-Index"]}
+{"idx": 19, "cluster": ["Remove Duplicates from Sorted Array", "Delete Node in a Linked List", "Remove Linked List Elements", "Move Zeroes", "Remove Duplicates from Sorted Array II", "Remove Element"]}
+{"idx": 20, "cluster": ["Game of Life", "Set Matrix Zeroes"]}
+{"idx": 21, "cluster": ["Word Pattern II", "Word Pattern", "Isomorphic Strings"]}
+{"idx": 22, "cluster": ["Logger Rate Limiter", "Design Hit Counter"]}
+{"idx": 23, "cluster": ["Insert Delete GetRandom O(1)", "Insert Delete GetRandom O(1) - Duplicates allowed"]}
+{"idx": 24, "cluster": ["Flatten a Multilevel Doubly Linked List", "Flatten Binary Tree to Linked List"]}
+{"idx": 25, "cluster": ["Word Ladder", "Word Ladder II", "Minimum Genetic Mutation"]}
+{"idx": 26, "cluster": ["Missing Ranges", "Data Stream as Disjoint Intervals", "Summary Ranges", "Find Right Interval"]}
+{"idx": 27, "cluster": ["Arithmetic Slices", "Arithmetic Slices II - Subsequence"]}
+{"idx": 28, "cluster": ["Line Reflection", "Max Points on a Line", "Number of Boomerangs"]}
+{"idx": 29, "cluster": ["Word Break II", "Concatenated Words", "Word Break"]}
+{"idx": 30, "cluster": ["Sliding Window Median", "Find Median from Data Stream"]}
+{"idx": 31, "cluster": ["Count of Smaller Numbers After Self", "Count of Range Sum", "Reverse Pairs", "Queue Reconstruction by Height"]}
+{"idx": 32, "cluster": ["The Maze", "The Maze III", "The Maze II"]}
+{"idx": 33, "cluster": ["Longest Uncommon Subsequence II", "Longest Uncommon Subsequence I"]}
+{"idx": 34, "cluster": ["K-diff Pairs in an Array", "Minimum Absolute Difference in BST"]}
+{"idx": 35, "cluster": ["Lonely Pixel I", "Lonely Pixel II"]}
+{"idx": 36, "cluster": ["Binary Tree Right Side View", "Boundary of Binary Tree", "Populating Next Right Pointers in Each Node II", "Populating Next Right Pointers in Each Node"]}
+{"idx": 37, "cluster": ["Binary Tree Longest Consecutive Sequence II", "Longest Consecutive Sequence", "Binary Tree Longest Consecutive Sequence"]}
+{"idx": 38, "cluster": ["Student Attendance Record II", "Student Attendance Record I"]}
+{"idx": 39, "cluster": ["Range Addition II", "Range Addition"]}
+{"idx": 40, "cluster": ["Minimum Index Sum of Two Lists", "Intersection of Two Linked Lists"]}
+{"idx": 41, "cluster": ["Sum of Square Numbers", "Sqrt(x)", "Super Pow", "Valid Perfect Square", "Pow(x, n)"]}
+{"idx": 42, "cluster": ["Decode Ways", "Decode Ways II"]}
+{"idx": 43, "cluster": ["Solve the Equation", "Fraction Addition and Subtraction"]}
+{"idx": 44, "cluster": ["Design Circular Queue", "Design Circular Deque"]}
+{"idx": 45, "cluster": ["Maximum Average Subarray I", "Maximum Average Subarray II"]}
+{"idx": 46, "cluster": ["Remove Boxes", "Strange Printer"]}
+{"idx": 47, "cluster": ["Beautiful Arrangement II", "Beautiful Arrangement"]}
+{"idx": 48, "cluster": ["Valid Palindrome II", "Reverse Linked List II", "Palindrome Linked List", "Binary Tree Upside Down", "Palindrome Number", "Valid Palindrome", "Reverse Linked List"]}
+{"idx": 49, "cluster": ["Out of Boundary Paths", "Knight Probability in Chessboard"]}
+{"idx": 50, "cluster": ["Stickers to Spell Word", "Ransom Note"]}
+{"idx": 51, "cluster": ["LRU Cache", "Serialize and Deserialize BST", "Construct String from Binary Tree", "Serialize and Deserialize N-ary Tree", "Construct Binary Tree from String", "Encode and Decode Strings", "Count and Say", "Serialize and Deserialize Binary Tree", "Encode N-ary Tree to Binary Tree", "Design In-Memory File System", "String Compression", "LFU Cache", "Design Compressed String Iterator", "Find Duplicate Subtrees", "Count Binary Substrings", "Design Log Storage System"]}
+{"idx": 52, "cluster": ["Partition Equal Subset Sum", "Partition to K Equal Sum Subsets"]}
+{"idx": 53, "cluster": ["The Skyline Problem", "Falling Squares"]}
+{"idx": 54, "cluster": ["Binary Search", "Search in a Sorted Array of Unknown Size"]}
+{"idx": 55, "cluster": ["Design HashMap", "Design HashSet"]}
+{"idx": 56, "cluster": ["Random Pick Index", "Linked List Random Node", "Generate Random Point in a Circle", "Random Pick with Blacklist", "Random Point in Non-overlapping Rectangles", "Random Pick with Weight"]}
+{"idx": 57, "cluster": ["Gray Code", "1-bit and 2-bit Characters"]}
+{"idx": 58, "cluster": ["Reverse Words in a String II", "Reverse Words in a String", "Odd Even Linked List", "Split Linked List in Parts", "Rotate List", "Rotate Array"]}
+{"idx": 59, "cluster": ["Perfect Number", "Self Dividing Numbers"]}
+{"idx": 60, "cluster": ["My Calendar I", "My Calendar II", "My Calendar III"]}
+{"idx": 61, "cluster": ["Monotone Increasing Digits", "Maximum Swap", "Remove K Digits", "Create Maximum Number"]}
+{"idx": 62, "cluster": ["Next Greater Element I", "Next Greater Element II", "Daily Temperatures", "Next Greater Element III"]}
+{"idx": 63, "cluster": ["Implement Magic Dictionary", "Replace Words", "Design Search Autocomplete System", "Implement Trie (Prefix Tree)", "Longest Word in Dictionary through Deleting", "Longest Word in Dictionary", "Prefix and Suffix Search", "Design Add and Search Words Data Structure"]}
+{"idx": 64, "cluster": ["Restore IP Addresses", "IP to CIDR", "Validate IP Address"]}
+{"idx": 65, "cluster": ["Valid Parenthesis String", "Special Binary String"]}
+{"idx": 66, "cluster": ["Largest Plus Sign", "Largest Rectangle in Histogram", "Maximal Rectangle", "Maximal Square"]}
+{"idx": 67, "cluster": ["Valid Word Square", "Toeplitz Matrix", "Word Squares"]}
+{"idx": 68, "cluster": ["Reorganize String", "Task Scheduler", "Rearrange String k Distance Apart"]}
+{"idx": 69, "cluster": ["Max Chunks To Make Sorted", "Max Chunks To Make Sorted II"]}
+{"idx": 70, "cluster": ["Delete Node in a BST", "Split BST"]}
+{"idx": 71, "cluster": ["Can I Win", "Search Insert Position", "Predict the Winner", "Guess Number Higher or Lower", "Guess Number Higher or Lower II", "Find K Pairs with Smallest Sums", "Flip Game II", "Kth Smallest Element in a Sorted Matrix", "K-th Smallest Prime Fraction", "Find K-th Smallest Pair Distance", "First Bad Version", "Find First and Last Position of Element in Sorted Array", "Find K Closest Elements", "Kth Smallest Number in Multiplication Table", "Nim Game", "Flip Game"]}
+{"idx": 72, "cluster": ["Cheapest Flights Within K Stops", "Maximum Vacation Days"]}
+{"idx": 73, "cluster": ["Valid Tic-Tac-Toe State", "Design Tic-Tac-Toe"]}
+{"idx": 74, "cluster": ["Rectangle Area", "Rectangle Overlap"]}
+{"idx": 75, "cluster": ["Peak Index in a Mountain Array", "Find Peak Element"]}
+{"idx": 76, "cluster": ["Exam Room", "Maximize Distance to Closest Person"]}
+{"idx": 77, "cluster": ["Koko Eating Bananas", "Minimize Max Distance to Gas Station"]}
+{"idx": 78, "cluster": ["Largest Perimeter Triangle", "Largest Triangle Area"]}
+{"idx": 79, "cluster": ["Binary Tree Cameras", "Distribute Coins in Binary Tree", "Sum of Distances in Tree"]}
+{"idx": 80, "cluster": ["Word Search", "Minimum Path Sum", "Sudoku Solver", "Word Search II", "Cherry Pickup", "Unique Paths III", "Valid Sudoku", "Dungeon Game", "Unique Paths", "Unique Paths II"]}
+{"idx": 81, "cluster": ["Minimum Cost For Tickets", "Coin Change"]}
+{"idx": 82, "cluster": ["Subtree of Another Tree", "Most Frequent Subtree Sum", "Binary Tree Paths", "Path Sum IV", "Longest Univalue Path", "Path Sum III", "Path Sum", "Sum Root to Leaf Numbers", "Count Univalue Subtrees", "Smallest String Starting From Leaf", "Path Sum II", "Binary Tree Maximum Path Sum"]}
+{"idx": 83, "cluster": ["Add Two Numbers II", "Add Strings", "Plus One", "Add to Array-Form of Integer", "Sum of Two Integers", "Plus One Linked List", "Multiply Strings", "Add Binary", "Add Two Numbers"]}
+{"idx": 84, "cluster": ["4 Keys Keyboard", "2 Keys Keyboard", "Broken Calculator"]}
+{"idx": 85, "cluster": ["Minimum Number of K Consecutive Bit Flips", "Bulb Switcher", "Bulb Switcher II"]}
+{"idx": 86, "cluster": ["Find the Celebrity", "Find the Town Judge"]}
+{"idx": 87, "cluster": ["Maximum Binary Tree", "Maximum Binary Tree II"]}
+{"idx": 88, "cluster": ["N-Queens", "Grid Illumination", "N-Queens II"]}
+{"idx": 89, "cluster": ["Shortest Way to Form String", "Is Subsequence", "Number of Matching Subsequences"]}
+{"idx": 90, "cluster": ["Campus Bikes", "Campus Bikes II"]}
+{"idx": 91, "cluster": ["Preimage Size of Factorial Zeroes Function", "Digit Count in Range", "Factorial Trailing Zeroes", "Number of Digit One"]}
+{"idx": 92, "cluster": ["Strobogrammatic Number III", "Strobogrammatic Number", "Confusing Number II", "Strobogrammatic Number II", "Confusing Number"]}
+{"idx": 93, "cluster": ["Single Number", "K Closest Points to Origin", "Merge Sorted Array", "Single Number III", "K-Similar Strings", "Merge Two Sorted Lists", "Asteroid Collision", "Wiggle Sort", "Ugly Number", "Shortest Word Distance II", "Sort Transformed Array", "Sort List", "Sort Characters By Frequency", "Sum of Digits in the Minimum Number", "Insert into a Sorted Circular Linked List", "Squares of a Sorted Array", "Top K Frequent Elements", "Insertion Sort List", "Add Digits", "Shortest Word Distance III", "Find All Duplicates in an Array", "Tag Validator", "Teemo Attacking", "Add Bold Tag in String", "Single Number II", "Perfect Squares", "Set Mismatch", "Top K Frequent Words", "Dota2 Senate", "Partition Labels", "Merge Intervals", "Employee Free Time", "Linked List Cycle II", "Linked List Cycle", "Minimum Number of Arrows to Burst Balloons", "Insert Interval", "Wiggle Sort II", "Split Array into Consecutive Subsequences", "Shortest Word Distance", "Meeting Rooms", "Couples Holding Hands", "Non-overlapping Intervals", "Count Primes", "Sort Colors", "Third Maximum Number", "Interval List Intersections", "Car Pooling", "Ugly Number II", "First Missing Positive", "First Unique Character in a String", "Find All Numbers Disappeared in an Array", "Happy Number", "Super Ugly Number", "Find the Difference", "Merge k Sorted Lists", "Kth Largest Element in an Array", "Meeting Rooms II", "Kth Largest Element in a Stream", "Missing Number", "Find the Duplicate Number", "Can Place Flowers"]}
+{"idx": 94, "cluster": ["Reverse String II", "Reverse Vowels of a String", "Reverse String", "Reverse Words in a String III", "Remove Vowels from a String"]}
+{"idx": 95, "cluster": ["Length of Longest Fibonacci Subsequence", "Min Cost Climbing Stairs", "Fibonacci Number", "N-th Tribonacci Number", "Split Array into Fibonacci Sequence", "Additive Number", "Climbing Stairs"]}
+{"idx": 96, "cluster": ["Majority Element", "Majority Element II", "Check If a Number Is Majority Element in a Sorted Array"]}
+{"idx": 97, "cluster": ["Alien Dictionary", "Minimum Height Trees", "Shortest Distance from All Buildings", "Sentence Similarity", "Walls and Gates", "Rotting Oranges", "The Earliest Moment When Everyone Become Friends", "Number of Islands", "Sequence Reconstruction", "Course Schedule", "Minimum Moves to Equal Array Elements", "Best Meeting Point", "Course Schedule III", "Minimum Moves to Equal Array Elements II", "Redundant Connection", "Robot Return to Origin", "Island Perimeter", "Redundant Connection II", "Flood Fill", "Number of Connected Components in an Undirected Graph", "As Far from Land as Possible", "Course Schedule II", "Graph Valid Tree", "Sentence Similarity II", "Number of Distinct Islands II", "Accounts Merge", "Number of Islands II", "Number of Distinct Islands", "Surrounded Regions", "Robot Room Cleaner", "Coloring A Border", "Max Area of Island", "Number of Provinces"]}
+{"idx": 98, "cluster": ["Minimum Cost to Merge Stones", "Minimum Cost to Connect Sticks", "Burst Balloons"]}
+{"idx": 99, "cluster": ["Intersection of Two Arrays", "Intersection of Two Arrays II", "Find Common Characters", "Intersection of Three Sorted Arrays"]}
+{"idx": 100, "cluster": ["Best Time to Buy and Sell Stock II", "Balanced Binary Tree", "Group Anagrams", "Remove Comments", "Counting Bits", "Subarray Sum Equals K", "Combinations", "Power of Four", "Second Minimum Node In a Binary Tree", "Number of Atoms", "3Sum", "4Sum II", "Valid Parentheses", "Longest Palindrome", "Nested List Weight Sum", "Range Sum Query 2D - Immutable", "Subarrays with K Different Integers", "Range Sum Query 2D - Mutable", "Minimum Unique Word Abbreviation", "Parse Lisp Expression", "Number of 1 Bits", "Minimum Size Subarray Sum", "Power of Two", "Inorder Successor in BST", "Zigzag Iterator", "Trapping Rain Water II", "Reverse Bits", "Min Stack", "Evaluate Reverse Polish Notation", "Factor Combinations", "Ternary Expression Parser", "Employee Importance", "Basic Calculator", "Check If Word Is Valid After Substitutions", "Different Ways to Add Parentheses", "Nested List Weight Sum II", "String to Integer (atoi)", "Valid Anagram", "Brace Expansion", "Closest Binary Search Tree Value II", "Hamming Distance", "Total Hamming Distance", "Mini Parser", "Edit Distance", "Permutation Sequence", "Cousins in Binary Tree", "Trapping Rain Water", "Paint Fence", "Palindrome Permutation", "Two Sum BSTs", "Maximum Sum of 3 Non-Overlapping Subarrays", "Max Consecutive Ones III", "3Sum Closest", "Best Time to Buy and Sell Stock III", "Kth Smallest Element in a BST", "Average of Levels in Binary Tree", "Subarray Product Less Than K", "Two Sum II - Input Array Is Sorted", "Max Consecutive Ones II", "Longest Substring with At Most Two Distinct Characters", "Substring with Concatenation of All Words", "Find All Anagrams in a String", "Insert into a Binary Search Tree", "Letter Combinations of a Phone Number", "Degree of an Array", "Verify Preorder Sequence in Binary Search Tree", "Binary Search Tree Iterator", "Increasing Triplet Subsequence", "Encode String with Shortest Length", "Count Different Palindromic Subsequences", "Repeated Substring Pattern", "Product of Array Except Self", "Basic Calculator II", "Unique Binary Search Trees II", "Minimum Distance Between BST Nodes", "Two Sum IV - Input is a BST", "Reverse Integer", "Search in a Binary Search Tree", "Number of Longest Increasing Subsequence", "3Sum Smaller", "Binary Tree Postorder Traversal", "Longest Palindromic Substring", "Continuous Subarray Sum", "Container With Most Water", "House Robber", "Power of Three", "Two Sum Less Than K", "Target Sum", "Best Time to Buy and Sell Stock", "Ones and Zeroes", "Valid Number", "Minimum Window Subsequence", "Number of Squareful Arrays", "Range Sum Query - Mutable", "Longest Valid Parentheses", "Palindrome Permutation II", "Group Shifted Strings", "Paint House II", "Palindromic Substrings", "Longest Palindromic Subsequence", "House Robber III", "Non-negative Integers without Consecutive Ones", "Coin Path", "4Sum", "Peeking Iterator", "Combination Sum", "Binary Watch", "Combination Sum III", "Two Sum III - Data structure design", "Maximum Length of Pair Chain", "Validate Binary Search Tree", "Best Time to Buy and Sell Stock with Transaction Fee", "Subsets II", "Two Sum", "Repeated String Match", "Minimum Window Substring", "Maximum Size Subarray Sum Equals k", "N-ary Tree Postorder Traversal", "Expression Add Operators", "Delete Operation for Two Strings", "Combination Sum IV", "Word Abbreviation", "Contiguous Array", "N-ary Tree Level Order Traversal", "Basic Calculator IV", "Maximum Subarray", "Binary Tree Vertical Order Traversal", "Delete and Earn", "Best Time to Buy and Sell Stock with Cooldown", "House Robber II", "Permutation in String", "Remove Invalid Parentheses", "Best Time to Buy and Sell Stock IV", "Maximum Length of Repeated Subarray", "Range Sum Query - Immutable", "Maximum Depth of N-ary Tree", "Binary Tree Level Order Traversal", "Longest Substring Without Repeating Characters", "Prime Number of Set Bits in Binary Representation", "Sliding Window Maximum", "Subsets", "Permutations", "Inorder Successor in BST II", "Binary Number with Alternating Bits", "Letter Case Permutation", "Longest Repeating Character Replacement", "Array Nesting", "Paint House", "Binary Tree Zigzag Level Order Traversal", "Russian Doll Envelopes", "Binary Tree Level Order Traversal II", "Maximum Product Subarray", "Valid Word Abbreviation", "Longest Substring with At Most K Distinct Characters", "Subarray Sums Divisible by K", "Flatten 2D Vector", "Count Complete Tree Nodes", "Binary Tree Preorder Traversal", "Unique Binary Search Trees", "Minimum ASCII Delete Sum for Two Strings", "Find Pivot Index", "Maximum Depth of Binary Tree", "Permutations II", "Find Mode in Binary Search Tree", "Uncrossed Lines", "Max Stack", "Generalized Abbreviation", "Decode String", "One Edit Distance", "Closest Binary Search Tree Value", "Unique Word Abbreviation", "Next Permutation", "Find the Index of the First Occurrence in a String", "Brace Expansion II", "Generate Parentheses", "Convert Binary Search Tree to Sorted Doubly Linked List", "Basic Calculator III", "Longest Turbulent Subarray", "Longest Increasing Subsequence", "Shortest Palindrome", "Maximum Product of Three Numbers", "Max Consecutive Ones", "Longest Continuous Increasing Subsequence", "Non-decreasing Subsequences", "Flatten Nested List Iterator", "Valid Triangle Number", "Combination Sum II", "Palindrome Pairs", "Pour Water", "Minimum Depth of Binary Tree", "N-ary Tree Preorder Traversal", "Binary Tree Inorder Traversal"]}
+{"idx": 101, "cluster": ["Encode Number", "Convert to Base -2"]}
+{"idx": 102, "cluster": ["Lowest Common Ancestor of a Binary Tree", "Lowest Common Ancestor of a Binary Search Tree", "Smallest Common Region"]}
