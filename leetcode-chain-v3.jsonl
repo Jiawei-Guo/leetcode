@@ -1,0 +1,142 @@
+{"first": "Swap Nodes in Pairs", "second": "Reverse Nodes in k-Group"}
+{"first": "Regular Expression Matching", "second": "Wildcard Matching"}
+{"first": "Jump Game", "second": "Jump Game II"}
+{"first": "Spiral Matrix", "second": "Spiral Matrix II"}
+{"first": "Remove Duplicates from Sorted List", "second": "Remove Duplicates from Sorted List II"}
+{"first": "Construct Binary Tree from Inorder and Postorder Traversal", "second": "Construct Binary Tree from Preorder and Inorder Traversal"}
+{"first": "Convert Sorted Array to Binary Search Tree", "second": "Convert Sorted List to Binary Search Tree"}
+{"first": "Pascal's Triangle", "second": "Pascal's Triangle II"}
+{"first": "Palindrome Partitioning", "second": "Palindrome Partitioning II"}
+{"first": "Copy List with Random Pointer", "second": "Clone Graph"}
+{"first": "Find Minimum in Rotated Sorted Array", "second": "Find Minimum in Rotated Sorted Array II"}
+{"first": "Search in Rotated Sorted Array II", "second": "Search in Rotated Sorted Array"}
+{"first": "Read N Characters Given Read4", "second": "Read N Characters Given read4 II - Call Multiple Times"}
+{"first": "Excel Sheet Column Number", "second": "Excel Sheet Column Title"}
+{"first": "Contains Duplicate II", "second": "Contains Duplicate III"}
+{"first": "Implement Queue using Stacks", "second": "Implement Stack using Queues"}
+{"first": "Search a 2D Matrix II", "second": "Search a 2D Matrix"}
+{"first": "Roman to Integer", "second": "Integer to Roman", "third": "Integer to English Words"}
+{"first": "H-Index II", "second": "H-Index"}
+{"first": "Remove Duplicates from Sorted Array", "second": "Remove Duplicates from Sorted Array II"}
+{"first": "Remove Linked List Elements", "second": "Delete Node in a Linked List"}
+{"first": "Move Zeroes", "second": "Remove Element"}
+{"first": "Game of Life", "second": "Set Matrix Zeroes"}
+{"first": "Word Pattern", "second": "Word Pattern II"}
+{"first": "Logger Rate Limiter", "second": "Design Hit Counter"}
+{"first": "Insert Delete GetRandom O(1)", "second": "Insert Delete GetRandom O(1) - Duplicates allowed"}
+{"first": "Flatten a Multilevel Doubly Linked List", "second": "Flatten Binary Tree to Linked List"}
+{"first": "Minimum Genetic Mutation", "second": "Word Ladder II"}
+{"first": "Missing Ranges", "second": "Find Right Interval", "third": "Data Stream as Disjoint Intervals"}
+{"first": "Summary Ranges", "second": "Data Stream as Disjoint Intervals"}
+{"first": "Arithmetic Slices", "second": "Arithmetic Slices II - Subsequence"}
+{"first": "Line Reflection", "second": "Max Points on a Line"}
+{"first": "Word Break", "second": "Concatenated Words"}
+{"first": "Sliding Window Median", "second": "Find Median from Data Stream"}
+{"first": "Queue Reconstruction by Height", "second": "Reverse Pairs"}
+{"first": "Count of Smaller Numbers After Self", "second": "Count of Range Sum"}
+{"first": "The Maze", "second": "The Maze III"}
+{"first": "Longest Uncommon Subsequence I", "second": "Longest Uncommon Subsequence II"}
+{"first": "Minimum Absolute Difference in BST", "second": "K-diff Pairs in an Array"}
+{"first": "Lonely Pixel I", "second": "Lonely Pixel II"}
+{"first": "Binary Tree Right Side View", "second": "Populating Next Right Pointers in Each Node"}
+{"first": "Boundary of Binary Tree", "second": "Populating Next Right Pointers in Each Node II"}
+{"first": "Binary Tree Longest Consecutive Sequence II", "second": "Binary Tree Longest Consecutive Sequence"}
+{"first": "Student Attendance Record I", "second": "Student Attendance Record II"}
+{"first": "Range Addition II", "second": "Range Addition"}
+{"first": "Minimum Index Sum of Two Lists", "second": "Intersection of Two Linked Lists"}
+{"first": "Sqrt(x)", "second": "Pow(x, n)"}
+{"first": "Valid Perfect Square", "second": "Super Pow"}
+{"first": "Decode Ways", "second": "Decode Ways II"}
+{"first": "Solve the Equation", "second": "Fraction Addition and Subtraction"}
+{"first": "Design Circular Queue", "second": "Design Circular Deque"}
+{"first": "Maximum Average Subarray I", "second": "Maximum Average Subarray II"}
+{"first": "Remove Boxes", "second": "Strange Printer"}
+{"first": "Beautiful Arrangement II", "second": "Beautiful Arrangement"}
+{"first": "Valid Palindrome II", "second": "Binary Tree Upside Down"}
+{"first": "Palindrome Linked List", "second": "Reverse Linked List II"}
+{"first": "Palindrome Number", "second": "Reverse Linked List"}
+{"first": "Out of Boundary Paths", "second": "Knight Probability in Chessboard"}
+{"first": "Ransom Note", "second": "Stickers to Spell Word"}
+{"first": "Construct String from Binary Tree", "second": "LRU Cache", "third": "Serialize and Deserialize N-ary Tree"}
+{"first": "Design Compressed String Iterator", "second": "Serialize and Deserialize BST", "third": "Serialize and Deserialize Binary Tree"}
+{"first": "Count Binary Substrings", "second": "Construct Binary Tree from String", "third": "Encode N-ary Tree to Binary Tree"}
+{"first": "Partition Equal Subset Sum", "second": "Partition to K Equal Sum Subsets"}
+{"first": "The Skyline Problem", "second": "Falling Squares"}
+{"first": "Binary Search", "second": "Search in a Sorted Array of Unknown Size"}
+{"first": "Design HashMap", "second": "Design HashSet"}
+{"first": "Random Pick Index", "second": "Random Pick with Blacklist"}
+{"first": "Linked List Random Node", "second": "Random Pick with Weight"}
+{"first": "Generate Random Point in a Circle", "second": "Random Point in Non-overlapping Rectangles"}
+{"first": "1-bit and 2-bit Characters", "second": "Gray Code"}
+{"first": "Reverse Words in a String II", "second": "Rotate Array"}
+{"first": "Reverse Words in a String", "second": "Rotate List"}
+{"first": "Odd Even Linked List", "second": "Split Linked List in Parts"}
+{"first": "Perfect Number", "second": "Self Dividing Numbers"}
+{"first": "My Calendar I", "second": "My Calendar III"}
+{"first": "Monotone Increasing Digits", "second": "Create Maximum Number"}
+{"first": "Maximum Swap", "second": "Remove K Digits"}
+{"first": "Next Greater Element I", "second": "Next Greater Element III"}
+{"first": "Next Greater Element II", "second": "Daily Temperatures"}
+{"first": "Implement Magic Dictionary", "second": "Prefix and Suffix Search"}
+{"first": "Replace Words", "second": "Design Search Autocomplete System"}
+{"first": "Implement Trie (Prefix Tree)", "second": "Design Add and Search Words Data Structure"}
+{"first": "Restore IP Addresses", "second": "Validate IP Address"}
+{"first": "Valid Parenthesis String", "second": "Special Binary String"}
+{"first": "Largest Plus Sign", "second": "Maximal Rectangle"}
+{"first": "Maximal Square", "second": "Largest Rectangle in Histogram"}
+{"first": "Valid Word Square", "second": "Word Squares"}
+{"first": "Reorganize String", "second": "Rearrange String k Distance Apart"}
+{"first": "Max Chunks To Make Sorted", "second": "Max Chunks To Make Sorted II"}
+{"first": "Delete Node in a BST", "second": "Split BST"}
+{"first": "Search Insert Position", "second": "Can I Win", "third": "Find K-th Smallest Pair Distance"}
+{"first": "Guess Number Higher or Lower", "second": "Predict the Winner", "third": "Kth Smallest Number in Multiplication Table"}
+{"first": "Guess Number Higher or Lower II", "second": "Kth Smallest Number in Multiplication Table"}
+{"first": "Cheapest Flights Within K Stops", "second": "Maximum Vacation Days"}
+{"first": "Valid Tic-Tac-Toe State", "second": "Design Tic-Tac-Toe"}
+{"first": "Rectangle Overlap", "second": "Rectangle Area"}
+{"first": "Peak Index in a Mountain Array", "second": "Find Peak Element"}
+{"first": "Exam Room", "second": "Maximize Distance to Closest Person"}
+{"first": "Koko Eating Bananas", "second": "Minimize Max Distance to Gas Station"}
+{"first": "Largest Perimeter Triangle", "second": "Largest Triangle Area"}
+{"first": "Distribute Coins in Binary Tree", "second": "Sum of Distances in Tree"}
+{"first": "Word Search", "second": "Dungeon Game"}
+{"first": "Minimum Path Sum", "second": "Unique Paths III"}
+{"first": "Valid Sudoku", "second": "Cherry Pickup"}
+{"first": "Minimum Cost For Tickets", "second": "Coin Change"}
+{"first": "Subtree of Another Tree", "second": "Most Frequent Subtree Sum", "third": "Binary Tree Maximum Path Sum"}
+{"first": "Path Sum IV", "second": "Binary Tree Maximum Path Sum"}
+{"first": "Longest Univalue Path", "second": "Binary Tree Maximum Path Sum"}
+{"first": "Add Strings", "second": "Add Two Numbers"}
+{"first": "Plus One", "second": "Multiply Strings"}
+{"first": "Add to Array-Form of Integer", "second": "Plus One Linked List"}
+{"first": "4 Keys Keyboard", "second": "Broken Calculator"}
+{"first": "Bulb Switcher", "second": "Minimum Number of K Consecutive Bit Flips"}
+{"first": "Find the Town Judge", "second": "Find the Celebrity"}
+{"first": "Maximum Binary Tree", "second": "Maximum Binary Tree II"}
+{"first": "N-Queens", "second": "N-Queens II"}
+{"first": "Is Subsequence", "second": "Number of Matching Subsequences"}
+{"first": "Campus Bikes", "second": "Campus Bikes II"}
+{"first": "Factorial Trailing Zeroes", "second": "Number of Digit One"}
+{"first": "Preimage Size of Factorial Zeroes Function", "second": "Digit Count in Range"}
+{"first": "Strobogrammatic Number", "second": "Strobogrammatic Number II", "third": "Strobogrammatic Number III"}
+{"first": "Confusing Number", "second": "Strobogrammatic Number III"}
+{"first": "Single Number", "second": "K Closest Points to Origin", "third": "K-Similar Strings"}
+{"first": "Merge Sorted Array", "second": "Single Number III", "third": "Tag Validator"}
+{"first": "Merge Two Sorted Lists", "second": "Asteroid Collision", "third": "Employee Free Time"}
+{"first": "Reverse String II", "second": "Remove Vowels from a String"}
+{"first": "Reverse Vowels of a String", "second": "Reverse Words in a String III"}
+{"first": "Min Cost Climbing Stairs", "second": "Additive Number"}
+{"first": "Fibonacci Number", "second": "Split Array into Fibonacci Sequence"}
+{"first": "N-th Tribonacci Number", "second": "Length of Longest Fibonacci Subsequence"}
+{"first": "Majority Element", "second": "Majority Element II"}
+{"first": "Sentence Similarity", "second": "Minimum Height Trees", "third": "Alien Dictionary"}
+{"first": "Robot Return to Origin", "second": "Walls and Gates", "third": "Shortest Distance from All Buildings"}
+{"first": "Island Perimeter", "second": "Rotting Oranges", "third": "Best Meeting Point"}
+{"first": "Minimum Cost to Connect Sticks", "second": "Burst Balloons"}
+{"first": "Intersection of Two Arrays", "second": "Intersection of Three Sorted Arrays"}
+{"first": "Intersection of Two Arrays II", "second": "Find Common Characters"}
+{"first": "Balanced Binary Tree", "second": "Best Time to Buy and Sell Stock II", "third": "Number of Atoms"}
+{"first": "Counting Bits", "second": "Group Anagrams", "third": "Subarrays with K Different Integers"}
+{"first": "Power of Four", "second": "Remove Comments", "third": "Range Sum Query 2D - Mutable"}
+{"first": "Encode Number", "second": "Convert to Base -2"}
+{"first": "Lowest Common Ancestor of a Binary Tree", "second": "Smallest Common Region"}
