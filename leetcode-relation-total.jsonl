@@ -1,0 +1,612 @@
+{"id": 1, "title": "Two Sum", "diff": "Easy", "relate": ["3Sum", "4Sum", "Two Sum II - Input Array Is Sorted", "Two Sum III - Data structure design", "Subarray Sum Equals K", "Two Sum IV - Input is a BST", "Two Sum Less Than K"], "level": ["Medium", "Medium", "Medium", "Easy", "Medium", "Easy", "Easy"]}
+{"id": 2, "title": "Add Two Numbers", "diff": "Medium", "relate": ["Multiply Strings", "Add Binary", "Sum of Two Integers", "Add Strings", "Add Two Numbers II", "Add to Array-Form of Integer"], "level": ["Medium", "Easy", "Medium", "Easy", "Medium", "Easy"]}
+{"id": 3, "title": "Longest Substring Without Repeating Characters", "diff": "Medium", "relate": ["Longest Substring with At Most Two Distinct Characters", "Longest Substring with At Most K Distinct Characters", "Subarrays with K Different Integers"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 5, "title": "Longest Palindromic Substring", "diff": "Medium", "relate": ["Shortest Palindrome", "Palindrome Permutation", "Palindrome Pairs", "Longest Palindromic Subsequence", "Palindromic Substrings"], "level": ["Hard", "Easy", "Hard", "Medium", "Medium"]}
+{"id": 7, "title": "Reverse Integer", "diff": "Medium", "relate": ["String to Integer (atoi)", "Reverse Bits"], "level": ["Medium", "Easy"]}
+{"id": 8, "title": "String to Integer (atoi)", "diff": "Medium", "relate": ["Reverse Integer", "Valid Number"], "level": ["Medium", "Hard"]}
+{"id": 9, "title": "Palindrome Number", "diff": "Easy", "relate": ["Palindrome Linked List"], "level": ["Easy"]}
+{"id": 10, "title": "Regular Expression Matching", "diff": "Hard", "relate": ["Wildcard Matching"], "level": ["Hard"]}
+{"id": 11, "title": "Container With Most Water", "diff": "Medium", "relate": ["Trapping Rain Water"], "level": ["Hard"]}
+{"id": 12, "title": "Integer to Roman", "diff": "Medium", "relate": ["Roman to Integer", "Integer to English Words"], "level": ["Easy", "Hard"]}
+{"id": 13, "title": "Roman to Integer", "diff": "Easy", "relate": ["Integer to Roman"], "level": ["Medium"]}
+{"id": 15, "title": "3Sum", "diff": "Medium", "relate": ["Two Sum", "3Sum Closest", "4Sum", "3Sum Smaller"], "level": ["Easy", "Medium", "Medium", "Medium"]}
+{"id": 16, "title": "3Sum Closest", "diff": "Medium", "relate": ["3Sum", "3Sum Smaller"], "level": ["Medium", "Medium"]}
+{"id": 17, "title": "Letter Combinations of a Phone Number", "diff": "Medium", "relate": ["Generate Parentheses", "Combination Sum", "Binary Watch"], "level": ["Medium", "Medium", "Easy"]}
+{"id": 18, "title": "4Sum", "diff": "Medium", "relate": ["Two Sum", "3Sum", "4Sum II"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 20, "title": "Valid Parentheses", "diff": "Easy", "relate": ["Generate Parentheses", "Longest Valid Parentheses", "Remove Invalid Parentheses", "Check If Word Is Valid After Substitutions"], "level": ["Medium", "Hard", "Hard", "Medium"]}
+{"id": 21, "title": "Merge Two Sorted Lists", "diff": "Easy", "relate": ["Merge k Sorted Lists", "Merge Sorted Array", "Sort List", "Shortest Word Distance II"], "level": ["Hard", "Easy", "Medium", "Medium"]}
+{"id": 22, "title": "Generate Parentheses", "diff": "Medium", "relate": ["Letter Combinations of a Phone Number", "Valid Parentheses"], "level": ["Medium", "Easy"]}
+{"id": 23, "title": "Merge k Sorted Lists", "diff": "Hard", "relate": ["Merge Two Sorted Lists", "Ugly Number II"], "level": ["Easy", "Medium"]}
+{"id": 24, "title": "Swap Nodes in Pairs", "diff": "Medium", "relate": ["Reverse Nodes in k-Group"], "level": ["Hard"]}
+{"id": 25, "title": "Reverse Nodes in k-Group", "diff": "Hard", "relate": ["Swap Nodes in Pairs"], "level": ["Medium"]}
+{"id": 26, "title": "Remove Duplicates from Sorted Array", "diff": "Easy", "relate": ["Remove Element", "Remove Duplicates from Sorted Array II"], "level": ["Easy", "Medium"]}
+{"id": 27, "title": "Remove Element", "diff": "Easy", "relate": ["Remove Duplicates from Sorted Array", "Remove Linked List Elements", "Move Zeroes"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 28, "title": "Find the Index of the First Occurrence in a String", "diff": "Easy", "relate": ["Shortest Palindrome", "Repeated Substring Pattern"], "level": ["Hard", "Easy"]}
+{"id": 30, "title": "Substring with Concatenation of All Words", "diff": "Hard", "relate": ["Minimum Window Substring"], "level": ["Hard"]}
+{"id": 31, "title": "Next Permutation", "diff": "Medium", "relate": ["Permutations", "Permutations II", "Permutation Sequence", "Palindrome Permutation II"], "level": ["Medium", "Medium", "Hard", "Medium"]}
+{"id": 32, "title": "Longest Valid Parentheses", "diff": "Hard", "relate": ["Valid Parentheses"], "level": ["Easy"]}
+{"id": 33, "title": "Search in Rotated Sorted Array", "diff": "Medium", "relate": ["Search in Rotated Sorted Array II", "Find Minimum in Rotated Sorted Array"], "level": ["Medium", "Medium"]}
+{"id": 34, "title": "Find First and Last Position of Element in Sorted Array", "diff": "Medium", "relate": ["First Bad Version"], "level": ["Easy"]}
+{"id": 35, "title": "Search Insert Position", "diff": "Easy", "relate": ["First Bad Version"], "level": ["Easy"]}
+{"id": 36, "title": "Valid Sudoku", "diff": "Medium", "relate": ["Sudoku Solver"], "level": ["Hard"]}
+{"id": 37, "title": "Sudoku Solver", "diff": "Hard", "relate": ["Valid Sudoku", "Unique Paths III"], "level": ["Medium", "Hard"]}
+{"id": 38, "title": "Count and Say", "diff": "Medium", "relate": ["Encode and Decode Strings", "String Compression"], "level": ["Medium", "Medium"]}
+{"id": 39, "title": "Combination Sum", "diff": "Medium", "relate": ["Letter Combinations of a Phone Number", "Combination Sum II", "Combinations", "Combination Sum III", "Factor Combinations", "Combination Sum IV"], "level": ["Medium", "Medium", "Medium", "Medium", "Medium", "Medium"]}
+{"id": 40, "title": "Combination Sum II", "diff": "Medium", "relate": ["Combination Sum"], "level": ["Medium"]}
+{"id": 41, "title": "First Missing Positive", "diff": "Hard", "relate": ["Missing Number", "Find the Duplicate Number", "Find All Numbers Disappeared in an Array", "Couples Holding Hands"], "level": ["Easy", "Medium", "Easy", "Hard"]}
+{"id": 42, "title": "Trapping Rain Water", "diff": "Hard", "relate": ["Container With Most Water", "Product of Array Except Self", "Trapping Rain Water II", "Pour Water"], "level": ["Medium", "Medium", "Hard", "Medium"]}
+{"id": 43, "title": "Multiply Strings", "diff": "Medium", "relate": ["Add Two Numbers", "Plus One", "Add Binary", "Add Strings"], "level": ["Medium", "Easy", "Easy", "Easy"]}
+{"id": 44, "title": "Wildcard Matching", "diff": "Hard", "relate": ["Regular Expression Matching"], "level": ["Hard"]}
+{"id": 45, "title": "Jump Game II", "diff": "Medium", "relate": ["Jump Game"], "level": ["Medium"]}
+{"id": 46, "title": "Permutations", "diff": "Medium", "relate": ["Next Permutation", "Permutations II", "Permutation Sequence", "Combinations"], "level": ["Medium", "Medium", "Hard", "Medium"]}
+{"id": 47, "title": "Permutations II", "diff": "Medium", "relate": ["Next Permutation", "Permutations", "Palindrome Permutation II", "Number of Squareful Arrays"], "level": ["Medium", "Medium", "Medium", "Hard"]}
+{"id": 49, "title": "Group Anagrams", "diff": "Medium", "relate": ["Valid Anagram", "Group Shifted Strings"], "level": ["Easy", "Medium"]}
+{"id": 50, "title": "Pow(x, n)", "diff": "Medium", "relate": ["Sqrt(x)", "Super Pow"], "level": ["Easy", "Medium"]}
+{"id": 51, "title": "N-Queens", "diff": "Hard", "relate": ["N-Queens II", "Grid Illumination"], "level": ["Hard", "Hard"]}
+{"id": 52, "title": "N-Queens II", "diff": "Hard", "relate": ["N-Queens"], "level": ["Hard"]}
+{"id": 53, "title": "Maximum Subarray", "diff": "Medium", "relate": ["Best Time to Buy and Sell Stock", "Maximum Product Subarray", "Degree of an Array", "Longest Turbulent Subarray"], "level": ["Easy", "Medium", "Easy", "Medium"]}
+{"id": 54, "title": "Spiral Matrix", "diff": "Medium", "relate": ["Spiral Matrix II"], "level": ["Medium"]}
+{"id": 55, "title": "Jump Game", "diff": "Medium", "relate": ["Jump Game II"], "level": ["Medium"]}
+{"id": 56, "title": "Merge Intervals", "diff": "Medium", "relate": ["Insert Interval", "Meeting Rooms", "Meeting Rooms II", "Teemo Attacking", "Add Bold Tag in String", "Range Module", "Employee Free Time", "Partition Labels", "Interval List Intersections"], "level": ["Medium", "Easy", "Medium", "Easy", "Medium", "Hard", "Hard", "Medium", "Medium"]}
+{"id": 57, "title": "Insert Interval", "diff": "Medium", "relate": ["Merge Intervals", "Range Module"], "level": ["Medium", "Hard"]}
+{"id": 59, "title": "Spiral Matrix II", "diff": "Medium", "relate": ["Spiral Matrix"], "level": ["Medium"]}
+{"id": 60, "title": "Permutation Sequence", "diff": "Hard", "relate": ["Next Permutation", "Permutations"], "level": ["Medium", "Medium"]}
+{"id": 61, "title": "Rotate List", "diff": "Medium", "relate": ["Rotate Array", "Split Linked List in Parts"], "level": ["Medium", "Medium"]}
+{"id": 62, "title": "Unique Paths", "diff": "Medium", "relate": ["Unique Paths II", "Minimum Path Sum", "Dungeon Game"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 63, "title": "Unique Paths II", "diff": "Medium", "relate": ["Unique Paths", "Unique Paths III"], "level": ["Medium", "Hard"]}
+{"id": 64, "title": "Minimum Path Sum", "diff": "Medium", "relate": ["Unique Paths", "Dungeon Game", "Cherry Pickup"], "level": ["Medium", "Hard", "Hard"]}
+{"id": 65, "title": "Valid Number", "diff": "Hard", "relate": ["String to Integer (atoi)"], "level": ["Medium"]}
+{"id": 66, "title": "Plus One", "diff": "Easy", "relate": ["Multiply Strings", "Add Binary", "Plus One Linked List", "Add to Array-Form of Integer"], "level": ["Medium", "Easy", "Medium", "Easy"]}
+{"id": 67, "title": "Add Binary", "diff": "Easy", "relate": ["Add Two Numbers", "Multiply Strings", "Plus One", "Add to Array-Form of Integer"], "level": ["Medium", "Medium", "Easy", "Easy"]}
+{"id": 69, "title": "Sqrt(x)", "diff": "Easy", "relate": ["Pow(x, n)", "Valid Perfect Square"], "level": ["Medium", "Easy"]}
+{"id": 70, "title": "Climbing Stairs", "diff": "Easy", "relate": ["Min Cost Climbing Stairs", "Fibonacci Number", "N-th Tribonacci Number"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 72, "title": "Edit Distance", "diff": "Hard", "relate": ["One Edit Distance", "Delete Operation for Two Strings", "Minimum ASCII Delete Sum for Two Strings", "Uncrossed Lines"], "level": ["Medium", "Medium", "Medium", "Medium"]}
+{"id": 73, "title": "Set Matrix Zeroes", "diff": "Medium", "relate": ["Game of Life"], "level": ["Medium"]}
+{"id": 74, "title": "Search a 2D Matrix", "diff": "Medium", "relate": ["Search a 2D Matrix II"], "level": ["Medium"]}
+{"id": 75, "title": "Sort Colors", "diff": "Medium", "relate": ["Sort List", "Wiggle Sort", "Wiggle Sort II"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 76, "title": "Minimum Window Substring", "diff": "Hard", "relate": ["Substring with Concatenation of All Words", "Minimum Size Subarray Sum", "Sliding Window Maximum", "Permutation in String", "Minimum Window Subsequence"], "level": ["Hard", "Medium", "Hard", "Medium", "Hard"]}
+{"id": 77, "title": "Combinations", "diff": "Medium", "relate": ["Combination Sum", "Permutations"], "level": ["Medium", "Medium"]}
+{"id": 78, "title": "Subsets", "diff": "Medium", "relate": ["Subsets II", "Generalized Abbreviation", "Letter Case Permutation"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 79, "title": "Word Search", "diff": "Medium", "relate": ["Word Search II"], "level": ["Hard"]}
+{"id": 80, "title": "Remove Duplicates from Sorted Array II", "diff": "Medium", "relate": ["Remove Duplicates from Sorted Array"], "level": ["Easy"]}
+{"id": 81, "title": "Search in Rotated Sorted Array II", "diff": "Medium", "relate": ["Search in Rotated Sorted Array"], "level": ["Medium"]}
+{"id": 82, "title": "Remove Duplicates from Sorted List II", "diff": "Medium", "relate": ["Remove Duplicates from Sorted List"], "level": ["Easy"]}
+{"id": 83, "title": "Remove Duplicates from Sorted List", "diff": "Easy", "relate": ["Remove Duplicates from Sorted List II"], "level": ["Medium"]}
+{"id": 84, "title": "Largest Rectangle in Histogram", "diff": "Hard", "relate": ["Maximal Rectangle"], "level": ["Hard"]}
+{"id": 85, "title": "Maximal Rectangle", "diff": "Hard", "relate": ["Largest Rectangle in Histogram", "Maximal Square"], "level": ["Hard", "Medium"]}
+{"id": 88, "title": "Merge Sorted Array", "diff": "Easy", "relate": ["Merge Two Sorted Lists", "Squares of a Sorted Array", "Interval List Intersections"], "level": ["Easy", "Easy", "Medium"]}
+{"id": 89, "title": "Gray Code", "diff": "Medium", "relate": ["1-bit and 2-bit Characters"], "level": ["Easy"]}
+{"id": 90, "title": "Subsets II", "diff": "Medium", "relate": ["Subsets"], "level": ["Medium"]}
+{"id": 91, "title": "Decode Ways", "diff": "Medium", "relate": ["Decode Ways II"], "level": ["Hard"]}
+{"id": 92, "title": "Reverse Linked List II", "diff": "Medium", "relate": ["Reverse Linked List"], "level": ["Easy"]}
+{"id": 93, "title": "Restore IP Addresses", "diff": "Medium", "relate": ["IP to CIDR"], "level": ["Medium"]}
+{"id": 94, "title": "Binary Tree Inorder Traversal", "diff": "Easy", "relate": ["Validate Binary Search Tree", "Binary Tree Preorder Traversal", "Binary Tree Postorder Traversal", "Binary Search Tree Iterator", "Kth Smallest Element in a BST", "Closest Binary Search Tree Value II", "Inorder Successor in BST", "Convert Binary Search Tree to Sorted Doubly Linked List", "Minimum Distance Between BST Nodes"], "level": ["Medium", "Easy", "Easy", "Medium", "Medium", "Hard", "Medium", "Medium", "Easy"]}
+{"id": 95, "title": "Unique Binary Search Trees II", "diff": "Medium", "relate": ["Unique Binary Search Trees", "Different Ways to Add Parentheses"], "level": ["Medium", "Medium"]}
+{"id": 96, "title": "Unique Binary Search Trees", "diff": "Medium", "relate": ["Unique Binary Search Trees II"], "level": ["Medium"]}
+{"id": 98, "title": "Validate Binary Search Tree", "diff": "Medium", "relate": ["Binary Tree Inorder Traversal", "Find Mode in Binary Search Tree"], "level": ["Easy", "Easy"]}
+{"id": 102, "title": "Binary Tree Level Order Traversal", "diff": "Medium", "relate": ["Binary Tree Zigzag Level Order Traversal", "Binary Tree Level Order Traversal II", "Minimum Depth of Binary Tree", "Binary Tree Vertical Order Traversal", "Average of Levels in Binary Tree", "N-ary Tree Level Order Traversal", "Cousins in Binary Tree"], "level": ["Medium", "Medium", "Easy", "Medium", "Easy", "Medium", "Easy"]}
+{"id": 103, "title": "Binary Tree Zigzag Level Order Traversal", "diff": "Medium", "relate": ["Binary Tree Level Order Traversal"], "level": ["Medium"]}
+{"id": 104, "title": "Maximum Depth of Binary Tree", "diff": "Easy", "relate": ["Balanced Binary Tree", "Minimum Depth of Binary Tree", "Maximum Depth of N-ary Tree"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 105, "title": "Construct Binary Tree from Preorder and Inorder Traversal", "diff": "Medium", "relate": ["Construct Binary Tree from Inorder and Postorder Traversal"], "level": ["Medium"]}
+{"id": 106, "title": "Construct Binary Tree from Inorder and Postorder Traversal", "diff": "Medium", "relate": ["Construct Binary Tree from Preorder and Inorder Traversal"], "level": ["Medium"]}
+{"id": 107, "title": "Binary Tree Level Order Traversal II", "diff": "Medium", "relate": ["Binary Tree Level Order Traversal", "Average of Levels in Binary Tree"], "level": ["Medium", "Easy"]}
+{"id": 108, "title": "Convert Sorted Array to Binary Search Tree", "diff": "Easy", "relate": ["Convert Sorted List to Binary Search Tree"], "level": ["Medium"]}
+{"id": 109, "title": "Convert Sorted List to Binary Search Tree", "diff": "Medium", "relate": ["Convert Sorted Array to Binary Search Tree"], "level": ["Easy"]}
+{"id": 110, "title": "Balanced Binary Tree", "diff": "Easy", "relate": ["Maximum Depth of Binary Tree"], "level": ["Easy"]}
+{"id": 111, "title": "Minimum Depth of Binary Tree", "diff": "Easy", "relate": ["Binary Tree Level Order Traversal", "Maximum Depth of Binary Tree"], "level": ["Medium", "Easy"]}
+{"id": 112, "title": "Path Sum", "diff": "Easy", "relate": ["Path Sum II", "Binary Tree Maximum Path Sum", "Sum Root to Leaf Numbers", "Path Sum III", "Path Sum IV"], "level": ["Medium", "Hard", "Medium", "Medium", "Medium"]}
+{"id": 113, "title": "Path Sum II", "diff": "Medium", "relate": ["Path Sum", "Binary Tree Paths", "Path Sum III", "Path Sum IV"], "level": ["Easy", "Easy", "Medium", "Medium"]}
+{"id": 114, "title": "Flatten Binary Tree to Linked List", "diff": "Medium", "relate": ["Flatten a Multilevel Doubly Linked List"], "level": ["Medium"]}
+{"id": 116, "title": "Populating Next Right Pointers in Each Node", "diff": "Medium", "relate": ["Populating Next Right Pointers in Each Node II", "Binary Tree Right Side View"], "level": ["Medium", "Medium"]}
+{"id": 117, "title": "Populating Next Right Pointers in Each Node II", "diff": "Medium", "relate": ["Populating Next Right Pointers in Each Node"], "level": ["Medium"]}
+{"id": 118, "title": "Pascal's Triangle", "diff": "Easy", "relate": ["Pascal's Triangle II"], "level": ["Easy"]}
+{"id": 119, "title": "Pascal's Triangle II", "diff": "Easy", "relate": ["Pascal's Triangle"], "level": ["Easy"]}
+{"id": 121, "title": "Best Time to Buy and Sell Stock", "diff": "Easy", "relate": ["Maximum Subarray", "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock III", "Best Time to Buy and Sell Stock IV", "Best Time to Buy and Sell Stock with Cooldown"], "level": ["Medium", "Medium", "Hard", "Hard", "Medium"]}
+{"id": 122, "title": "Best Time to Buy and Sell Stock II", "diff": "Medium", "relate": ["Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock III", "Best Time to Buy and Sell Stock IV", "Best Time to Buy and Sell Stock with Cooldown", "Best Time to Buy and Sell Stock with Transaction Fee"], "level": ["Easy", "Hard", "Hard", "Medium", "Medium"]}
+{"id": 123, "title": "Best Time to Buy and Sell Stock III", "diff": "Hard", "relate": ["Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock IV", "Maximum Sum of 3 Non-Overlapping Subarrays"], "level": ["Easy", "Medium", "Hard", "Hard"]}
+{"id": 124, "title": "Binary Tree Maximum Path Sum", "diff": "Hard", "relate": ["Path Sum", "Sum Root to Leaf Numbers", "Path Sum IV", "Longest Univalue Path"], "level": ["Easy", "Medium", "Medium", "Medium"]}
+{"id": 125, "title": "Valid Palindrome", "diff": "Easy", "relate": ["Palindrome Linked List", "Valid Palindrome II"], "level": ["Easy", "Easy"]}
+{"id": 126, "title": "Word Ladder II", "diff": "Hard", "relate": ["Word Ladder"], "level": ["Hard"]}
+{"id": 127, "title": "Word Ladder", "diff": "Hard", "relate": ["Word Ladder II", "Minimum Genetic Mutation"], "level": ["Hard", "Medium"]}
+{"id": 128, "title": "Longest Consecutive Sequence", "diff": "Medium", "relate": ["Binary Tree Longest Consecutive Sequence"], "level": ["Medium"]}
+{"id": 129, "title": "Sum Root to Leaf Numbers", "diff": "Medium", "relate": ["Path Sum", "Binary Tree Maximum Path Sum", "Smallest String Starting From Leaf"], "level": ["Easy", "Hard", "Medium"]}
+{"id": 130, "title": "Surrounded Regions", "diff": "Medium", "relate": ["Number of Islands", "Walls and Gates"], "level": ["Medium", "Medium"]}
+{"id": 131, "title": "Palindrome Partitioning", "diff": "Medium", "relate": ["Palindrome Partitioning II"], "level": ["Hard"]}
+{"id": 132, "title": "Palindrome Partitioning II", "diff": "Hard", "relate": ["Palindrome Partitioning"], "level": ["Medium"]}
+{"id": 133, "title": "Clone Graph", "diff": "Medium", "relate": ["Copy List with Random Pointer"], "level": ["Medium"]}
+{"id": 136, "title": "Single Number", "diff": "Easy", "relate": ["Single Number II", "Single Number III", "Missing Number", "Find the Duplicate Number", "Find the Difference"], "level": ["Medium", "Medium", "Easy", "Medium", "Easy"]}
+{"id": 137, "title": "Single Number II", "diff": "Medium", "relate": ["Single Number", "Single Number III"], "level": ["Easy", "Medium"]}
+{"id": 138, "title": "Copy List with Random Pointer", "diff": "Medium", "relate": ["Clone Graph"], "level": ["Medium"]}
+{"id": 139, "title": "Word Break", "diff": "Medium", "relate": ["Word Break II"], "level": ["Hard"]}
+{"id": 140, "title": "Word Break II", "diff": "Hard", "relate": ["Word Break", "Concatenated Words"], "level": ["Medium", "Hard"]}
+{"id": 141, "title": "Linked List Cycle", "diff": "Easy", "relate": ["Linked List Cycle II", "Happy Number"], "level": ["Medium", "Easy"]}
+{"id": 142, "title": "Linked List Cycle II", "diff": "Medium", "relate": ["Linked List Cycle", "Find the Duplicate Number"], "level": ["Easy", "Medium"]}
+{"id": 144, "title": "Binary Tree Preorder Traversal", "diff": "Easy", "relate": ["Binary Tree Inorder Traversal", "Verify Preorder Sequence in Binary Search Tree", "N-ary Tree Preorder Traversal"], "level": ["Easy", "Medium", "Easy"]}
+{"id": 145, "title": "Binary Tree Postorder Traversal", "diff": "Easy", "relate": ["Binary Tree Inorder Traversal", "N-ary Tree Postorder Traversal"], "level": ["Easy", "Easy"]}
+{"id": 146, "title": "LRU Cache", "diff": "Medium", "relate": ["LFU Cache", "Design In-Memory File System", "Design Compressed String Iterator"], "level": ["Hard", "Hard", "Easy"]}
+{"id": 147, "title": "Insertion Sort List", "diff": "Medium", "relate": ["Sort List", "Insert into a Sorted Circular Linked List"], "level": ["Medium", "Medium"]}
+{"id": 148, "title": "Sort List", "diff": "Medium", "relate": ["Merge Two Sorted Lists", "Sort Colors", "Insertion Sort List"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 149, "title": "Max Points on a Line", "diff": "Hard", "relate": ["Line Reflection"], "level": ["Medium"]}
+{"id": 150, "title": "Evaluate Reverse Polish Notation", "diff": "Medium", "relate": ["Basic Calculator", "Expression Add Operators"], "level": ["Hard", "Hard"]}
+{"id": 151, "title": "Reverse Words in a String", "diff": "Medium", "relate": ["Reverse Words in a String II"], "level": ["Medium"]}
+{"id": 152, "title": "Maximum Product Subarray", "diff": "Medium", "relate": ["Maximum Subarray", "House Robber", "Product of Array Except Self", "Maximum Product of Three Numbers", "Subarray Product Less Than K"], "level": ["Medium", "Medium", "Medium", "Easy", "Medium"]}
+{"id": 153, "title": "Find Minimum in Rotated Sorted Array", "diff": "Medium", "relate": ["Search in Rotated Sorted Array", "Find Minimum in Rotated Sorted Array II"], "level": ["Medium", "Hard"]}
+{"id": 154, "title": "Find Minimum in Rotated Sorted Array II", "diff": "Hard", "relate": ["Find Minimum in Rotated Sorted Array"], "level": ["Medium"]}
+{"id": 155, "title": "Min Stack", "diff": "Medium", "relate": ["Sliding Window Maximum", "Max Stack"], "level": ["Hard", "Hard"]}
+{"id": 156, "title": "Binary Tree Upside Down", "diff": "Medium", "relate": ["Reverse Linked List"], "level": ["Easy"]}
+{"id": 157, "title": "Read N Characters Given Read4", "diff": "Easy", "relate": ["Read N Characters Given read4 II - Call Multiple Times"], "level": ["Hard"]}
+{"id": 158, "title": "Read N Characters Given read4 II - Call Multiple Times", "diff": "Hard", "relate": ["Read N Characters Given Read4"], "level": ["Easy"]}
+{"id": 159, "title": "Longest Substring with At Most Two Distinct Characters", "diff": "Medium", "relate": ["Longest Substring Without Repeating Characters", "Sliding Window Maximum", "Longest Substring with At Most K Distinct Characters", "Subarrays with K Different Integers"], "level": ["Medium", "Hard", "Medium", "Hard"]}
+{"id": 160, "title": "Intersection of Two Linked Lists", "diff": "Easy", "relate": ["Minimum Index Sum of Two Lists"], "level": ["Easy"]}
+{"id": 161, "title": "One Edit Distance", "diff": "Medium", "relate": ["Edit Distance"], "level": ["Medium"]}
+{"id": 162, "title": "Find Peak Element", "diff": "Medium", "relate": ["Peak Index in a Mountain Array"], "level": ["Medium"]}
+{"id": 163, "title": "Missing Ranges", "diff": "Easy", "relate": ["Summary Ranges"], "level": ["Easy"]}
+{"id": 167, "title": "Two Sum II - Input Array Is Sorted", "diff": "Medium", "relate": ["Two Sum", "Two Sum IV - Input is a BST", "Two Sum Less Than K"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 168, "title": "Excel Sheet Column Title", "diff": "Easy", "relate": ["Excel Sheet Column Number"], "level": ["Easy"]}
+{"id": 169, "title": "Majority Element", "diff": "Easy", "relate": ["Majority Element II", "Check If a Number Is Majority Element in a Sorted Array"], "level": ["Medium", "Easy"]}
+{"id": 170, "title": "Two Sum III - Data structure design", "diff": "Easy", "relate": ["Two Sum", "Unique Word Abbreviation", "Two Sum IV - Input is a BST"], "level": ["Easy", "Medium", "Easy"]}
+{"id": 171, "title": "Excel Sheet Column Number", "diff": "Easy", "relate": ["Excel Sheet Column Title"], "level": ["Easy"]}
+{"id": 172, "title": "Factorial Trailing Zeroes", "diff": "Medium", "relate": ["Number of Digit One", "Preimage Size of Factorial Zeroes Function"], "level": ["Hard", "Hard"]}
+{"id": 173, "title": "Binary Search Tree Iterator", "diff": "Medium", "relate": ["Binary Tree Inorder Traversal", "Flatten 2D Vector", "Zigzag Iterator", "Peeking Iterator", "Inorder Successor in BST"], "level": ["Easy", "Medium", "Medium", "Medium", "Medium"]}
+{"id": 174, "title": "Dungeon Game", "diff": "Hard", "relate": ["Unique Paths", "Minimum Path Sum", "Cherry Pickup"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 186, "title": "Reverse Words in a String II", "diff": "Medium", "relate": ["Reverse Words in a String", "Rotate Array"], "level": ["Medium", "Medium"]}
+{"id": 188, "title": "Best Time to Buy and Sell Stock IV", "diff": "Hard", "relate": ["Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock III"], "level": ["Easy", "Medium", "Hard"]}
+{"id": 189, "title": "Rotate Array", "diff": "Medium", "relate": ["Rotate List", "Reverse Words in a String II"], "level": ["Medium", "Medium"]}
+{"id": 190, "title": "Reverse Bits", "diff": "Easy", "relate": ["Reverse Integer", "Number of 1 Bits"], "level": ["Medium", "Easy"]}
+{"id": 191, "title": "Number of 1 Bits", "diff": "Easy", "relate": ["Reverse Bits", "Power of Two", "Counting Bits", "Binary Watch", "Hamming Distance", "Binary Number with Alternating Bits", "Prime Number of Set Bits in Binary Representation"], "level": ["Easy", "Easy", "Easy", "Easy", "Easy", "Easy", "Easy"]}
+{"id": 198, "title": "House Robber", "diff": "Medium", "relate": ["Maximum Product Subarray", "House Robber II", "Paint House", "Paint Fence", "House Robber III", "Non-negative Integers without Consecutive Ones", "Coin Path", "Delete and Earn"], "level": ["Medium", "Medium", "Medium", "Medium", "Medium", "Hard", "Hard", "Medium"]}
+{"id": 199, "title": "Binary Tree Right Side View", "diff": "Medium", "relate": ["Populating Next Right Pointers in Each Node", "Boundary of Binary Tree"], "level": ["Medium", "Medium"]}
+{"id": 200, "title": "Number of Islands", "diff": "Medium", "relate": ["Surrounded Regions", "Walls and Gates", "Number of Islands II", "Number of Connected Components in an Undirected Graph", "Number of Distinct Islands", "Max Area of Island"], "level": ["Medium", "Medium", "Hard", "Medium", "Medium", "Medium"]}
+{"id": 202, "title": "Happy Number", "diff": "Easy", "relate": ["Linked List Cycle", "Add Digits", "Ugly Number"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 203, "title": "Remove Linked List Elements", "diff": "Easy", "relate": ["Remove Element", "Delete Node in a Linked List"], "level": ["Easy", "Medium"]}
+{"id": 204, "title": "Count Primes", "diff": "Medium", "relate": ["Ugly Number", "Ugly Number II", "Perfect Squares"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 205, "title": "Isomorphic Strings", "diff": "Easy", "relate": ["Word Pattern"], "level": ["Easy"]}
+{"id": 206, "title": "Reverse Linked List", "diff": "Easy", "relate": ["Reverse Linked List II", "Binary Tree Upside Down", "Palindrome Linked List"], "level": ["Medium", "Medium", "Easy"]}
+{"id": 207, "title": "Course Schedule", "diff": "Medium", "relate": ["Course Schedule II", "Graph Valid Tree", "Minimum Height Trees", "Course Schedule III"], "level": ["Medium", "Medium", "Medium", "Hard"]}
+{"id": 208, "title": "Implement Trie (Prefix Tree)", "diff": "Medium", "relate": ["Design Add and Search Words Data Structure", "Design Search Autocomplete System", "Replace Words", "Implement Magic Dictionary"], "level": ["Medium", "Hard", "Medium", "Medium"]}
+{"id": 209, "title": "Minimum Size Subarray Sum", "diff": "Medium", "relate": ["Minimum Window Substring", "Maximum Size Subarray Sum Equals k", "Maximum Length of Repeated Subarray"], "level": ["Hard", "Medium", "Medium"]}
+{"id": 210, "title": "Course Schedule II", "diff": "Medium", "relate": ["Course Schedule", "Alien Dictionary", "Minimum Height Trees", "Sequence Reconstruction", "Course Schedule III"], "level": ["Medium", "Hard", "Medium", "Medium", "Hard"]}
+{"id": 211, "title": "Design Add and Search Words Data Structure", "diff": "Medium", "relate": ["Implement Trie (Prefix Tree)", "Prefix and Suffix Search"], "level": ["Medium", "Hard"]}
+{"id": 212, "title": "Word Search II", "diff": "Hard", "relate": ["Word Search", "Unique Paths III"], "level": ["Medium", "Hard"]}
+{"id": 213, "title": "House Robber II", "diff": "Medium", "relate": ["House Robber", "Paint House", "Paint Fence", "House Robber III", "Non-negative Integers without Consecutive Ones", "Coin Path"], "level": ["Medium", "Medium", "Medium", "Medium", "Hard", "Hard"]}
+{"id": 214, "title": "Shortest Palindrome", "diff": "Hard", "relate": ["Longest Palindromic Substring", "Find the Index of the First Occurrence in a String", "Palindrome Pairs"], "level": ["Medium", "Easy", "Hard"]}
+{"id": 215, "title": "Kth Largest Element in an Array", "diff": "Medium", "relate": ["Wiggle Sort II", "Top K Frequent Elements", "Third Maximum Number", "Kth Largest Element in a Stream", "K Closest Points to Origin"], "level": ["Medium", "Medium", "Easy", "Easy", "Medium"]}
+{"id": 216, "title": "Combination Sum III", "diff": "Medium", "relate": ["Combination Sum"], "level": ["Medium"]}
+{"id": 217, "title": "Contains Duplicate", "diff": "Easy", "relate": ["Contains Duplicate II", "Contains Duplicate III"], "level": ["Easy", "Hard"]}
+{"id": 218, "title": "The Skyline Problem", "diff": "Hard", "relate": ["Falling Squares"], "level": ["Hard"]}
+{"id": 219, "title": "Contains Duplicate II", "diff": "Easy", "relate": ["Contains Duplicate", "Contains Duplicate III"], "level": ["Easy", "Hard"]}
+{"id": 220, "title": "Contains Duplicate III", "diff": "Hard", "relate": ["Contains Duplicate", "Contains Duplicate II"], "level": ["Easy", "Easy"]}
+{"id": 221, "title": "Maximal Square", "diff": "Medium", "relate": ["Maximal Rectangle", "Largest Plus Sign"], "level": ["Hard", "Medium"]}
+{"id": 222, "title": "Count Complete Tree Nodes", "diff": "Medium", "relate": ["Closest Binary Search Tree Value"], "level": ["Easy"]}
+{"id": 223, "title": "Rectangle Area", "diff": "Medium", "relate": ["Rectangle Overlap"], "level": ["Easy"]}
+{"id": 224, "title": "Basic Calculator", "diff": "Hard", "relate": ["Evaluate Reverse Polish Notation", "Basic Calculator II", "Different Ways to Add Parentheses", "Expression Add Operators", "Basic Calculator III"], "level": ["Medium", "Medium", "Medium", "Hard", "Hard"]}
+{"id": 225, "title": "Implement Stack using Queues", "diff": "Easy", "relate": ["Implement Queue using Stacks"], "level": ["Easy"]}
+{"id": 227, "title": "Basic Calculator II", "diff": "Medium", "relate": ["Basic Calculator", "Expression Add Operators", "Basic Calculator III"], "level": ["Hard", "Hard", "Hard"]}
+{"id": 228, "title": "Summary Ranges", "diff": "Easy", "relate": ["Missing Ranges", "Data Stream as Disjoint Intervals"], "level": ["Easy", "Hard"]}
+{"id": 229, "title": "Majority Element II", "diff": "Medium", "relate": ["Majority Element", "Check If a Number Is Majority Element in a Sorted Array"], "level": ["Easy", "Easy"]}
+{"id": 230, "title": "Kth Smallest Element in a BST", "diff": "Medium", "relate": ["Binary Tree Inorder Traversal", "Second Minimum Node In a Binary Tree"], "level": ["Easy", "Easy"]}
+{"id": 231, "title": "Power of Two", "diff": "Easy", "relate": ["Number of 1 Bits", "Power of Three", "Power of Four"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 232, "title": "Implement Queue using Stacks", "diff": "Easy", "relate": ["Implement Stack using Queues"], "level": ["Easy"]}
+{"id": 233, "title": "Number of Digit One", "diff": "Hard", "relate": ["Factorial Trailing Zeroes", "Digit Count in Range"], "level": ["Medium", "Hard"]}
+{"id": 234, "title": "Palindrome Linked List", "diff": "Easy", "relate": ["Palindrome Number", "Valid Palindrome", "Reverse Linked List"], "level": ["Easy", "Easy", "Easy"]}
+{"id": 235, "title": "Lowest Common Ancestor of a Binary Search Tree", "diff": "Medium", "relate": ["Lowest Common Ancestor of a Binary Tree", "Smallest Common Region"], "level": ["Medium", "Medium"]}
+{"id": 236, "title": "Lowest Common Ancestor of a Binary Tree", "diff": "Medium", "relate": ["Lowest Common Ancestor of a Binary Search Tree", "Smallest Common Region"], "level": ["Medium", "Medium"]}
+{"id": 237, "title": "Delete Node in a Linked List", "diff": "Medium", "relate": ["Remove Linked List Elements"], "level": ["Easy"]}
+{"id": 238, "title": "Product of Array Except Self", "diff": "Medium", "relate": ["Trapping Rain Water", "Maximum Product Subarray", "Paint House II"], "level": ["Hard", "Medium", "Hard"]}
+{"id": 239, "title": "Sliding Window Maximum", "diff": "Hard", "relate": ["Minimum Window Substring", "Min Stack", "Longest Substring with At Most Two Distinct Characters", "Paint House II"], "level": ["Hard", "Medium", "Medium", "Hard"]}
+{"id": 240, "title": "Search a 2D Matrix II", "diff": "Medium", "relate": ["Search a 2D Matrix"], "level": ["Medium"]}
+{"id": 241, "title": "Different Ways to Add Parentheses", "diff": "Medium", "relate": ["Unique Binary Search Trees II", "Basic Calculator", "Expression Add Operators"], "level": ["Medium", "Hard", "Hard"]}
+{"id": 242, "title": "Valid Anagram", "diff": "Easy", "relate": ["Group Anagrams", "Palindrome Permutation", "Find All Anagrams in a String"], "level": ["Medium", "Easy", "Medium"]}
+{"id": 243, "title": "Shortest Word Distance", "diff": "Easy", "relate": ["Shortest Word Distance II", "Shortest Word Distance III"], "level": ["Medium", "Medium"]}
+{"id": 244, "title": "Shortest Word Distance II", "diff": "Medium", "relate": ["Merge Two Sorted Lists", "Shortest Word Distance", "Shortest Word Distance III"], "level": ["Easy", "Easy", "Medium"]}
+{"id": 245, "title": "Shortest Word Distance III", "diff": "Medium", "relate": ["Shortest Word Distance", "Shortest Word Distance II"], "level": ["Easy", "Medium"]}
+{"id": 246, "title": "Strobogrammatic Number", "diff": "Easy", "relate": ["Strobogrammatic Number II", "Strobogrammatic Number III", "Confusing Number"], "level": ["Medium", "Hard", "Easy"]}
+{"id": 247, "title": "Strobogrammatic Number II", "diff": "Medium", "relate": ["Strobogrammatic Number", "Strobogrammatic Number III"], "level": ["Easy", "Hard"]}
+{"id": 248, "title": "Strobogrammatic Number III", "diff": "Hard", "relate": ["Strobogrammatic Number", "Strobogrammatic Number II"], "level": ["Easy", "Medium"]}
+{"id": 249, "title": "Group Shifted Strings", "diff": "Medium", "relate": ["Group Anagrams"], "level": ["Medium"]}
+{"id": 250, "title": "Count Univalue Subtrees", "diff": "Medium", "relate": ["Subtree of Another Tree", "Longest Univalue Path"], "level": ["Easy", "Medium"]}
+{"id": 251, "title": "Flatten 2D Vector", "diff": "Medium", "relate": ["Binary Search Tree Iterator", "Zigzag Iterator", "Peeking Iterator", "Flatten Nested List Iterator"], "level": ["Medium", "Medium", "Medium", "Medium"]}
+{"id": 252, "title": "Meeting Rooms", "diff": "Easy", "relate": ["Merge Intervals", "Meeting Rooms II"], "level": ["Medium", "Medium"]}
+{"id": 253, "title": "Meeting Rooms II", "diff": "Medium", "relate": ["Merge Intervals", "Meeting Rooms", "Minimum Number of Arrows to Burst Balloons", "Car Pooling"], "level": ["Medium", "Easy", "Medium", "Medium"]}
+{"id": 254, "title": "Factor Combinations", "diff": "Medium", "relate": ["Combination Sum"], "level": ["Medium"]}
+{"id": 255, "title": "Verify Preorder Sequence in Binary Search Tree", "diff": "Medium", "relate": ["Binary Tree Preorder Traversal"], "level": ["Easy"]}
+{"id": 256, "title": "Paint House", "diff": "Medium", "relate": ["House Robber", "House Robber II", "Paint House II", "Paint Fence"], "level": ["Medium", "Medium", "Hard", "Medium"]}
+{"id": 257, "title": "Binary Tree Paths", "diff": "Easy", "relate": ["Path Sum II", "Smallest String Starting From Leaf"], "level": ["Medium", "Medium"]}
+{"id": 258, "title": "Add Digits", "diff": "Easy", "relate": ["Happy Number", "Sum of Digits in the Minimum Number"], "level": ["Easy", "Easy"]}
+{"id": 259, "title": "3Sum Smaller", "diff": "Medium", "relate": ["3Sum", "3Sum Closest", "Valid Triangle Number", "Two Sum Less Than K"], "level": ["Medium", "Medium", "Medium", "Easy"]}
+{"id": 260, "title": "Single Number III", "diff": "Medium", "relate": ["Single Number", "Single Number II"], "level": ["Easy", "Medium"]}
+{"id": 261, "title": "Graph Valid Tree", "diff": "Medium", "relate": ["Course Schedule", "Number of Connected Components in an Undirected Graph"], "level": ["Medium", "Medium"]}
+{"id": 263, "title": "Ugly Number", "diff": "Easy", "relate": ["Happy Number", "Count Primes", "Ugly Number II"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 264, "title": "Ugly Number II", "diff": "Medium", "relate": ["Merge k Sorted Lists", "Count Primes", "Ugly Number", "Perfect Squares", "Super Ugly Number"], "level": ["Hard", "Medium", "Easy", "Medium", "Medium"]}
+{"id": 265, "title": "Paint House II", "diff": "Hard", "relate": ["Product of Array Except Self", "Sliding Window Maximum", "Paint House", "Paint Fence"], "level": ["Medium", "Hard", "Medium", "Medium"]}
+{"id": 266, "title": "Palindrome Permutation", "diff": "Easy", "relate": ["Longest Palindromic Substring", "Valid Anagram", "Palindrome Permutation II", "Longest Palindrome"], "level": ["Medium", "Easy", "Medium", "Easy"]}
+{"id": 267, "title": "Palindrome Permutation II", "diff": "Medium", "relate": ["Next Permutation", "Permutations II", "Palindrome Permutation"], "level": ["Medium", "Medium", "Easy"]}
+{"id": 268, "title": "Missing Number", "diff": "Easy", "relate": ["First Missing Positive", "Single Number", "Find the Duplicate Number", "Couples Holding Hands"], "level": ["Hard", "Easy", "Medium", "Hard"]}
+{"id": 269, "title": "Alien Dictionary", "diff": "Hard", "relate": ["Course Schedule II"], "level": ["Medium"]}
+{"id": 270, "title": "Closest Binary Search Tree Value", "diff": "Easy", "relate": ["Count Complete Tree Nodes", "Closest Binary Search Tree Value II", "Search in a Binary Search Tree"], "level": ["Easy", "Hard", "Easy"]}
+{"id": 271, "title": "Encode and Decode Strings", "diff": "Medium", "relate": ["Count and Say", "Serialize and Deserialize Binary Tree", "String Compression", "Count Binary Substrings"], "level": ["Medium", "Hard", "Medium", "Easy"]}
+{"id": 272, "title": "Closest Binary Search Tree Value II", "diff": "Hard", "relate": ["Binary Tree Inorder Traversal", "Closest Binary Search Tree Value"], "level": ["Easy", "Easy"]}
+{"id": 273, "title": "Integer to English Words", "diff": "Hard", "relate": ["Integer to Roman"], "level": ["Medium"]}
+{"id": 274, "title": "H-Index", "diff": "Medium", "relate": ["H-Index II"], "level": ["Medium"]}
+{"id": 275, "title": "H-Index II", "diff": "Medium", "relate": ["H-Index"], "level": ["Medium"]}
+{"id": 276, "title": "Paint Fence", "diff": "Medium", "relate": ["House Robber", "House Robber II", "Paint House", "Paint House II"], "level": ["Medium", "Medium", "Medium", "Hard"]}
+{"id": 277, "title": "Find the Celebrity", "diff": "Medium", "relate": ["Find the Town Judge"], "level": ["Easy"]}
+{"id": 278, "title": "First Bad Version", "diff": "Easy", "relate": ["Find First and Last Position of Element in Sorted Array", "Search Insert Position", "Guess Number Higher or Lower"], "level": ["Medium", "Easy", "Easy"]}
+{"id": 279, "title": "Perfect Squares", "diff": "Medium", "relate": ["Count Primes", "Ugly Number II"], "level": ["Medium", "Medium"]}
+{"id": 280, "title": "Wiggle Sort", "diff": "Medium", "relate": ["Sort Colors", "Wiggle Sort II"], "level": ["Medium", "Medium"]}
+{"id": 281, "title": "Zigzag Iterator", "diff": "Medium", "relate": ["Binary Search Tree Iterator", "Flatten 2D Vector", "Peeking Iterator", "Flatten Nested List Iterator"], "level": ["Medium", "Medium", "Medium", "Medium"]}
+{"id": 282, "title": "Expression Add Operators", "diff": "Hard", "relate": ["Evaluate Reverse Polish Notation", "Basic Calculator", "Basic Calculator II", "Different Ways to Add Parentheses", "Target Sum"], "level": ["Medium", "Hard", "Medium", "Medium", "Medium"]}
+{"id": 283, "title": "Move Zeroes", "diff": "Easy", "relate": ["Remove Element"], "level": ["Easy"]}
+{"id": 284, "title": "Peeking Iterator", "diff": "Medium", "relate": ["Binary Search Tree Iterator", "Flatten 2D Vector", "Zigzag Iterator"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 285, "title": "Inorder Successor in BST", "diff": "Medium", "relate": ["Binary Tree Inorder Traversal", "Binary Search Tree Iterator", "Inorder Successor in BST II"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 286, "title": "Walls and Gates", "diff": "Medium", "relate": ["Surrounded Regions", "Number of Islands", "Shortest Distance from All Buildings", "Robot Room Cleaner", "Rotting Oranges"], "level": ["Medium", "Medium", "Hard", "Hard", "Medium"]}
+{"id": 287, "title": "Find the Duplicate Number", "diff": "Medium", "relate": ["First Missing Positive", "Single Number", "Linked List Cycle II", "Missing Number", "Set Mismatch"], "level": ["Hard", "Easy", "Medium", "Easy", "Easy"]}
+{"id": 288, "title": "Unique Word Abbreviation", "diff": "Medium", "relate": ["Two Sum III - Data structure design", "Generalized Abbreviation"], "level": ["Easy", "Medium"]}
+{"id": 289, "title": "Game of Life", "diff": "Medium", "relate": ["Set Matrix Zeroes"], "level": ["Medium"]}
+{"id": 290, "title": "Word Pattern", "diff": "Easy", "relate": ["Isomorphic Strings", "Word Pattern II"], "level": ["Easy", "Medium"]}
+{"id": 291, "title": "Word Pattern II", "diff": "Medium", "relate": ["Word Pattern"], "level": ["Easy"]}
+{"id": 292, "title": "Nim Game", "diff": "Easy", "relate": ["Flip Game II"], "level": ["Medium"]}
+{"id": 293, "title": "Flip Game", "diff": "Easy", "relate": ["Flip Game II"], "level": ["Medium"]}
+{"id": 294, "title": "Flip Game II", "diff": "Medium", "relate": ["Nim Game", "Flip Game", "Guess Number Higher or Lower II", "Can I Win"], "level": ["Easy", "Easy", "Medium", "Medium"]}
+{"id": 295, "title": "Find Median from Data Stream", "diff": "Hard", "relate": ["Sliding Window Median"], "level": ["Hard"]}
+{"id": 296, "title": "Best Meeting Point", "diff": "Hard", "relate": ["Shortest Distance from All Buildings", "Minimum Moves to Equal Array Elements II"], "level": ["Hard", "Medium"]}
+{"id": 297, "title": "Serialize and Deserialize Binary Tree", "diff": "Hard", "relate": ["Encode and Decode Strings", "Serialize and Deserialize BST", "Find Duplicate Subtrees", "Serialize and Deserialize N-ary Tree"], "level": ["Medium", "Medium", "Medium", "Hard"]}
+{"id": 298, "title": "Binary Tree Longest Consecutive Sequence", "diff": "Medium", "relate": ["Longest Consecutive Sequence", "Binary Tree Longest Consecutive Sequence II"], "level": ["Medium", "Medium"]}
+{"id": 300, "title": "Longest Increasing Subsequence", "diff": "Medium", "relate": ["Increasing Triplet Subsequence", "Russian Doll Envelopes", "Maximum Length of Pair Chain", "Number of Longest Increasing Subsequence", "Minimum ASCII Delete Sum for Two Strings"], "level": ["Medium", "Hard", "Medium", "Medium", "Medium"]}
+{"id": 301, "title": "Remove Invalid Parentheses", "diff": "Hard", "relate": ["Valid Parentheses"], "level": ["Easy"]}
+{"id": 303, "title": "Range Sum Query - Immutable", "diff": "Easy", "relate": ["Range Sum Query 2D - Immutable", "Range Sum Query - Mutable", "Maximum Size Subarray Sum Equals k"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 304, "title": "Range Sum Query 2D - Immutable", "diff": "Medium", "relate": ["Range Sum Query - Immutable", "Range Sum Query 2D - Mutable"], "level": ["Easy", "Hard"]}
+{"id": 305, "title": "Number of Islands II", "diff": "Hard", "relate": ["Number of Islands"], "level": ["Medium"]}
+{"id": 306, "title": "Additive Number", "diff": "Medium", "relate": ["Split Array into Fibonacci Sequence"], "level": ["Medium"]}
+{"id": 307, "title": "Range Sum Query - Mutable", "diff": "Medium", "relate": ["Range Sum Query - Immutable", "Range Sum Query 2D - Mutable"], "level": ["Easy", "Hard"]}
+{"id": 308, "title": "Range Sum Query 2D - Mutable", "diff": "Hard", "relate": ["Range Sum Query 2D - Immutable", "Range Sum Query - Mutable"], "level": ["Medium", "Medium"]}
+{"id": 309, "title": "Best Time to Buy and Sell Stock with Cooldown", "diff": "Medium", "relate": ["Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock II"], "level": ["Easy", "Medium"]}
+{"id": 310, "title": "Minimum Height Trees", "diff": "Medium", "relate": ["Course Schedule", "Course Schedule II"], "level": ["Medium", "Medium"]}
+{"id": 312, "title": "Burst Balloons", "diff": "Hard", "relate": ["Minimum Cost to Merge Stones"], "level": ["Hard"]}
+{"id": 313, "title": "Super Ugly Number", "diff": "Medium", "relate": ["Ugly Number II"], "level": ["Medium"]}
+{"id": 314, "title": "Binary Tree Vertical Order Traversal", "diff": "Medium", "relate": ["Binary Tree Level Order Traversal"], "level": ["Medium"]}
+{"id": 315, "title": "Count of Smaller Numbers After Self", "diff": "Hard", "relate": ["Count of Range Sum", "Queue Reconstruction by Height", "Reverse Pairs"], "level": ["Hard", "Medium", "Hard"]}
+{"id": 317, "title": "Shortest Distance from All Buildings", "diff": "Hard", "relate": ["Walls and Gates", "Best Meeting Point", "As Far from Land as Possible"], "level": ["Medium", "Hard", "Medium"]}
+{"id": 319, "title": "Bulb Switcher", "diff": "Medium", "relate": ["Bulb Switcher II", "Minimum Number of K Consecutive Bit Flips"], "level": ["Medium", "Hard"]}
+{"id": 320, "title": "Generalized Abbreviation", "diff": "Medium", "relate": ["Subsets", "Unique Word Abbreviation", "Minimum Unique Word Abbreviation"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 321, "title": "Create Maximum Number", "diff": "Hard", "relate": ["Remove K Digits", "Maximum Swap"], "level": ["Medium", "Medium"]}
+{"id": 322, "title": "Coin Change", "diff": "Medium", "relate": ["Minimum Cost For Tickets"], "level": ["Medium"]}
+{"id": 323, "title": "Number of Connected Components in an Undirected Graph", "diff": "Medium", "relate": ["Number of Islands", "Graph Valid Tree", "Number of Provinces"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 324, "title": "Wiggle Sort II", "diff": "Medium", "relate": ["Sort Colors", "Kth Largest Element in an Array", "Wiggle Sort"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 325, "title": "Maximum Size Subarray Sum Equals k", "diff": "Medium", "relate": ["Minimum Size Subarray Sum", "Range Sum Query - Immutable", "Contiguous Array", "Subarray Product Less Than K"], "level": ["Medium", "Easy", "Medium", "Medium"]}
+{"id": 326, "title": "Power of Three", "diff": "Easy", "relate": ["Power of Two", "Power of Four"], "level": ["Easy", "Easy"]}
+{"id": 327, "title": "Count of Range Sum", "diff": "Hard", "relate": ["Count of Smaller Numbers After Self", "Reverse Pairs"], "level": ["Hard", "Hard"]}
+{"id": 328, "title": "Odd Even Linked List", "diff": "Medium", "relate": ["Split Linked List in Parts"], "level": ["Medium"]}
+{"id": 334, "title": "Increasing Triplet Subsequence", "diff": "Medium", "relate": ["Longest Increasing Subsequence"], "level": ["Medium"]}
+{"id": 336, "title": "Palindrome Pairs", "diff": "Hard", "relate": ["Longest Palindromic Substring", "Shortest Palindrome"], "level": ["Medium", "Hard"]}
+{"id": 337, "title": "House Robber III", "diff": "Medium", "relate": ["House Robber", "House Robber II"], "level": ["Medium", "Medium"]}
+{"id": 338, "title": "Counting Bits", "diff": "Easy", "relate": ["Number of 1 Bits"], "level": ["Easy"]}
+{"id": 339, "title": "Nested List Weight Sum", "diff": "Medium", "relate": ["Nested List Weight Sum II", "Array Nesting", "Employee Importance"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 340, "title": "Longest Substring with At Most K Distinct Characters", "diff": "Medium", "relate": ["Longest Substring Without Repeating Characters", "Longest Substring with At Most Two Distinct Characters", "Longest Repeating Character Replacement", "Subarrays with K Different Integers", "Max Consecutive Ones III"], "level": ["Medium", "Medium", "Medium", "Hard", "Medium"]}
+{"id": 341, "title": "Flatten Nested List Iterator", "diff": "Medium", "relate": ["Flatten 2D Vector", "Zigzag Iterator", "Mini Parser", "Array Nesting"], "level": ["Medium", "Medium", "Medium", "Medium"]}
+{"id": 342, "title": "Power of Four", "diff": "Easy", "relate": ["Power of Two", "Power of Three"], "level": ["Easy", "Easy"]}
+{"id": 344, "title": "Reverse String", "diff": "Easy", "relate": ["Reverse Vowels of a String", "Reverse String II"], "level": ["Easy", "Easy"]}
+{"id": 345, "title": "Reverse Vowels of a String", "diff": "Easy", "relate": ["Reverse String", "Remove Vowels from a String"], "level": ["Easy", "Easy"]}
+{"id": 347, "title": "Top K Frequent Elements", "diff": "Medium", "relate": ["Word Frequency", "Kth Largest Element in an Array", "Sort Characters By Frequency", "Split Array into Consecutive Subsequences", "Top K Frequent Words", "K Closest Points to Origin"], "level": ["Medium", "Medium", "Medium", "Medium", "Medium", "Medium"]}
+{"id": 348, "title": "Design Tic-Tac-Toe", "diff": "Medium", "relate": ["Valid Tic-Tac-Toe State"], "level": ["Medium"]}
+{"id": 349, "title": "Intersection of Two Arrays", "diff": "Easy", "relate": ["Intersection of Two Arrays II", "Intersection of Three Sorted Arrays"], "level": ["Easy", "Easy"]}
+{"id": 350, "title": "Intersection of Two Arrays II", "diff": "Easy", "relate": ["Intersection of Two Arrays", "Find Common Characters"], "level": ["Easy", "Easy"]}
+{"id": 352, "title": "Data Stream as Disjoint Intervals", "diff": "Hard", "relate": ["Summary Ranges", "Find Right Interval", "Range Module"], "level": ["Easy", "Medium", "Hard"]}
+{"id": 354, "title": "Russian Doll Envelopes", "diff": "Hard", "relate": ["Longest Increasing Subsequence"], "level": ["Medium"]}
+{"id": 356, "title": "Line Reflection", "diff": "Medium", "relate": ["Max Points on a Line", "Number of Boomerangs"], "level": ["Hard", "Medium"]}
+{"id": 358, "title": "Rearrange String k Distance Apart", "diff": "Hard", "relate": ["Task Scheduler", "Reorganize String"], "level": ["Medium", "Medium"]}
+{"id": 359, "title": "Logger Rate Limiter", "diff": "Easy", "relate": ["Design Hit Counter"], "level": ["Medium"]}
+{"id": 360, "title": "Sort Transformed Array", "diff": "Medium", "relate": ["Squares of a Sorted Array"], "level": ["Easy"]}
+{"id": 362, "title": "Design Hit Counter", "diff": "Medium", "relate": ["Logger Rate Limiter"], "level": ["Easy"]}
+{"id": 364, "title": "Nested List Weight Sum II", "diff": "Medium", "relate": ["Nested List Weight Sum", "Array Nesting"], "level": ["Medium", "Medium"]}
+{"id": 367, "title": "Valid Perfect Square", "diff": "Easy", "relate": ["Sqrt(x)", "Sum of Square Numbers"], "level": ["Easy", "Medium"]}
+{"id": 369, "title": "Plus One Linked List", "diff": "Medium", "relate": ["Plus One"], "level": ["Easy"]}
+{"id": 370, "title": "Range Addition", "diff": "Medium", "relate": ["Range Addition II"], "level": ["Easy"]}
+{"id": 371, "title": "Sum of Two Integers", "diff": "Medium", "relate": ["Add Two Numbers"], "level": ["Medium"]}
+{"id": 372, "title": "Super Pow", "diff": "Medium", "relate": ["Pow(x, n)"], "level": ["Medium"]}
+{"id": 373, "title": "Find K Pairs with Smallest Sums", "diff": "Medium", "relate": ["Kth Smallest Element in a Sorted Matrix", "Find K-th Smallest Pair Distance"], "level": ["Medium", "Hard"]}
+{"id": 374, "title": "Guess Number Higher or Lower", "diff": "Easy", "relate": ["First Bad Version", "Guess Number Higher or Lower II", "Find K Closest Elements"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 375, "title": "Guess Number Higher or Lower II", "diff": "Medium", "relate": ["Flip Game II", "Guess Number Higher or Lower", "Can I Win", "Find K Closest Elements"], "level": ["Medium", "Easy", "Medium", "Medium"]}
+{"id": 377, "title": "Combination Sum IV", "diff": "Medium", "relate": ["Combination Sum"], "level": ["Medium"]}
+{"id": 378, "title": "Kth Smallest Element in a Sorted Matrix", "diff": "Medium", "relate": ["Find K Pairs with Smallest Sums", "Kth Smallest Number in Multiplication Table", "Find K-th Smallest Pair Distance", "K-th Smallest Prime Fraction"], "level": ["Medium", "Hard", "Hard", "Medium"]}
+{"id": 380, "title": "Insert Delete GetRandom O(1)", "diff": "Medium", "relate": ["Insert Delete GetRandom O(1) - Duplicates allowed"], "level": ["Hard"]}
+{"id": 381, "title": "Insert Delete GetRandom O(1) - Duplicates allowed", "diff": "Hard", "relate": ["Insert Delete GetRandom O(1)"], "level": ["Medium"]}
+{"id": 382, "title": "Linked List Random Node", "diff": "Medium", "relate": ["Random Pick Index"], "level": ["Medium"]}
+{"id": 383, "title": "Ransom Note", "diff": "Easy", "relate": ["Stickers to Spell Word"], "level": ["Hard"]}
+{"id": 385, "title": "Mini Parser", "diff": "Medium", "relate": ["Flatten Nested List Iterator", "Ternary Expression Parser", "Remove Comments"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 387, "title": "First Unique Character in a String", "diff": "Easy", "relate": ["Sort Characters By Frequency"], "level": ["Medium"]}
+{"id": 389, "title": "Find the Difference", "diff": "Easy", "relate": ["Single Number"], "level": ["Easy"]}
+{"id": 392, "title": "Is Subsequence", "diff": "Easy", "relate": ["Number of Matching Subsequences", "Shortest Way to Form String"], "level": ["Medium", "Medium"]}
+{"id": 394, "title": "Decode String", "diff": "Medium", "relate": ["Encode String with Shortest Length", "Number of Atoms", "Brace Expansion"], "level": ["Hard", "Hard", "Medium"]}
+{"id": 398, "title": "Random Pick Index", "diff": "Medium", "relate": ["Linked List Random Node", "Random Pick with Blacklist", "Random Pick with Weight"], "level": ["Medium", "Hard", "Medium"]}
+{"id": 401, "title": "Binary Watch", "diff": "Easy", "relate": ["Letter Combinations of a Phone Number", "Number of 1 Bits"], "level": ["Medium", "Easy"]}
+{"id": 402, "title": "Remove K Digits", "diff": "Medium", "relate": ["Create Maximum Number", "Monotone Increasing Digits"], "level": ["Hard", "Medium"]}
+{"id": 406, "title": "Queue Reconstruction by Height", "diff": "Medium", "relate": ["Count of Smaller Numbers After Self"], "level": ["Hard"]}
+{"id": 407, "title": "Trapping Rain Water II", "diff": "Hard", "relate": ["Trapping Rain Water"], "level": ["Hard"]}
+{"id": 408, "title": "Valid Word Abbreviation", "diff": "Easy", "relate": ["Minimum Unique Word Abbreviation", "Word Abbreviation"], "level": ["Hard", "Hard"]}
+{"id": 409, "title": "Longest Palindrome", "diff": "Easy", "relate": ["Palindrome Permutation"], "level": ["Easy"]}
+{"id": 411, "title": "Minimum Unique Word Abbreviation", "diff": "Hard", "relate": ["Generalized Abbreviation", "Valid Word Abbreviation", "Word Abbreviation"], "level": ["Medium", "Easy", "Hard"]}
+{"id": 413, "title": "Arithmetic Slices", "diff": "Medium", "relate": ["Arithmetic Slices II - Subsequence"], "level": ["Hard"]}
+{"id": 414, "title": "Third Maximum Number", "diff": "Easy", "relate": ["Kth Largest Element in an Array"], "level": ["Medium"]}
+{"id": 415, "title": "Add Strings", "diff": "Easy", "relate": ["Add Two Numbers", "Multiply Strings", "Add to Array-Form of Integer"], "level": ["Medium", "Medium", "Easy"]}
+{"id": 416, "title": "Partition Equal Subset Sum", "diff": "Medium", "relate": ["Partition to K Equal Sum Subsets"], "level": ["Medium"]}
+{"id": 422, "title": "Valid Word Square", "diff": "Easy", "relate": ["Word Squares", "Toeplitz Matrix"], "level": ["Hard", "Easy"]}
+{"id": 424, "title": "Longest Repeating Character Replacement", "diff": "Medium", "relate": ["Longest Substring with At Most K Distinct Characters", "Max Consecutive Ones III"], "level": ["Medium", "Medium"]}
+{"id": 425, "title": "Word Squares", "diff": "Hard", "relate": ["Valid Word Square"], "level": ["Easy"]}
+{"id": 426, "title": "Convert Binary Search Tree to Sorted Doubly Linked List", "diff": "Medium", "relate": ["Binary Tree Inorder Traversal"], "level": ["Easy"]}
+{"id": 428, "title": "Serialize and Deserialize N-ary Tree", "diff": "Hard", "relate": ["Serialize and Deserialize Binary Tree", "Serialize and Deserialize BST", "Encode N-ary Tree to Binary Tree"], "level": ["Hard", "Medium", "Hard"]}
+{"id": 429, "title": "N-ary Tree Level Order Traversal", "diff": "Medium", "relate": ["Binary Tree Level Order Traversal", "N-ary Tree Preorder Traversal", "N-ary Tree Postorder Traversal"], "level": ["Medium", "Easy", "Easy"]}
+{"id": 430, "title": "Flatten a Multilevel Doubly Linked List", "diff": "Medium", "relate": ["Flatten Binary Tree to Linked List"], "level": ["Medium"]}
+{"id": 431, "title": "Encode N-ary Tree to Binary Tree", "diff": "Hard", "relate": ["Serialize and Deserialize N-ary Tree"], "level": ["Hard"]}
+{"id": 433, "title": "Minimum Genetic Mutation", "diff": "Medium", "relate": ["Word Ladder"], "level": ["Hard"]}
+{"id": 435, "title": "Non-overlapping Intervals", "diff": "Medium", "relate": ["Minimum Number of Arrows to Burst Balloons"], "level": ["Medium"]}
+{"id": 436, "title": "Find Right Interval", "diff": "Medium", "relate": ["Data Stream as Disjoint Intervals"], "level": ["Hard"]}
+{"id": 437, "title": "Path Sum III", "diff": "Medium", "relate": ["Path Sum", "Path Sum II", "Path Sum IV", "Longest Univalue Path"], "level": ["Easy", "Medium", "Medium", "Medium"]}
+{"id": 438, "title": "Find All Anagrams in a String", "diff": "Medium", "relate": ["Valid Anagram", "Permutation in String"], "level": ["Easy", "Medium"]}
+{"id": 439, "title": "Ternary Expression Parser", "diff": "Medium", "relate": ["Mini Parser", "Remove Comments", "Parse Lisp Expression"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 442, "title": "Find All Duplicates in an Array", "diff": "Medium", "relate": ["Find All Numbers Disappeared in an Array"], "level": ["Easy"]}
+{"id": 443, "title": "String Compression", "diff": "Medium", "relate": ["Count and Say", "Encode and Decode Strings", "Design Compressed String Iterator"], "level": ["Medium", "Medium", "Easy"]}
+{"id": 444, "title": "Sequence Reconstruction", "diff": "Medium", "relate": ["Course Schedule II"], "level": ["Medium"]}
+{"id": 445, "title": "Add Two Numbers II", "diff": "Medium", "relate": ["Add Two Numbers"], "level": ["Medium"]}
+{"id": 446, "title": "Arithmetic Slices II - Subsequence", "diff": "Hard", "relate": ["Arithmetic Slices"], "level": ["Medium"]}
+{"id": 447, "title": "Number of Boomerangs", "diff": "Medium", "relate": ["Line Reflection"], "level": ["Medium"]}
+{"id": 448, "title": "Find All Numbers Disappeared in an Array", "diff": "Easy", "relate": ["First Missing Positive", "Find All Duplicates in an Array"], "level": ["Hard", "Medium"]}
+{"id": 449, "title": "Serialize and Deserialize BST", "diff": "Medium", "relate": ["Serialize and Deserialize Binary Tree", "Find Duplicate Subtrees", "Serialize and Deserialize N-ary Tree"], "level": ["Hard", "Medium", "Hard"]}
+{"id": 450, "title": "Delete Node in a BST", "diff": "Medium", "relate": ["Split BST"], "level": ["Medium"]}
+{"id": 451, "title": "Sort Characters By Frequency", "diff": "Medium", "relate": ["Top K Frequent Elements", "First Unique Character in a String"], "level": ["Medium", "Easy"]}
+{"id": 452, "title": "Minimum Number of Arrows to Burst Balloons", "diff": "Medium", "relate": ["Meeting Rooms II", "Non-overlapping Intervals"], "level": ["Medium", "Medium"]}
+{"id": 453, "title": "Minimum Moves to Equal Array Elements", "diff": "Medium", "relate": ["Minimum Moves to Equal Array Elements II"], "level": ["Medium"]}
+{"id": 454, "title": "4Sum II", "diff": "Medium", "relate": ["4Sum"], "level": ["Medium"]}
+{"id": 459, "title": "Repeated Substring Pattern", "diff": "Easy", "relate": ["Find the Index of the First Occurrence in a String", "Repeated String Match"], "level": ["Easy", "Medium"]}
+{"id": 460, "title": "LFU Cache", "diff": "Hard", "relate": ["LRU Cache", "Design In-Memory File System"], "level": ["Medium", "Hard"]}
+{"id": 461, "title": "Hamming Distance", "diff": "Easy", "relate": ["Number of 1 Bits", "Total Hamming Distance"], "level": ["Easy", "Medium"]}
+{"id": 462, "title": "Minimum Moves to Equal Array Elements II", "diff": "Medium", "relate": ["Best Meeting Point", "Minimum Moves to Equal Array Elements"], "level": ["Hard", "Medium"]}
+{"id": 463, "title": "Island Perimeter", "diff": "Easy", "relate": ["Max Area of Island", "Flood Fill", "Coloring A Border"], "level": ["Medium", "Easy", "Medium"]}
+{"id": 464, "title": "Can I Win", "diff": "Medium", "relate": ["Flip Game II", "Guess Number Higher or Lower II", "Predict the Winner"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 468, "title": "Validate IP Address", "diff": "Medium", "relate": ["IP to CIDR"], "level": ["Medium"]}
+{"id": 471, "title": "Encode String with Shortest Length", "diff": "Hard", "relate": ["Decode String", "Number of Atoms"], "level": ["Medium", "Hard"]}
+{"id": 472, "title": "Concatenated Words", "diff": "Hard", "relate": ["Word Break II"], "level": ["Hard"]}
+{"id": 474, "title": "Ones and Zeroes", "diff": "Medium", "relate": ["Non-negative Integers without Consecutive Ones"], "level": ["Hard"]}
+{"id": 477, "title": "Total Hamming Distance", "diff": "Medium", "relate": ["Hamming Distance"], "level": ["Easy"]}
+{"id": 478, "title": "Generate Random Point in a Circle", "diff": "Medium", "relate": ["Random Point in Non-overlapping Rectangles"], "level": ["Medium"]}
+{"id": 480, "title": "Sliding Window Median", "diff": "Hard", "relate": ["Find Median from Data Stream"], "level": ["Hard"]}
+{"id": 485, "title": "Max Consecutive Ones", "diff": "Easy", "relate": ["Max Consecutive Ones II", "Max Consecutive Ones III"], "level": ["Medium", "Medium"]}
+{"id": 486, "title": "Predict the Winner", "diff": "Medium", "relate": ["Can I Win"], "level": ["Medium"]}
+{"id": 487, "title": "Max Consecutive Ones II", "diff": "Medium", "relate": ["Max Consecutive Ones", "Max Consecutive Ones III"], "level": ["Easy", "Medium"]}
+{"id": 489, "title": "Robot Room Cleaner", "diff": "Hard", "relate": ["Walls and Gates"], "level": ["Medium"]}
+{"id": 490, "title": "The Maze", "diff": "Medium", "relate": ["The Maze III", "The Maze II"], "level": ["Hard", "Medium"]}
+{"id": 491, "title": "Non-decreasing Subsequences", "diff": "Medium", "relate": ["Maximum Length of Pair Chain"], "level": ["Medium"]}
+{"id": 493, "title": "Reverse Pairs", "diff": "Hard", "relate": ["Count of Smaller Numbers After Self", "Count of Range Sum"], "level": ["Hard", "Hard"]}
+{"id": 494, "title": "Target Sum", "diff": "Medium", "relate": ["Expression Add Operators"], "level": ["Hard"]}
+{"id": 495, "title": "Teemo Attacking", "diff": "Easy", "relate": ["Merge Intervals", "Can Place Flowers", "Dota2 Senate"], "level": ["Medium", "Easy", "Medium"]}
+{"id": 496, "title": "Next Greater Element I", "diff": "Easy", "relate": ["Next Greater Element II", "Next Greater Element III", "Daily Temperatures"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 497, "title": "Random Point in Non-overlapping Rectangles", "diff": "Medium", "relate": ["Random Pick with Weight", "Generate Random Point in a Circle"], "level": ["Medium", "Medium"]}
+{"id": 499, "title": "The Maze III", "diff": "Hard", "relate": ["The Maze", "The Maze II"], "level": ["Medium", "Medium"]}
+{"id": 501, "title": "Find Mode in Binary Search Tree", "diff": "Easy", "relate": ["Validate Binary Search Tree"], "level": ["Medium"]}
+{"id": 503, "title": "Next Greater Element II", "diff": "Medium", "relate": ["Next Greater Element I", "Next Greater Element III"], "level": ["Easy", "Medium"]}
+{"id": 505, "title": "The Maze II", "diff": "Medium", "relate": ["The Maze", "The Maze III"], "level": ["Medium", "Hard"]}
+{"id": 507, "title": "Perfect Number", "diff": "Easy", "relate": ["Self Dividing Numbers"], "level": ["Easy"]}
+{"id": 508, "title": "Most Frequent Subtree Sum", "diff": "Medium", "relate": ["Subtree of Another Tree"], "level": ["Easy"]}
+{"id": 509, "title": "Fibonacci Number", "diff": "Easy", "relate": ["Climbing Stairs", "Split Array into Fibonacci Sequence", "Length of Longest Fibonacci Subsequence"], "level": ["Easy", "Medium", "Medium"]}
+{"id": 510, "title": "Inorder Successor in BST II", "diff": "Medium", "relate": ["Inorder Successor in BST"], "level": ["Medium"]}
+{"id": 516, "title": "Longest Palindromic Subsequence", "diff": "Medium", "relate": ["Longest Palindromic Substring", "Palindromic Substrings", "Count Different Palindromic Subsequences"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 521, "title": "Longest Uncommon Subsequence I", "diff": "Easy", "relate": ["Longest Uncommon Subsequence II"], "level": ["Medium"]}
+{"id": 522, "title": "Longest Uncommon Subsequence II", "diff": "Medium", "relate": ["Longest Uncommon Subsequence I"], "level": ["Easy"]}
+{"id": 523, "title": "Continuous Subarray Sum", "diff": "Medium", "relate": ["Subarray Sum Equals K"], "level": ["Medium"]}
+{"id": 524, "title": "Longest Word in Dictionary through Deleting", "diff": "Medium", "relate": ["Longest Word in Dictionary"], "level": ["Medium"]}
+{"id": 525, "title": "Contiguous Array", "diff": "Medium", "relate": ["Maximum Size Subarray Sum Equals k"], "level": ["Medium"]}
+{"id": 526, "title": "Beautiful Arrangement", "diff": "Medium", "relate": ["Beautiful Arrangement II"], "level": ["Medium"]}
+{"id": 527, "title": "Word Abbreviation", "diff": "Hard", "relate": ["Valid Word Abbreviation", "Minimum Unique Word Abbreviation"], "level": ["Easy", "Hard"]}
+{"id": 528, "title": "Random Pick with Weight", "diff": "Medium", "relate": ["Random Pick Index", "Random Pick with Blacklist", "Random Point in Non-overlapping Rectangles"], "level": ["Medium", "Hard", "Medium"]}
+{"id": 530, "title": "Minimum Absolute Difference in BST", "diff": "Easy", "relate": ["K-diff Pairs in an Array"], "level": ["Medium"]}
+{"id": 531, "title": "Lonely Pixel I", "diff": "Medium", "relate": ["Lonely Pixel II"], "level": ["Medium"]}
+{"id": 532, "title": "K-diff Pairs in an Array", "diff": "Medium", "relate": ["Minimum Absolute Difference in BST"], "level": ["Easy"]}
+{"id": 533, "title": "Lonely Pixel II", "diff": "Medium", "relate": ["Lonely Pixel I"], "level": ["Medium"]}
+{"id": 536, "title": "Construct Binary Tree from String", "diff": "Medium", "relate": ["Construct String from Binary Tree"], "level": ["Easy"]}
+{"id": 541, "title": "Reverse String II", "diff": "Easy", "relate": ["Reverse String", "Reverse Words in a String III"], "level": ["Easy", "Easy"]}
+{"id": 545, "title": "Boundary of Binary Tree", "diff": "Medium", "relate": ["Binary Tree Right Side View"], "level": ["Medium"]}
+{"id": 546, "title": "Remove Boxes", "diff": "Hard", "relate": ["Strange Printer"], "level": ["Hard"]}
+{"id": 547, "title": "Number of Provinces", "diff": "Medium", "relate": ["Number of Connected Components in an Undirected Graph", "Robot Return to Origin", "Sentence Similarity", "Sentence Similarity II", "The Earliest Moment When Everyone Become Friends"], "level": ["Medium", "Easy", "Easy", "Medium", "Medium"]}
+{"id": 549, "title": "Binary Tree Longest Consecutive Sequence II", "diff": "Medium", "relate": ["Binary Tree Longest Consecutive Sequence"], "level": ["Medium"]}
+{"id": 551, "title": "Student Attendance Record I", "diff": "Easy", "relate": ["Student Attendance Record II"], "level": ["Hard"]}
+{"id": 552, "title": "Student Attendance Record II", "diff": "Hard", "relate": ["Student Attendance Record I"], "level": ["Easy"]}
+{"id": 556, "title": "Next Greater Element III", "diff": "Medium", "relate": ["Next Greater Element I", "Next Greater Element II"], "level": ["Easy", "Medium"]}
+{"id": 557, "title": "Reverse Words in a String III", "diff": "Easy", "relate": ["Reverse String II"], "level": ["Easy"]}
+{"id": 559, "title": "Maximum Depth of N-ary Tree", "diff": "Easy", "relate": ["Maximum Depth of Binary Tree"], "level": ["Easy"]}
+{"id": 560, "title": "Subarray Sum Equals K", "diff": "Medium", "relate": ["Two Sum", "Continuous Subarray Sum", "Subarray Product Less Than K", "Find Pivot Index", "Subarray Sums Divisible by K"], "level": ["Easy", "Medium", "Medium", "Easy", "Medium"]}
+{"id": 565, "title": "Array Nesting", "diff": "Medium", "relate": ["Nested List Weight Sum", "Flatten Nested List Iterator", "Nested List Weight Sum II"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 567, "title": "Permutation in String", "diff": "Medium", "relate": ["Minimum Window Substring", "Find All Anagrams in a String"], "level": ["Hard", "Medium"]}
+{"id": 568, "title": "Maximum Vacation Days", "diff": "Hard", "relate": ["Cheapest Flights Within K Stops"], "level": ["Medium"]}
+{"id": 572, "title": "Subtree of Another Tree", "diff": "Easy", "relate": ["Count Univalue Subtrees", "Most Frequent Subtree Sum"], "level": ["Medium", "Medium"]}
+{"id": 576, "title": "Out of Boundary Paths", "diff": "Medium", "relate": ["Knight Probability in Chessboard"], "level": ["Medium"]}
+{"id": 583, "title": "Delete Operation for Two Strings", "diff": "Medium", "relate": ["Edit Distance", "Minimum ASCII Delete Sum for Two Strings"], "level": ["Medium", "Medium"]}
+{"id": 588, "title": "Design In-Memory File System", "diff": "Hard", "relate": ["LRU Cache", "LFU Cache", "Design Log Storage System"], "level": ["Medium", "Hard", "Medium"]}
+{"id": 589, "title": "N-ary Tree Preorder Traversal", "diff": "Easy", "relate": ["Binary Tree Preorder Traversal", "N-ary Tree Level Order Traversal", "N-ary Tree Postorder Traversal"], "level": ["Easy", "Medium", "Easy"]}
+{"id": 590, "title": "N-ary Tree Postorder Traversal", "diff": "Easy", "relate": ["Binary Tree Postorder Traversal", "N-ary Tree Level Order Traversal", "N-ary Tree Preorder Traversal"], "level": ["Easy", "Medium", "Easy"]}
+{"id": 591, "title": "Tag Validator", "diff": "Hard", "relate": ["Add Bold Tag in String"], "level": ["Medium"]}
+{"id": 592, "title": "Fraction Addition and Subtraction", "diff": "Medium", "relate": ["Solve the Equation"], "level": ["Medium"]}
+{"id": 598, "title": "Range Addition II", "diff": "Easy", "relate": ["Range Addition"], "level": ["Medium"]}
+{"id": 599, "title": "Minimum Index Sum of Two Lists", "diff": "Easy", "relate": ["Intersection of Two Linked Lists"], "level": ["Easy"]}
+{"id": 600, "title": "Non-negative Integers without Consecutive Ones", "diff": "Hard", "relate": ["House Robber", "House Robber II", "Ones and Zeroes"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 604, "title": "Design Compressed String Iterator", "diff": "Easy", "relate": ["LRU Cache", "String Compression"], "level": ["Medium", "Medium"]}
+{"id": 605, "title": "Can Place Flowers", "diff": "Easy", "relate": ["Teemo Attacking", "Asteroid Collision"], "level": ["Easy", "Medium"]}
+{"id": 606, "title": "Construct String from Binary Tree", "diff": "Easy", "relate": ["Construct Binary Tree from String", "Find Duplicate Subtrees"], "level": ["Medium", "Medium"]}
+{"id": 611, "title": "Valid Triangle Number", "diff": "Medium", "relate": ["3Sum Smaller"], "level": ["Medium"]}
+{"id": 616, "title": "Add Bold Tag in String", "diff": "Medium", "relate": ["Merge Intervals", "Tag Validator"], "level": ["Medium", "Hard"]}
+{"id": 621, "title": "Task Scheduler", "diff": "Medium", "relate": ["Rearrange String k Distance Apart", "Reorganize String"], "level": ["Hard", "Medium"]}
+{"id": 622, "title": "Design Circular Queue", "diff": "Medium", "relate": ["Design Circular Deque"], "level": ["Medium"]}
+{"id": 628, "title": "Maximum Product of Three Numbers", "diff": "Easy", "relate": ["Maximum Product Subarray"], "level": ["Medium"]}
+{"id": 630, "title": "Course Schedule III", "diff": "Hard", "relate": ["Course Schedule", "Course Schedule II"], "level": ["Medium", "Medium"]}
+{"id": 633, "title": "Sum of Square Numbers", "diff": "Medium", "relate": ["Valid Perfect Square"], "level": ["Easy"]}
+{"id": 635, "title": "Design Log Storage System", "diff": "Medium", "relate": ["Design In-Memory File System"], "level": ["Hard"]}
+{"id": 637, "title": "Average of Levels in Binary Tree", "diff": "Easy", "relate": ["Binary Tree Level Order Traversal", "Binary Tree Level Order Traversal II"], "level": ["Medium", "Medium"]}
+{"id": 639, "title": "Decode Ways II", "diff": "Hard", "relate": ["Decode Ways"], "level": ["Medium"]}
+{"id": 640, "title": "Solve the Equation", "diff": "Medium", "relate": ["Fraction Addition and Subtraction"], "level": ["Medium"]}
+{"id": 641, "title": "Design Circular Deque", "diff": "Medium", "relate": ["Design Circular Queue"], "level": ["Medium"]}
+{"id": 642, "title": "Design Search Autocomplete System", "diff": "Hard", "relate": ["Implement Trie (Prefix Tree)"], "level": ["Medium"]}
+{"id": 643, "title": "Maximum Average Subarray I", "diff": "Easy", "relate": ["Maximum Average Subarray II"], "level": ["Hard"]}
+{"id": 644, "title": "Maximum Average Subarray II", "diff": "Hard", "relate": ["Maximum Average Subarray I"], "level": ["Easy"]}
+{"id": 645, "title": "Set Mismatch", "diff": "Easy", "relate": ["Find the Duplicate Number"], "level": ["Medium"]}
+{"id": 646, "title": "Maximum Length of Pair Chain", "diff": "Medium", "relate": ["Longest Increasing Subsequence", "Non-decreasing Subsequences"], "level": ["Medium", "Medium"]}
+{"id": 647, "title": "Palindromic Substrings", "diff": "Medium", "relate": ["Longest Palindromic Substring", "Longest Palindromic Subsequence", "Palindromic Substrings"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 648, "title": "Replace Words", "diff": "Medium", "relate": ["Implement Trie (Prefix Tree)"], "level": ["Medium"]}
+{"id": 649, "title": "Dota2 Senate", "diff": "Medium", "relate": ["Teemo Attacking"], "level": ["Easy"]}
+{"id": 650, "title": "2 Keys Keyboard", "diff": "Medium", "relate": ["4 Keys Keyboard", "Broken Calculator"], "level": ["Medium", "Medium"]}
+{"id": 651, "title": "4 Keys Keyboard", "diff": "Medium", "relate": ["2 Keys Keyboard"], "level": ["Medium"]}
+{"id": 652, "title": "Find Duplicate Subtrees", "diff": "Medium", "relate": ["Serialize and Deserialize Binary Tree", "Serialize and Deserialize BST", "Construct String from Binary Tree"], "level": ["Hard", "Medium", "Easy"]}
+{"id": 653, "title": "Two Sum IV - Input is a BST", "diff": "Easy", "relate": ["Two Sum", "Two Sum II - Input Array Is Sorted", "Two Sum III - Data structure design", "Two Sum BSTs"], "level": ["Easy", "Medium", "Easy", "Medium"]}
+{"id": 654, "title": "Maximum Binary Tree", "diff": "Medium", "relate": ["Maximum Binary Tree II"], "level": ["Medium"]}
+{"id": 656, "title": "Coin Path", "diff": "Hard", "relate": ["House Robber", "House Robber II"], "level": ["Medium", "Medium"]}
+{"id": 657, "title": "Robot Return to Origin", "diff": "Easy", "relate": ["Number of Provinces"], "level": ["Medium"]}
+{"id": 658, "title": "Find K Closest Elements", "diff": "Medium", "relate": ["Guess Number Higher or Lower", "Guess Number Higher or Lower II", "Find K-th Smallest Pair Distance"], "level": ["Easy", "Medium", "Hard"]}
+{"id": 659, "title": "Split Array into Consecutive Subsequences", "diff": "Medium", "relate": ["Top K Frequent Elements"], "level": ["Medium"]}
+{"id": 664, "title": "Strange Printer", "diff": "Hard", "relate": ["Remove Boxes"], "level": ["Hard"]}
+{"id": 666, "title": "Path Sum IV", "diff": "Medium", "relate": ["Path Sum", "Path Sum II", "Binary Tree Maximum Path Sum", "Path Sum III"], "level": ["Easy", "Medium", "Hard", "Medium"]}
+{"id": 667, "title": "Beautiful Arrangement II", "diff": "Medium", "relate": ["Beautiful Arrangement"], "level": ["Medium"]}
+{"id": 668, "title": "Kth Smallest Number in Multiplication Table", "diff": "Hard", "relate": ["Kth Smallest Element in a Sorted Matrix", "Find K-th Smallest Pair Distance", "K-th Smallest Prime Fraction"], "level": ["Medium", "Hard", "Medium"]}
+{"id": 670, "title": "Maximum Swap", "diff": "Medium", "relate": ["Create Maximum Number"], "level": ["Hard"]}
+{"id": 671, "title": "Second Minimum Node In a Binary Tree", "diff": "Easy", "relate": ["Kth Smallest Element in a BST"], "level": ["Medium"]}
+{"id": 672, "title": "Bulb Switcher II", "diff": "Medium", "relate": ["Bulb Switcher"], "level": ["Medium"]}
+{"id": 673, "title": "Number of Longest Increasing Subsequence", "diff": "Medium", "relate": ["Longest Increasing Subsequence", "Longest Continuous Increasing Subsequence"], "level": ["Medium", "Easy"]}
+{"id": 674, "title": "Longest Continuous Increasing Subsequence", "diff": "Easy", "relate": ["Number of Longest Increasing Subsequence", "Minimum Window Subsequence"], "level": ["Medium", "Hard"]}
+{"id": 676, "title": "Implement Magic Dictionary", "diff": "Medium", "relate": ["Implement Trie (Prefix Tree)", "Longest Word in Dictionary"], "level": ["Medium", "Medium"]}
+{"id": 678, "title": "Valid Parenthesis String", "diff": "Medium", "relate": ["Special Binary String"], "level": ["Hard"]}
+{"id": 680, "title": "Valid Palindrome II", "diff": "Easy", "relate": ["Valid Palindrome"], "level": ["Easy"]}
+{"id": 684, "title": "Redundant Connection", "diff": "Medium", "relate": ["Redundant Connection II", "Accounts Merge"], "level": ["Hard", "Medium"]}
+{"id": 685, "title": "Redundant Connection II", "diff": "Hard", "relate": ["Redundant Connection"], "level": ["Medium"]}
+{"id": 686, "title": "Repeated String Match", "diff": "Medium", "relate": ["Repeated Substring Pattern"], "level": ["Easy"]}
+{"id": 687, "title": "Longest Univalue Path", "diff": "Medium", "relate": ["Binary Tree Maximum Path Sum", "Count Univalue Subtrees", "Path Sum III"], "level": ["Hard", "Medium", "Medium"]}
+{"id": 688, "title": "Knight Probability in Chessboard", "diff": "Medium", "relate": ["Out of Boundary Paths"], "level": ["Medium"]}
+{"id": 689, "title": "Maximum Sum of 3 Non-Overlapping Subarrays", "diff": "Hard", "relate": ["Best Time to Buy and Sell Stock III"], "level": ["Hard"]}
+{"id": 690, "title": "Employee Importance", "diff": "Medium", "relate": ["Nested List Weight Sum"], "level": ["Medium"]}
+{"id": 691, "title": "Stickers to Spell Word", "diff": "Hard", "relate": ["Ransom Note"], "level": ["Easy"]}
+{"id": 692, "title": "Top K Frequent Words", "diff": "Medium", "relate": ["Top K Frequent Elements", "K Closest Points to Origin"], "level": ["Medium", "Medium"]}
+{"id": 693, "title": "Binary Number with Alternating Bits", "diff": "Easy", "relate": ["Number of 1 Bits"], "level": ["Easy"]}
+{"id": 694, "title": "Number of Distinct Islands", "diff": "Medium", "relate": ["Number of Islands", "Number of Distinct Islands II"], "level": ["Medium", "Hard"]}
+{"id": 695, "title": "Max Area of Island", "diff": "Medium", "relate": ["Number of Islands", "Island Perimeter"], "level": ["Medium", "Easy"]}
+{"id": 696, "title": "Count Binary Substrings", "diff": "Easy", "relate": ["Encode and Decode Strings"], "level": ["Medium"]}
+{"id": 697, "title": "Degree of an Array", "diff": "Easy", "relate": ["Maximum Subarray"], "level": ["Medium"]}
+{"id": 698, "title": "Partition to K Equal Sum Subsets", "diff": "Medium", "relate": ["Partition Equal Subset Sum"], "level": ["Medium"]}
+{"id": 699, "title": "Falling Squares", "diff": "Hard", "relate": ["The Skyline Problem"], "level": ["Hard"]}
+{"id": 700, "title": "Search in a Binary Search Tree", "diff": "Easy", "relate": ["Closest Binary Search Tree Value", "Insert into a Binary Search Tree"], "level": ["Easy", "Medium"]}
+{"id": 701, "title": "Insert into a Binary Search Tree", "diff": "Medium", "relate": ["Search in a Binary Search Tree"], "level": ["Easy"]}
+{"id": 702, "title": "Search in a Sorted Array of Unknown Size", "diff": "Medium", "relate": ["Binary Search"], "level": ["Easy"]}
+{"id": 703, "title": "Kth Largest Element in a Stream", "diff": "Easy", "relate": ["Kth Largest Element in an Array"], "level": ["Medium"]}
+{"id": 704, "title": "Binary Search", "diff": "Easy", "relate": ["Search in a Sorted Array of Unknown Size"], "level": ["Medium"]}
+{"id": 705, "title": "Design HashSet", "diff": "Easy", "relate": ["Design HashMap"], "level": ["Easy"]}
+{"id": 706, "title": "Design HashMap", "diff": "Easy", "relate": ["Design HashSet"], "level": ["Easy"]}
+{"id": 708, "title": "Insert into a Sorted Circular Linked List", "diff": "Medium", "relate": ["Insertion Sort List"], "level": ["Medium"]}
+{"id": 710, "title": "Random Pick with Blacklist", "diff": "Hard", "relate": ["Random Pick Index", "Random Pick with Weight"], "level": ["Medium", "Medium"]}
+{"id": 711, "title": "Number of Distinct Islands II", "diff": "Hard", "relate": ["Number of Distinct Islands"], "level": ["Medium"]}
+{"id": 712, "title": "Minimum ASCII Delete Sum for Two Strings", "diff": "Medium", "relate": ["Edit Distance", "Longest Increasing Subsequence", "Delete Operation for Two Strings"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 713, "title": "Subarray Product Less Than K", "diff": "Medium", "relate": ["Maximum Product Subarray", "Maximum Size Subarray Sum Equals k", "Subarray Sum Equals K", "Two Sum Less Than K"], "level": ["Medium", "Medium", "Medium", "Easy"]}
+{"id": 714, "title": "Best Time to Buy and Sell Stock with Transaction Fee", "diff": "Medium", "relate": ["Best Time to Buy and Sell Stock II"], "level": ["Medium"]}
+{"id": 716, "title": "Max Stack", "diff": "Hard", "relate": ["Min Stack"], "level": ["Medium"]}
+{"id": 717, "title": "1-bit and 2-bit Characters", "diff": "Easy", "relate": ["Gray Code"], "level": ["Medium"]}
+{"id": 718, "title": "Maximum Length of Repeated Subarray", "diff": "Medium", "relate": ["Minimum Size Subarray Sum"], "level": ["Medium"]}
+{"id": 719, "title": "Find K-th Smallest Pair Distance", "diff": "Hard", "relate": ["Find K Pairs with Smallest Sums", "Kth Smallest Element in a Sorted Matrix", "Find K Closest Elements", "Kth Smallest Number in Multiplication Table", "K-th Smallest Prime Fraction"], "level": ["Medium", "Medium", "Medium", "Hard", "Medium"]}
+{"id": 720, "title": "Longest Word in Dictionary", "diff": "Medium", "relate": ["Longest Word in Dictionary through Deleting", "Implement Magic Dictionary"], "level": ["Medium", "Medium"]}
+{"id": 721, "title": "Accounts Merge", "diff": "Medium", "relate": ["Redundant Connection", "Sentence Similarity", "Sentence Similarity II"], "level": ["Medium", "Easy", "Medium"]}
+{"id": 722, "title": "Remove Comments", "diff": "Medium", "relate": ["Mini Parser", "Ternary Expression Parser"], "level": ["Medium", "Medium"]}
+{"id": 724, "title": "Find Pivot Index", "diff": "Easy", "relate": ["Subarray Sum Equals K"], "level": ["Medium"]}
+{"id": 725, "title": "Split Linked List in Parts", "diff": "Medium", "relate": ["Rotate List", "Odd Even Linked List"], "level": ["Medium", "Medium"]}
+{"id": 726, "title": "Number of Atoms", "diff": "Hard", "relate": ["Decode String", "Encode String with Shortest Length", "Parse Lisp Expression"], "level": ["Medium", "Hard", "Hard"]}
+{"id": 727, "title": "Minimum Window Subsequence", "diff": "Hard", "relate": ["Minimum Window Substring", "Longest Continuous Increasing Subsequence"], "level": ["Hard", "Easy"]}
+{"id": 728, "title": "Self Dividing Numbers", "diff": "Easy", "relate": ["Perfect Number"], "level": ["Easy"]}
+{"id": 729, "title": "My Calendar I", "diff": "Medium", "relate": ["My Calendar II", "My Calendar III"], "level": ["Medium", "Hard"]}
+{"id": 730, "title": "Count Different Palindromic Subsequences", "diff": "Hard", "relate": ["Longest Palindromic Subsequence"], "level": ["Medium"]}
+{"id": 731, "title": "My Calendar II", "diff": "Medium", "relate": ["My Calendar I", "My Calendar III"], "level": ["Medium", "Hard"]}
+{"id": 732, "title": "My Calendar III", "diff": "Hard", "relate": ["My Calendar I", "My Calendar II"], "level": ["Medium", "Medium"]}
+{"id": 733, "title": "Flood Fill", "diff": "Easy", "relate": ["Island Perimeter"], "level": ["Easy"]}
+{"id": 734, "title": "Sentence Similarity", "diff": "Easy", "relate": ["Number of Provinces", "Accounts Merge", "Sentence Similarity II"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 735, "title": "Asteroid Collision", "diff": "Medium", "relate": ["Can Place Flowers"], "level": ["Easy"]}
+{"id": 736, "title": "Parse Lisp Expression", "diff": "Hard", "relate": ["Ternary Expression Parser", "Number of Atoms", "Basic Calculator IV"], "level": ["Medium", "Hard", "Hard"]}
+{"id": 737, "title": "Sentence Similarity II", "diff": "Medium", "relate": ["Number of Provinces", "Accounts Merge", "Sentence Similarity"], "level": ["Medium", "Medium", "Easy"]}
+{"id": 738, "title": "Monotone Increasing Digits", "diff": "Medium", "relate": ["Remove K Digits"], "level": ["Medium"]}
+{"id": 739, "title": "Daily Temperatures", "diff": "Medium", "relate": ["Next Greater Element I"], "level": ["Easy"]}
+{"id": 740, "title": "Delete and Earn", "diff": "Medium", "relate": ["House Robber"], "level": ["Medium"]}
+{"id": 741, "title": "Cherry Pickup", "diff": "Hard", "relate": ["Minimum Path Sum", "Dungeon Game"], "level": ["Medium", "Hard"]}
+{"id": 745, "title": "Prefix and Suffix Search", "diff": "Hard", "relate": ["Design Add and Search Words Data Structure"], "level": ["Medium"]}
+{"id": 746, "title": "Min Cost Climbing Stairs", "diff": "Easy", "relate": ["Climbing Stairs"], "level": ["Easy"]}
+{"id": 751, "title": "IP to CIDR", "diff": "Medium", "relate": ["Restore IP Addresses", "Validate IP Address"], "level": ["Medium", "Medium"]}
+{"id": 755, "title": "Pour Water", "diff": "Medium", "relate": ["Trapping Rain Water"], "level": ["Hard"]}
+{"id": 759, "title": "Employee Free Time", "diff": "Hard", "relate": ["Merge Intervals", "Interval List Intersections"], "level": ["Medium", "Medium"]}
+{"id": 761, "title": "Special Binary String", "diff": "Hard", "relate": ["Valid Parenthesis String"], "level": ["Medium"]}
+{"id": 762, "title": "Prime Number of Set Bits in Binary Representation", "diff": "Easy", "relate": ["Number of 1 Bits"], "level": ["Easy"]}
+{"id": 763, "title": "Partition Labels", "diff": "Medium", "relate": ["Merge Intervals"], "level": ["Medium"]}
+{"id": 764, "title": "Largest Plus Sign", "diff": "Medium", "relate": ["Maximal Square"], "level": ["Medium"]}
+{"id": 765, "title": "Couples Holding Hands", "diff": "Hard", "relate": ["First Missing Positive", "Missing Number", "K-Similar Strings"], "level": ["Hard", "Easy", "Hard"]}
+{"id": 766, "title": "Toeplitz Matrix", "diff": "Easy", "relate": ["Valid Word Square"], "level": ["Easy"]}
+{"id": 767, "title": "Reorganize String", "diff": "Medium", "relate": ["Rearrange String k Distance Apart", "Task Scheduler"], "level": ["Hard", "Medium"]}
+{"id": 768, "title": "Max Chunks To Make Sorted II", "diff": "Hard", "relate": ["Max Chunks To Make Sorted"], "level": ["Medium"]}
+{"id": 769, "title": "Max Chunks To Make Sorted", "diff": "Medium", "relate": ["Max Chunks To Make Sorted II"], "level": ["Hard"]}
+{"id": 770, "title": "Basic Calculator IV", "diff": "Hard", "relate": ["Parse Lisp Expression", "Basic Calculator III"], "level": ["Hard", "Hard"]}
+{"id": 772, "title": "Basic Calculator III", "diff": "Hard", "relate": ["Basic Calculator", "Basic Calculator II", "Basic Calculator IV"], "level": ["Hard", "Medium", "Hard"]}
+{"id": 774, "title": "Minimize Max Distance to Gas Station", "diff": "Hard", "relate": ["Koko Eating Bananas"], "level": ["Medium"]}
+{"id": 776, "title": "Split BST", "diff": "Medium", "relate": ["Delete Node in a BST"], "level": ["Medium"]}
+{"id": 783, "title": "Minimum Distance Between BST Nodes", "diff": "Easy", "relate": ["Binary Tree Inorder Traversal"], "level": ["Easy"]}
+{"id": 784, "title": "Letter Case Permutation", "diff": "Medium", "relate": ["Subsets", "Brace Expansion"], "level": ["Medium", "Medium"]}
+{"id": 786, "title": "K-th Smallest Prime Fraction", "diff": "Medium", "relate": ["Kth Smallest Element in a Sorted Matrix", "Kth Smallest Number in Multiplication Table", "Find K-th Smallest Pair Distance"], "level": ["Medium", "Hard", "Hard"]}
+{"id": 787, "title": "Cheapest Flights Within K Stops", "diff": "Medium", "relate": ["Maximum Vacation Days"], "level": ["Hard"]}
+{"id": 792, "title": "Number of Matching Subsequences", "diff": "Medium", "relate": ["Is Subsequence"], "level": ["Easy"]}
+{"id": 793, "title": "Preimage Size of Factorial Zeroes Function", "diff": "Hard", "relate": ["Factorial Trailing Zeroes"], "level": ["Medium"]}
+{"id": 794, "title": "Valid Tic-Tac-Toe State", "diff": "Medium", "relate": ["Design Tic-Tac-Toe"], "level": ["Medium"]}
+{"id": 812, "title": "Largest Triangle Area", "diff": "Easy", "relate": ["Largest Perimeter Triangle"], "level": ["Easy"]}
+{"id": 834, "title": "Sum of Distances in Tree", "diff": "Hard", "relate": ["Distribute Coins in Binary Tree"], "level": ["Medium"]}
+{"id": 836, "title": "Rectangle Overlap", "diff": "Easy", "relate": ["Rectangle Area"], "level": ["Medium"]}
+{"id": 842, "title": "Split Array into Fibonacci Sequence", "diff": "Medium", "relate": ["Additive Number", "Fibonacci Number"], "level": ["Medium", "Easy"]}
+{"id": 849, "title": "Maximize Distance to Closest Person", "diff": "Medium", "relate": ["Exam Room"], "level": ["Medium"]}
+{"id": 852, "title": "Peak Index in a Mountain Array", "diff": "Medium", "relate": ["Find Peak Element"], "level": ["Medium"]}
+{"id": 854, "title": "K-Similar Strings", "diff": "Hard", "relate": ["Couples Holding Hands"], "level": ["Hard"]}
+{"id": 855, "title": "Exam Room", "diff": "Medium", "relate": ["Maximize Distance to Closest Person"], "level": ["Medium"]}
+{"id": 873, "title": "Length of Longest Fibonacci Subsequence", "diff": "Medium", "relate": ["Fibonacci Number"], "level": ["Easy"]}
+{"id": 875, "title": "Koko Eating Bananas", "diff": "Medium", "relate": ["Minimize Max Distance to Gas Station"], "level": ["Hard"]}
+{"id": 968, "title": "Binary Tree Cameras", "diff": "Hard", "relate": ["Distribute Coins in Binary Tree"], "level": ["Medium"]}
+{"id": 973, "title": "K Closest Points to Origin", "diff": "Medium", "relate": ["Kth Largest Element in an Array", "Top K Frequent Elements", "Top K Frequent Words"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 974, "title": "Subarray Sums Divisible by K", "diff": "Medium", "relate": ["Subarray Sum Equals K"], "level": ["Medium"]}
+{"id": 976, "title": "Largest Perimeter Triangle", "diff": "Easy", "relate": ["Largest Triangle Area"], "level": ["Easy"]}
+{"id": 977, "title": "Squares of a Sorted Array", "diff": "Easy", "relate": ["Merge Sorted Array", "Sort Transformed Array"], "level": ["Easy", "Medium"]}
+{"id": 978, "title": "Longest Turbulent Subarray", "diff": "Medium", "relate": ["Maximum Subarray"], "level": ["Medium"]}
+{"id": 979, "title": "Distribute Coins in Binary Tree", "diff": "Medium", "relate": ["Sum of Distances in Tree", "Binary Tree Cameras"], "level": ["Hard", "Hard"]}
+{"id": 980, "title": "Unique Paths III", "diff": "Hard", "relate": ["Sudoku Solver", "Unique Paths II", "Word Search II"], "level": ["Hard", "Medium", "Hard"]}
+{"id": 983, "title": "Minimum Cost For Tickets", "diff": "Medium", "relate": ["Coin Change"], "level": ["Medium"]}
+{"id": 986, "title": "Interval List Intersections", "diff": "Medium", "relate": ["Merge Intervals", "Merge Sorted Array", "Employee Free Time"], "level": ["Medium", "Easy", "Hard"]}
+{"id": 988, "title": "Smallest String Starting From Leaf", "diff": "Medium", "relate": ["Sum Root to Leaf Numbers", "Binary Tree Paths"], "level": ["Medium", "Easy"]}
+{"id": 989, "title": "Add to Array-Form of Integer", "diff": "Easy", "relate": ["Add Two Numbers", "Plus One", "Add Binary", "Add Strings"], "level": ["Medium", "Easy", "Easy", "Easy"]}
+{"id": 991, "title": "Broken Calculator", "diff": "Medium", "relate": ["2 Keys Keyboard"], "level": ["Medium"]}
+{"id": 992, "title": "Subarrays with K Different Integers", "diff": "Hard", "relate": ["Longest Substring Without Repeating Characters", "Longest Substring with At Most Two Distinct Characters", "Longest Substring with At Most K Distinct Characters"], "level": ["Medium", "Medium", "Medium"]}
+{"id": 993, "title": "Cousins in Binary Tree", "diff": "Easy", "relate": ["Binary Tree Level Order Traversal"], "level": ["Medium"]}
+{"id": 994, "title": "Rotting Oranges", "diff": "Medium", "relate": ["Walls and Gates"], "level": ["Medium"]}
+{"id": 995, "title": "Minimum Number of K Consecutive Bit Flips", "diff": "Hard", "relate": ["Bulb Switcher"], "level": ["Medium"]}
+{"id": 996, "title": "Number of Squareful Arrays", "diff": "Hard", "relate": ["Permutations II"], "level": ["Medium"]}
+{"id": 997, "title": "Find the Town Judge", "diff": "Easy", "relate": ["Find the Celebrity"], "level": ["Medium"]}
+{"id": 998, "title": "Maximum Binary Tree II", "diff": "Medium", "relate": ["Maximum Binary Tree"], "level": ["Medium"]}
+{"id": 1000, "title": "Minimum Cost to Merge Stones", "diff": "Hard", "relate": ["Burst Balloons", "Minimum Cost to Connect Sticks"], "level": ["Hard", "Medium"]}
+{"id": 1001, "title": "Grid Illumination", "diff": "Hard", "relate": ["N-Queens"], "level": ["Hard"]}
+{"id": 1002, "title": "Find Common Characters", "diff": "Easy", "relate": ["Intersection of Two Arrays II"], "level": ["Easy"]}
+{"id": 1003, "title": "Check If Word Is Valid After Substitutions", "diff": "Medium", "relate": ["Valid Parentheses"], "level": ["Easy"]}
+{"id": 1004, "title": "Max Consecutive Ones III", "diff": "Medium", "relate": ["Longest Substring with At Most K Distinct Characters", "Longest Repeating Character Replacement", "Max Consecutive Ones", "Max Consecutive Ones II"], "level": ["Medium", "Medium", "Easy", "Medium"]}
+{"id": 1017, "title": "Convert to Base -2", "diff": "Medium", "relate": ["Encode Number"], "level": ["Medium"]}
+{"id": 1034, "title": "Coloring A Border", "diff": "Medium", "relate": ["Island Perimeter"], "level": ["Easy"]}
+{"id": 1035, "title": "Uncrossed Lines", "diff": "Medium", "relate": ["Edit Distance"], "level": ["Medium"]}
+{"id": 1055, "title": "Shortest Way to Form String", "diff": "Medium", "relate": ["Is Subsequence"], "level": ["Easy"]}
+{"id": 1056, "title": "Confusing Number", "diff": "Easy", "relate": ["Strobogrammatic Number", "Confusing Number II"], "level": ["Easy", "Hard"]}
+{"id": 1057, "title": "Campus Bikes", "diff": "Medium", "relate": ["Campus Bikes II"], "level": ["Medium"]}
+{"id": 1066, "title": "Campus Bikes II", "diff": "Medium", "relate": ["Campus Bikes"], "level": ["Medium"]}
+{"id": 1067, "title": "Digit Count in Range", "diff": "Hard", "relate": ["Number of Digit One"], "level": ["Hard"]}
+{"id": 1085, "title": "Sum of Digits in the Minimum Number", "diff": "Easy", "relate": ["Add Digits"], "level": ["Easy"]}
+{"id": 1087, "title": "Brace Expansion", "diff": "Medium", "relate": ["Decode String", "Letter Case Permutation", "Brace Expansion II"], "level": ["Medium", "Medium", "Hard"]}
+{"id": 1088, "title": "Confusing Number II", "diff": "Hard", "relate": ["Confusing Number"], "level": ["Easy"]}
+{"id": 1094, "title": "Car Pooling", "diff": "Medium", "relate": ["Meeting Rooms II"], "level": ["Medium"]}
+{"id": 1096, "title": "Brace Expansion II", "diff": "Hard", "relate": ["Brace Expansion"], "level": ["Medium"]}
+{"id": 1099, "title": "Two Sum Less Than K", "diff": "Easy", "relate": ["Two Sum", "Two Sum II - Input Array Is Sorted", "3Sum Smaller", "Subarray Product Less Than K"], "level": ["Easy", "Medium", "Medium", "Medium"]}
+{"id": 1101, "title": "The Earliest Moment When Everyone Become Friends", "diff": "Medium", "relate": ["Number of Provinces"], "level": ["Medium"]}
+{"id": 1119, "title": "Remove Vowels from a String", "diff": "Easy", "relate": ["Reverse Vowels of a String"], "level": ["Easy"]}
+{"id": 1137, "title": "N-th Tribonacci Number", "diff": "Easy", "relate": ["Climbing Stairs"], "level": ["Easy"]}
+{"id": 1150, "title": "Check If a Number Is Majority Element in a Sorted Array", "diff": "Easy", "relate": ["Majority Element", "Majority Element II"], "level": ["Easy", "Medium"]}
+{"id": 1162, "title": "As Far from Land as Possible", "diff": "Medium", "relate": ["Shortest Distance from All Buildings"], "level": ["Hard"]}
+{"id": 1167, "title": "Minimum Cost to Connect Sticks", "diff": "Medium", "relate": ["Minimum Cost to Merge Stones"], "level": ["Hard"]}
+{"id": 1213, "title": "Intersection of Three Sorted Arrays", "diff": "Easy", "relate": ["Intersection of Two Arrays"], "level": ["Easy"]}
+{"id": 1214, "title": "Two Sum BSTs", "diff": "Medium", "relate": ["Two Sum IV - Input is a BST"], "level": ["Easy"]}
+{"id": 1256, "title": "Encode Number", "diff": "Medium", "relate": ["Convert to Base -2"], "level": ["Medium"]}
+{"id": 1257, "title": "Smallest Common Region", "diff": "Medium", "relate": ["Lowest Common Ancestor of a Binary Search Tree", "Lowest Common Ancestor of a Binary Tree"], "level": ["Medium", "Medium"]}
