@@ -1,0 +1,303 @@
+{"first": "Swap Nodes in Pairs", "second": "Reverse Nodes in k-Group"}
+{"first": "Regular Expression Matching", "second": "Wildcard Matching"}
+{"first": "Jump Game II", "second": "Jump Game"}
+{"first": "Spiral Matrix II", "second": "Spiral Matrix"}
+{"first": "Remove Duplicates from Sorted List", "second": "Remove Duplicates from Sorted List II"}
+{"first": "Construct Binary Tree from Inorder and Postorder Traversal", "second": "Construct Binary Tree from Preorder and Inorder Traversal"}
+{"first": "Convert Sorted Array to Binary Search Tree", "second": "Convert Sorted List to Binary Search Tree"}
+{"first": "Pascal's Triangle II", "second": "Pascal's Triangle"}
+{"first": "Palindrome Partitioning", "second": "Palindrome Partitioning II"}
+{"first": "Copy List with Random Pointer", "second": "Clone Graph"}
+{"first": "Find Minimum in Rotated Sorted Array", "second": "Find Minimum in Rotated Sorted Array II"}
+{"first": "Read N Characters Given Read4", "second": "Read N Characters Given read4 II - Call Multiple Times"}
+{"first": "Excel Sheet Column Number", "second": "Excel Sheet Column Title"}
+{"first": "Contains Duplicate II", "second": "Contains Duplicate III"}
+{"first": "Contains Duplicate", "third": "Contains Duplicate III"}
+{"first": "Implement Queue using Stacks", "second": "Implement Stack using Queues"}
+{"first": "Search a 2D Matrix II", "second": "Search a 2D Matrix"}
+{"first": "Roman to Integer", "second": "Integer to English Words"}
+{"first": "Integer to Roman", "third": "Integer to English Words"}
+{"first": "H-Index II", "second": "H-Index"}
+{"first": "Remove Duplicates from Sorted Array", "second": "Delete Node in a Linked List"}
+{"first": "Remove Linked List Elements", "second": "Remove Duplicates from Sorted Array II"}
+{"first": "Game of Life", "second": "Set Matrix Zeroes"}
+{"first": "Word Pattern", "second": "Word Pattern II"}
+{"first": "Isomorphic Strings", "third": "Word Pattern II"}
+{"first": "Logger Rate Limiter", "second": "Design Hit Counter"}
+{"first": "Insert Delete GetRandom O(1)", "second": "Insert Delete GetRandom O(1) - Duplicates allowed"}
+{"first": "Flatten a Multilevel Doubly Linked List", "second": "Flatten Binary Tree to Linked List"}
+{"first": "Minimum Genetic Mutation", "second": "Word Ladder II"}
+{"first": "Word Ladder", "third": "Word Ladder II"}
+{"first": "Missing Ranges", "second": "Find Right Interval", "third": "Data Stream as Disjoint Intervals"}
+{"first": "Summary Ranges", "second": "Find Right Interval", "third": "Data Stream as Disjoint Intervals"}
+{"first": "Summary Ranges", "second": "Data Stream as Disjoint Intervals"}
+{"first": "Arithmetic Slices", "second": "Arithmetic Slices II - Subsequence"}
+{"first": "Line Reflection", "second": "Max Points on a Line"}
+{"first": "Number of Boomerangs", "third": "Max Points on a Line"}
+{"first": "Word Break", "second": "Concatenated Words"}
+{"first": "Word Break II", "third": "Concatenated Words"}
+{"first": "Sliding Window Median", "second": "Find Median from Data Stream"}
+{"first": "Queue Reconstruction by Height", "second": "Count of Smaller Numbers After Self"}
+{"first": "The Maze", "second": "The Maze III"}
+{"first": "The Maze II", "third": "The Maze III"}
+{"first": "Longest Uncommon Subsequence I", "second": "Longest Uncommon Subsequence II"}
+{"first": "Minimum Absolute Difference in BST", "second": "K-diff Pairs in an Array"}
+{"first": "Lonely Pixel I", "second": "Lonely Pixel II"}
+{"first": "Binary Tree Longest Consecutive Sequence II", "second": "Binary Tree Longest Consecutive Sequence"}
+{"first": "Longest Consecutive Sequence", "third": "Binary Tree Longest Consecutive Sequence"}
+{"first": "Student Attendance Record I", "second": "Student Attendance Record II"}
+{"first": "Range Addition II", "second": "Range Addition"}
+{"first": "Minimum Index Sum of Two Lists", "second": "Intersection of Two Linked Lists"}
+{"first": "Sqrt(x)", "second": "Sum of Square Numbers"}
+{"first": "Valid Perfect Square", "second": "Super Pow"}
+{"first": "Decode Ways", "second": "Decode Ways II"}
+{"first": "Solve the Equation", "second": "Fraction Addition and Subtraction"}
+{"first": "Design Circular Queue", "second": "Design Circular Deque"}
+{"first": "Maximum Average Subarray I", "second": "Maximum Average Subarray II"}
+{"first": "Remove Boxes", "second": "Strange Printer"}
+{"first": "Beautiful Arrangement II", "second": "Beautiful Arrangement"}
+{"first": "Valid Palindrome II", "second": "Reverse Linked List II"}
+{"first": "Palindrome Linked List", "second": "Binary Tree Upside Down"}
+{"first": "Out of Boundary Paths", "second": "Knight Probability in Chessboard"}
+{"first": "Ransom Note", "second": "Stickers to Spell Word"}
+{"first": "Construct String from Binary Tree", "second": "LRU Cache", "third": "Serialize and Deserialize N-ary Tree"}
+{"first": "Design Compressed String Iterator", "second": "Serialize and Deserialize BST", "third": "Serialize and Deserialize Binary Tree"}
+{"first": "Count Binary Substrings", "second": "Construct Binary Tree from String", "third": "Encode N-ary Tree to Binary Tree"}
+{"first": "Encode and Decode Strings", "second": "Serialize and Deserialize N-ary Tree"}
+{"first": "Count and Say", "second": "Serialize and Deserialize N-ary Tree"}
+{"first": "Partition Equal Subset Sum", "second": "Partition to K Equal Sum Subsets"}
+{"first": "The Skyline Problem", "second": "Falling Squares"}
+{"first": "Binary Search", "second": "Search in a Sorted Array of Unknown Size"}
+{"first": "Design HashMap", "second": "Design HashSet"}
+{"first": "Random Pick Index", "second": "Random Pick with Blacklist"}
+{"first": "1-bit and 2-bit Characters", "second": "Gray Code"}
+{"first": "Perfect Number", "second": "Self Dividing Numbers"}
+{"first": "My Calendar I", "second": "My Calendar III"}
+{"first": "My Calendar II", "third": "My Calendar III"}
+{"first": "Monotone Increasing Digits", "second": "Create Maximum Number"}
+{"first": "Next Greater Element I", "second": "Next Greater Element II"}
+{"first": "Implement Magic Dictionary", "second": "Design Search Autocomplete System"}
+{"first": "Replace Words", "second": "Prefix and Suffix Search"}
+{"first": "Restore IP Addresses", "second": "Validate IP Address"}
+{"first": "IP to CIDR", "third": "Validate IP Address"}
+{"first": "Valid Parenthesis String", "second": "Special Binary String"}
+{"first": "Largest Plus Sign", "second": "Largest Rectangle in Histogram"}
+{"first": "Maximal Square", "second": "Maximal Rectangle"}
+{"first": "Valid Word Square", "second": "Word Squares"}
+{"first": "Toeplitz Matrix", "third": "Word Squares"}
+{"first": "Reorganize String", "second": "Rearrange String k Distance Apart"}
+{"first": "Task Scheduler", "third": "Rearrange String k Distance Apart"}
+{"first": "Max Chunks To Make Sorted", "second": "Max Chunks To Make Sorted II"}
+{"first": "Delete Node in a BST", "second": "Split BST"}
+{"first": "Search Insert Position", "second": "Can I Win", "third": "Find K-th Smallest Pair Distance"}
+{"first": "Guess Number Higher or Lower", "second": "Predict the Winner", "third": "Kth Smallest Number in Multiplication Table"}
+{"first": "Guess Number Higher or Lower II", "second": "Find K-th Smallest Pair Distance"}
+{"first": "Find K Pairs with Smallest Sums", "second": "Find K-th Smallest Pair Distance"}
+{"first": "Flip Game II", "second": "Find K-th Smallest Pair Distance"}
+{"first": "Cheapest Flights Within K Stops", "second": "Maximum Vacation Days"}
+{"first": "Valid Tic-Tac-Toe State", "second": "Design Tic-Tac-Toe"}
+{"first": "Rectangle Overlap", "second": "Rectangle Area"}
+{"first": "Peak Index in a Mountain Array", "second": "Find Peak Element"}
+{"first": "Exam Room", "second": "Maximize Distance to Closest Person"}
+{"first": "Koko Eating Bananas", "second": "Minimize Max Distance to Gas Station"}
+{"first": "Largest Perimeter Triangle", "second": "Largest Triangle Area"}
+{"first": "Distribute Coins in Binary Tree", "second": "Sum of Distances in Tree"}
+{"first": "Binary Tree Cameras", "third": "Sum of Distances in Tree"}
+{"first": "Word Search", "second": "Sudoku Solver"}
+{"first": "Minimum Path Sum", "second": "Word Search II"}
+{"first": "Valid Sudoku", "second": "Cherry Pickup"}
+{"first": "Unique Paths", "second": "Unique Paths III"}
+{"first": "Unique Paths II", "second": "Dungeon Game"}
+{"first": "Minimum Cost For Tickets", "second": "Coin Change"}
+{"first": "Subtree of Another Tree", "second": "Most Frequent Subtree Sum", "third": "Binary Tree Maximum Path Sum"}
+{"first": "Path Sum IV", "second": "Binary Tree Maximum Path Sum"}
+{"first": "Longest Univalue Path", "second": "Binary Tree Maximum Path Sum"}
+{"first": "Path Sum III", "second": "Binary Tree Maximum Path Sum"}
+{"first": "Sum Root to Leaf Numbers", "second": "Binary Tree Maximum Path Sum"}
+{"first": "Add Strings", "second": "Add Two Numbers II"}
+{"first": "Plus One", "second": "Sum of Two Integers"}
+{"first": "Add to Array-Form of Integer", "second": "Plus One Linked List"}
+{"first": "Add Binary", "second": "Multiply Strings"}
+{"first": "4 Keys Keyboard", "second": "Broken Calculator"}
+{"first": "2 Keys Keyboard", "third": "Broken Calculator"}
+{"first": "Bulb Switcher", "second": "Minimum Number of K Consecutive Bit Flips"}
+{"first": "Bulb Switcher II", "third": "Minimum Number of K Consecutive Bit Flips"}
+{"first": "Find the Town Judge", "second": "Find the Celebrity"}
+{"first": "Maximum Binary Tree", "second": "Maximum Binary Tree II"}
+{"first": "N-Queens", "second": "N-Queens II"}
+{"first": "Grid Illumination", "third": "N-Queens II"}
+{"first": "Is Subsequence", "second": "Number of Matching Subsequences"}
+{"first": "Shortest Way to Form String", "third": "Number of Matching Subsequences"}
+{"first": "Campus Bikes", "second": "Campus Bikes II"}
+{"first": "Factorial Trailing Zeroes", "second": "Preimage Size of Factorial Zeroes Function"}
+{"first": "Strobogrammatic Number", "second": "Strobogrammatic Number II", "third": "Strobogrammatic Number III"}
+{"first": "Confusing Number", "second": "Strobogrammatic Number II"}
+{"first": "Strobogrammatic Number II", "second": "Confusing Number II"}
+{"first": "Min Cost Climbing Stairs", "second": "Length of Longest Fibonacci Subsequence"}
+{"first": "Fibonacci Number", "second": "Split Array into Fibonacci Sequence"}
+{"first": "N-th Tribonacci Number", "second": "Additive Number"}
+{"first": "Majority Element", "second": "Majority Element II"}
+{"first": "Check If a Number Is Majority Element in a Sorted Array", "third": "Majority Element II"}
+{"first": "Minimum Cost to Connect Sticks", "second": "Burst Balloons"}
+{"first": "Minimum Cost to Merge Stones", "third": "Burst Balloons"}
+{"first": "Encode Number", "second": "Convert to Base -2"}
+{"first": "Lowest Common Ancestor of a Binary Tree", "second": "Smallest Common Region"}
+{"first": "Lowest Common Ancestor of a Binary Search Tree", "third": "Smallest Common Region"}
+{"first": "Balanced Binary Tree", "second": "Best Time to Buy and Sell Stock II", "third": "Number of Atoms"}
+{"first": "Group Anagrams", "second": "Number of Atoms"}
+{"first": "Remove Comments", "second": "Number of Atoms"}
+{"first": "Subarray Sum Equals K", "second": "Number of Atoms"}
+{"first": "Combinations", "second": "Number of Atoms"}
+{"first": "Power of Four", "second": "3Sum", "third": "Subarrays with K Different Integers"}
+{"first": "4Sum II", "second": "Subarrays with K Different Integers"}
+{"first": "Nested List Weight Sum", "second": "Subarrays with K Different Integers"}
+{"first": "Range Sum Query 2D - Immutable", "second": "Subarrays with K Different Integers"}
+{"first": "Minimum Size Subarray Sum", "second": "Subarrays with K Different Integers"}
+{"first": "Valid Parentheses", "second": "Inorder Successor in BST", "third": "Range Sum Query 2D - Mutable"}
+{"first": "Zigzag Iterator", "second": "Range Sum Query 2D - Mutable"}
+{"first": "Min Stack", "second": "Range Sum Query 2D - Mutable"}
+{"first": "Evaluate Reverse Polish Notation", "second": "Range Sum Query 2D - Mutable"}
+{"first": "Factor Combinations", "second": "Range Sum Query 2D - Mutable"}
+{"first": "Number of 1 Bits", "second": "Ternary Expression Parser", "third": "Minimum Unique Word Abbreviation"}
+{"first": "Employee Importance", "second": "Minimum Unique Word Abbreviation"}
+{"first": "Check If Word Is Valid After Substitutions", "second": "Minimum Unique Word Abbreviation"}
+{"first": "Different Ways to Add Parentheses", "second": "Minimum Unique Word Abbreviation"}
+{"first": "Nested List Weight Sum II", "second": "Minimum Unique Word Abbreviation"}
+{"first": "Reverse Bits", "second": "String to Integer (atoi)", "third": "Parse Lisp Expression"}
+{"first": "Brace Expansion", "second": "Parse Lisp Expression"}
+{"first": "Total Hamming Distance", "second": "Parse Lisp Expression"}
+{"first": "Mini Parser", "second": "Parse Lisp Expression"}
+{"first": "Paint Fence", "second": "Parse Lisp Expression"}
+{"first": "Hamming Distance", "second": "Two Sum BSTs", "third": "Trapping Rain Water II"}
+{"first": "Max Consecutive Ones III", "second": "Trapping Rain Water II"}
+{"first": "3Sum Closest", "second": "Trapping Rain Water II"}
+{"first": "Kth Smallest Element in a BST", "second": "Trapping Rain Water II"}
+{"first": "Subarray Product Less Than K", "second": "Trapping Rain Water II"}
+{"first": "Palindrome Permutation", "second": "Two Sum II - Input Array Is Sorted", "third": "Basic Calculator"}
+{"first": "Max Consecutive Ones II", "second": "Basic Calculator"}
+{"first": "Longest Substring with At Most Two Distinct Characters", "second": "Basic Calculator"}
+{"first": "Find All Anagrams in a String", "second": "Basic Calculator"}
+{"first": "Insert into a Binary Search Tree", "second": "Basic Calculator"}
+{"first": "Degree of an Array", "second": "Letter Combinations of a Phone Number", "third": "Closest Binary Search Tree Value II"}
+{"first": "Verify Preorder Sequence in Binary Search Tree", "second": "Closest Binary Search Tree Value II"}
+{"first": "Binary Search Tree Iterator", "second": "Closest Binary Search Tree Value II"}
+{"first": "Increasing Triplet Subsequence", "second": "Closest Binary Search Tree Value II"}
+{"first": "Product of Array Except Self", "second": "Closest Binary Search Tree Value II"}
+{"first": "Minimum Distance Between BST Nodes", "second": "Basic Calculator II", "third": "Edit Distance"}
+{"first": "Unique Binary Search Trees II", "second": "Edit Distance"}
+{"first": "Reverse Integer", "second": "Edit Distance"}
+{"first": "Number of Longest Increasing Subsequence", "second": "Edit Distance"}
+{"first": "3Sum Smaller", "second": "Edit Distance"}
+{"first": "Search in a Binary Search Tree", "second": "Longest Palindromic Substring", "third": "Permutation Sequence"}
+{"first": "Continuous Subarray Sum", "second": "Permutation Sequence"}
+{"first": "Container With Most Water", "second": "Permutation Sequence"}
+{"first": "House Robber", "second": "Permutation Sequence"}
+{"first": "Target Sum", "second": "Permutation Sequence"}
+{"first": "Power of Three", "second": "Ones and Zeroes", "third": "Trapping Rain Water"}
+{"first": "Range Sum Query - Mutable", "second": "Trapping Rain Water"}
+{"first": "Palindrome Permutation II", "second": "Trapping Rain Water"}
+{"first": "Group Shifted Strings", "second": "Trapping Rain Water"}
+{"first": "Palindromic Substrings", "second": "Trapping Rain Water"}
+{"first": "Best Time to Buy and Sell Stock", "second": "Longest Palindromic Subsequence", "third": "Maximum Sum of 3 Non-Overlapping Subarrays"}
+{"first": "House Robber III", "second": "Maximum Sum of 3 Non-Overlapping Subarrays"}
+{"first": "4Sum", "second": "Maximum Sum of 3 Non-Overlapping Subarrays"}
+{"first": "Peeking Iterator", "second": "Maximum Sum of 3 Non-Overlapping Subarrays"}
+{"first": "Combination Sum", "second": "Maximum Sum of 3 Non-Overlapping Subarrays"}
+{"first": "Two Sum III - Data structure design", "second": "Combination Sum III", "third": "Best Time to Buy and Sell Stock III"}
+{"first": "Maximum Length of Pair Chain", "second": "Best Time to Buy and Sell Stock III"}
+{"first": "Validate Binary Search Tree", "second": "Best Time to Buy and Sell Stock III"}
+{"first": "Best Time to Buy and Sell Stock with Transaction Fee", "second": "Best Time to Buy and Sell Stock III"}
+{"first": "Subsets II", "second": "Best Time to Buy and Sell Stock III"}
+{"first": "N-ary Tree Postorder Traversal", "second": "Repeated String Match", "third": "Substring with Concatenation of All Words"}
+{"first": "Maximum Size Subarray Sum Equals k", "second": "Substring with Concatenation of All Words"}
+{"first": "Delete Operation for Two Strings", "second": "Substring with Concatenation of All Words"}
+{"first": "Combination Sum IV", "second": "Substring with Concatenation of All Words"}
+{"first": "Contiguous Array", "second": "Substring with Concatenation of All Words"}
+{"first": "Maximum Depth of N-ary Tree", "second": "N-ary Tree Level Order Traversal", "third": "Encode String with Shortest Length"}
+{"first": "Maximum Subarray", "second": "Encode String with Shortest Length"}
+{"first": "Binary Tree Vertical Order Traversal", "second": "Encode String with Shortest Length"}
+{"first": "Delete and Earn", "second": "Encode String with Shortest Length"}
+{"first": "Best Time to Buy and Sell Stock with Cooldown", "second": "Encode String with Shortest Length"}
+{"first": "Binary Number with Alternating Bits", "second": "House Robber II", "third": "Count Different Palindromic Subsequences"}
+{"first": "Permutation in String", "second": "Count Different Palindromic Subsequences"}
+{"first": "Maximum Length of Repeated Subarray", "second": "Count Different Palindromic Subsequences"}
+{"first": "Binary Tree Level Order Traversal", "second": "Count Different Palindromic Subsequences"}
+{"first": "Longest Substring Without Repeating Characters", "second": "Count Different Palindromic Subsequences"}
+{"first": "Binary Tree Preorder Traversal", "second": "Subsets", "third": "Valid Number"}
+{"first": "Permutations", "second": "Valid Number"}
+{"first": "Inorder Successor in BST II", "second": "Valid Number"}
+{"first": "Letter Case Permutation", "second": "Valid Number"}
+{"first": "Longest Repeating Character Replacement", "second": "Valid Number"}
+{"first": "Maximum Depth of Binary Tree", "second": "Array Nesting", "third": "Minimum Window Subsequence"}
+{"first": "Paint House", "second": "Minimum Window Subsequence"}
+{"first": "Binary Tree Zigzag Level Order Traversal", "second": "Minimum Window Subsequence"}
+{"first": "Binary Tree Level Order Traversal II", "second": "Minimum Window Subsequence"}
+{"first": "Maximum Product Subarray", "second": "Minimum Window Subsequence"}
+{"first": "Closest Binary Search Tree Value", "second": "Longest Substring with At Most K Distinct Characters", "third": "Number of Squareful Arrays"}
+{"first": "Subarray Sums Divisible by K", "second": "Number of Squareful Arrays"}
+{"first": "Flatten 2D Vector", "second": "Number of Squareful Arrays"}
+{"first": "Subarray Sums Divisible by K", "second": "Longest Valid Parentheses"}
+{"first": "Flatten 2D Vector", "second": "Longest Valid Parentheses"}
+{"first": "Find the Index of the First Occurrence in a String", "second": "Count Complete Tree Nodes", "third": "Non-negative Integers without Consecutive Ones"}
+{"first": "Unique Binary Search Trees", "second": "Non-negative Integers without Consecutive Ones"}
+{"first": "Minimum ASCII Delete Sum for Two Strings", "second": "Non-negative Integers without Consecutive Ones"}
+{"first": "Unique Binary Search Trees", "second": "Coin Path"}
+{"first": "Minimum ASCII Delete Sum for Two Strings", "second": "Coin Path"}
+{"first": "Maximum Product of Three Numbers", "second": "Permutations II", "third": "Expression Add Operators"}
+{"first": "Uncrossed Lines", "second": "Expression Add Operators"}
+{"first": "Generalized Abbreviation", "second": "Expression Add Operators"}
+{"first": "Uncrossed Lines", "second": "Word Abbreviation"}
+{"first": "Generalized Abbreviation", "second": "Word Abbreviation"}
+{"first": "Max Consecutive Ones", "second": "Decode String", "third": "Remove Invalid Parentheses"}
+{"first": "One Edit Distance", "second": "Remove Invalid Parentheses"}
+{"first": "Unique Word Abbreviation", "second": "Remove Invalid Parentheses"}
+{"first": "One Edit Distance", "second": "Best Time to Buy and Sell Stock IV"}
+{"first": "Unique Word Abbreviation", "second": "Best Time to Buy and Sell Stock IV"}
+{"first": "Longest Continuous Increasing Subsequence", "second": "Next Permutation", "third": "Russian Doll Envelopes"}
+{"first": "Generate Parentheses", "second": "Russian Doll Envelopes"}
+{"first": "Convert Binary Search Tree to Sorted Doubly Linked List", "second": "Russian Doll Envelopes"}
+{"first": "Generate Parentheses", "second": "Max Stack"}
+{"first": "Convert Binary Search Tree to Sorted Doubly Linked List", "second": "Max Stack"}
+{"first": "Minimum Depth of Binary Tree", "second": "Longest Turbulent Subarray", "third": "Basic Calculator III"}
+{"first": "Longest Increasing Subsequence", "second": "Basic Calculator III"}
+{"first": "Non-decreasing Subsequences", "second": "Basic Calculator III"}
+{"first": "Longest Increasing Subsequence", "second": "Shortest Palindrome"}
+{"first": "Non-decreasing Subsequences", "second": "Shortest Palindrome"}
+{"first": "Single Number", "second": "K Closest Points to Origin", "third": "K-Similar Strings"}
+{"first": "Single Number III", "second": "K-Similar Strings"}
+{"first": "Asteroid Collision", "second": "K-Similar Strings"}
+{"first": "Wiggle Sort", "second": "K-Similar Strings"}
+{"first": "Shortest Word Distance II", "second": "K-Similar Strings"}
+{"first": "Ugly Number", "second": "Sort Transformed Array", "third": "Tag Validator"}
+{"first": "Sort List", "second": "Tag Validator"}
+{"first": "Sort Characters By Frequency", "second": "Tag Validator"}
+{"first": "Insert into a Sorted Circular Linked List", "second": "Tag Validator"}
+{"first": "Top K Frequent Elements", "second": "Tag Validator"}
+{"first": "Add Digits", "second": "Insertion Sort List", "third": "Employee Free Time"}
+{"first": "Shortest Word Distance III", "second": "Employee Free Time"}
+{"first": "Find All Duplicates in an Array", "second": "Employee Free Time"}
+{"first": "Add Bold Tag in String", "second": "Employee Free Time"}
+{"first": "Single Number II", "second": "Employee Free Time"}
+{"first": "Linked List Cycle", "second": "Perfect Squares", "third": "Couples Holding Hands"}
+{"first": "Top K Frequent Words", "second": "Couples Holding Hands"}
+{"first": "Dota2 Senate", "second": "Couples Holding Hands"}
+{"first": "Partition Labels", "second": "Couples Holding Hands"}
+{"first": "Merge Intervals", "second": "Couples Holding Hands"}
+{"first": "Third Maximum Number", "second": "Linked List Cycle II", "third": "First Missing Positive"}
+{"first": "Minimum Number of Arrows to Burst Balloons", "second": "First Missing Positive"}
+{"first": "Insert Interval", "second": "First Missing Positive"}
+{"first": "Wiggle Sort II", "second": "First Missing Positive"}
+{"first": "Split Array into Consecutive Subsequences", "second": "First Missing Positive"}
+{"first": "Happy Number", "second": "Non-overlapping Intervals", "third": "Merge k Sorted Lists"}
+{"first": "Count Primes", "second": "Merge k Sorted Lists"}
+{"first": "Sort Colors", "second": "Merge k Sorted Lists"}
+{"first": "Interval List Intersections", "second": "Merge k Sorted Lists"}
+{"first": "Car Pooling", "second": "Merge k Sorted Lists"}
+{"first": "Missing Number", "second": "Ugly Number II"}
+{"first": "Can Place Flowers", "second": "Super Ugly Number"}
+{"first": "Minimum Height Trees", "second": "Alien Dictionary"}
+{"first": "Number of Islands", "second": "Shortest Distance from All Buildings"}
+{"first": "Minimum Moves to Equal Array Elements II", "second": "Best Meeting Point"}
+{"first": "Course Schedule II", "second": "Course Schedule III"}
+{"first": "Number of Distinct Islands", "second": "Redundant Connection II"}
+{"first": "Number of Provinces", "second": "Number of Distinct Islands II"}
